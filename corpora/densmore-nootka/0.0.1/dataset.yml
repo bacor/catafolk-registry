@@ -1,0 +1,88 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: densmore-nootka
+group_ids: [densmore]
+
+# Publication status (draft/beta/alpha/published)
+status: beta
+
+# Title of the dataset
+title: Densmore's Nootka and Quileute music
+
+# A URL to the dataset's webpage
+url: https://github.com/shanahdt/densmore/tree/master/Densmore/nootka
+
+# A full text description
+description: >
+  A collection of folksongs from several First Nations. The songs 
+  were collected by Frances Densmore in 1923 and 1926 and published 
+  in her 1949 *Nootka and Quileute Music*. Digital encoding by 
+  Daniel and Eva Shanahan.
+
+# Authors and contributors
+authors: 
+  - name: Frances Densmore
+    role: author
+  - name: Daniel Shanahan
+    role: encoder
+    url: https://music.osu.edu/people/shanahan.37
+  - name: Eva Shanahan
+    role: encoder
+contributors:
+  - name: Bas Cornelissen
+    role: additional metadata
+    url: https://bascornelissen.nl
+
+# List of tags
+tags: [symbolic]
+formats: [kern] 
+num_entries: 131
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: [densmore1939nootka]
+dataset_citation_keys: [shanahan2014]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: [culture]
+hide_columns: [location]
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Copyright?
+    description: There is no copyright/license.
+  - title: Songs missing
+    description: >
+      Not all songs seem to have been encoded: Densmore lists 210 
+      songs, of which 133 have been encoded.
+  - title: Publication preview urls are wrong
+    description: >
+      HathiTrust uses a 'page scan sequence' number in the url. We 
+      compute this by adding some number to the page number, but 
+      it seems that this doesn't always work... Is there another
+      query param that we can use to select the page?
