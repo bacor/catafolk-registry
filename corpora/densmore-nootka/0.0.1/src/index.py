@@ -1,12 +1,12 @@
 import re
 from pathlib import Path
 from catafolk.configuration import Configuration
-from catafolk.index import Entry, Index
+from catafolk.index import IndexEntry, Index
 from catafolk.sources import CSVSource, FileSource
 import json
 
 
-class DensmoreNootkaEntry(Entry):
+class DensmoreNootkaEntry(IndexEntry):
 
     source_names = ["meta", "file"]
 
@@ -20,7 +20,7 @@ class DensmoreNootkaEntry(Entry):
         collectors="Frances Densmore",
         collection_date_earliest=1923,
         collection_date_latest=1926,
-        encoders="Daniel Shanahan|Eva Shanahan",
+        encoders=["Daniel Shanahan", "Eva Shanahan"],
         encoding_date="2014",
         copyright="Copyright 2014 Daniel and Eva Shanahan",
         location="Neah Bay, Washington, U.S.A",
@@ -82,15 +82,14 @@ class DensmoreNootkaEntry(Entry):
         if type(superfunction) == str:
             return superfunction
         else:
-            return "|".join(sorted(set(superfunction)))
+            return sorted(set(superfunction))
 
     def get_other_fields(self):
-        obj = dict(
+        return dict(
             language_type=self.get_from_source("file", "LANG"),
             language_family=self.get_from_source("file", "LING_GROUP"),
             social_function=self.get_from_source("file", "SOCIAL_FUNCTION"),
         )
-        return json.dumps(obj)
 
 
 def generate_index(data_dir):
@@ -106,7 +105,7 @@ def generate_index(data_dir):
         )
         entry = DensmoreNootkaEntry(entry_id, sources)
         index.add_entry(entry)
-    index.export(corpus_dir / "index.csv")
+    index.export_csv(corpus_dir / "index.csv")
 
 
 if __name__ == "__main__":
