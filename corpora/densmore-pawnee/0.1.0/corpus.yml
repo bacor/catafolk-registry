@@ -1,0 +1,24 @@
+dataset_id: densmore-pawnee
+analyzed: true
+title: 
+dataset_url: http://kern.ccarh.org/cgi-bin/ksbrowse?type=collection&s=pawnee
+authors: 
+    - name: Frances Densmore
+      role: author
+    - name: David Huron
+      role: digitization    
+tags: [symbolic]
+formats: [kern]
+files: 86
+notes: 
+duration: 
+copyright: Copyright 2000 David Huron
+licence_abbr: unknown
+version: 1.0
+description: >
+  A collection of 86 Pawnee folk songs collected by Frances Densmore and digitized by David Huron.
+issues:
+  - title: Missing metadata
+    description: >
+      There are several metadata fields not included: the warnings
+      (`RWG`) for example should be added.

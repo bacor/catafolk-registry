@@ -1,0 +1,61 @@
+{
+    "dataset_id": "densmore-pawnee",
+    "sources": [{
+        "name": "file",
+        "type": "file",
+        "file_pattern": "data/*.krn"
+    }],
+    "transformations": [
+        ["rename", "file.cf_checksum", "checksum"],
+        ["rename", "file.cf_path", "path"],
+        ["rename", "file.cf_format", "format"],
+        ["constant", "dataset_id", "densmore-pawnee"],
+        ["constant", "has_music", true],
+        ["constant", "has_lyrics", false],
+        ["constant", "source_key", "densmore1929pawnee"],
+
+        ["rename", "file.OTL", "title"],
+        ["rename", "file.MLC", "location"],
+        ["rename", "file.ODT", "collection_date"],
+        ["rename", "file.MPN", "performer"],
+        ["rename", "file.AST", "genre"],
+        ["rename", "file.AMT", "metric_classification"],
+        ["rename", "file.CNT", "culture"],
+        ["rename", "file.OCL", "collector"],
+        ["rename", "file.ENC", "encoder"],
+        ["rename", "file.RDT", "encoding_date"],
+        ["rename", "file.YEC", "copyright"],
+        ["rename", "file.URL", "url"],
+
+        [
+            "format", "path", "preview_url", 
+            {"pattern": "https://verovio.humdrum.org/?file=osu/densmore/pawnee/{}"}
+        ],
+        [
+            "format", "path", "url", 
+            {"pattern": "https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file={}&format=kern"}
+        ],
+        [
+            "format", "source_page_num", "source_url", 
+            {"pattern": "https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA{}"}
+        ],
+
+        [
+            "extract_groups", "file.EEV", "version", {
+                "pattern": "Release ([\\d\\.]+)",
+                "groups": [1]
+            }
+        ],
+
+        ["join", "file.YOR", "source", {"sep": ", "}],
+        {
+            "operation": "extract_groups",
+            "inputs": ["source"],
+            "outputs": ["source_page_num", "source_song_num"],
+            "params": {
+                "pattern": ".*Bulletin 93, page (\\d+), No\\. (\\d+)",
+                "groups": [1, 2]
+            }
+        }
+    ]
+}
