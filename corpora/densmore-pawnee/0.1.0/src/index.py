@@ -23,43 +23,43 @@ class DensmorePawneeEntry(IndexEntry):
     )
 
     mappings = dict(
-        checksum = ("file", "cf_checksum"),
-        path=("file", 'cf_path'),
-        format=('file', 'cf_format'),
-        title=('file', 'OTL'),
-        location=('file', 'MLC'),
-        collection_date=('file', 'ODT'),
-        performers=('file', 'MPN'),
-        genre=('file', 'AST'),
-        meter=('file', 'AMT'),
-        culture=('file', 'CNT'),
-        collectors=('file', 'OCL'),
-        encoders=('file', 'ENC'),
-        encoding_date=('file', 'RDT'),
-        copyright=('file', 'YEC'),
+        checksum=("file", "cf_checksum"),
+        path=("file", "cf_path"),
+        format=("file", "cf_format"),
+        title=("file", "OTL"),
+        location=("file", "MLC"),
+        collection_date=("file", "ODT"),
+        performers=("file", "MPN"),
+        genre=("file", "AST"),
+        meter=("file", "AMT"),
+        culture=("file", "CNT"),
+        collectors=("file", "OCL"),
+        encoders=("file", "ENC"),
+        encoding_date=("file", "RDT"),
+        copyright=("file", "YEC"),
     )
 
     def get_preview_url(self):
-        path = self.get('path')
+        path = self.get("path")
         return f"https://verovio.humdrum.org/?file=osu/densmore/pawnee/{path}"
 
     def get_publication_preview_url(self):
         page_num = self.get("publication_page_num")
-        return f'https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA{page_num}'
+        return f"https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA{page_num}"
 
     def get_version(self):
-        eev = self.get_from_source('file', 'EEV')
-        groups = re.match('Release ([\\d\\.]+)', eev)
+        eev = self.get_from_source("file", "EEV")
+        groups = re.match("Release ([\\d\\.]+)", eev)
         return groups[1]
-    
+
     def get_publication_page_num(self):
-        yor = ", ".join(self.get_from_source('file', 'YOR'))
-        matches = re.match('.*Bulletin 93, page (\\d+), No\\. (\\d+)', yor)
+        yor = ", ".join(self.get_from_source("file", "YOR"))
+        matches = re.match(".*Bulletin 93, page (\\d+), No\\. (\\d+)", yor)
         return matches[1]
 
     def get_publication_song_num(self):
-        yor = ", ".join(self.get_from_source('file', 'YOR'))
-        matches = re.match('.*Bulletin 93, page (\\d+), No\\. (\\d+)', yor)
+        yor = ", ".join(self.get_from_source("file", "YOR"))
+        matches = re.match(".*Bulletin 93, page (\\d+), No\\. (\\d+)", yor)
         return matches[2]
 
 
