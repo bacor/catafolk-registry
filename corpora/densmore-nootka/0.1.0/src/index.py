@@ -46,7 +46,7 @@ class DensmoreNootkaEntry(IndexEntry):
         publication_page_num=("meta", "page_num"),
     )
 
-    def file_url(self):
+    def get_file_url(self):
         filename = self.get("filename")
         return f"https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/{filename}.krn"
 
@@ -110,5 +110,5 @@ def generate_index(data_dir):
 
 if __name__ == "__main__":
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / "densmore-nootka" / "0.0.1"
+    data_dir = Path(config.get("data_dir")) / "densmore-nootka" / "0.1.0"
     generate_index(data_dir)
