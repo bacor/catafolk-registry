@@ -1,0 +1,92 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: boehme-volksthumliche-lieder
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [essen]
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Volksthümliche Lieder der Deutschen
+
+# A URL to the dataset's webpage
+url: https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl/boehme
+
+# A full text description
+description: >
+  A collection of 704 German folk songs published by Franz Böhme in 1895. 
+  The songs were encoded by Helmuth Schaffrath as part of the Essen 
+  Folksong Collection.
+
+# Authors and contributors
+authors: 
+  - name: Franz Böhme
+    role: Author
+  - name: Helmuth Schaffrath
+    role: encoder
+
+# List of tags
+tags: [symbolic, phrases, genres]
+formats: [kern] 
+num_entries: 704
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright: Copyright 1995, estate of Helmut Schaffrath.
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: [boehme1895volksthumliche]
+dataset_citation_keys: [schaffrath1995]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: 1.0
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Wrong titles
+    description: >
+      The titles do not correspond to the titles used by Böhme.
+      Instead, they are textual incipits as you can see on 
+      [this online scan](https://archive.org/details/BoehmeVtLieder1895).
+  - title: Missing page numbers
+    description: >
+      There are no page numbers in the source files. We do have song 
+      numbers, which can be derived from the catalogue numbers. 
+  - title: Bibliographic references in comments?
+    description: >
+      There are some pointers to the sources in the comments, 
+      ideally one would somehow use those sources, or perhaps
+      only the collection date?
+  - title: Mixed meters
+    description: >
+      Sometimes mixed meters are indicated in the comments. Is
+      it useful to add this?
+  - title: Genres correct?
+    description: >
+      Are the genres indeed correct? All of them have genre 
+      `romance`?
