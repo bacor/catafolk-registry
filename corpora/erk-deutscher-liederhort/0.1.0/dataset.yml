@@ -1,0 +1,108 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: erk-deutscher-liederhort
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [essen]
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Deutscher Liederhort
+
+# A URL to the dataset's webpage
+url: https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl/erk
+
+# A full text description
+description: >
+  The *Deutscher Liederhort* is a collection of 1700 German folk 
+  songs. The songs were originally collected by Ludwig Erk and 
+  later edited by Franz Magnus Böhme. Helmuth Schaffrath digitized
+  the songs.
+
+# Authors and contributors
+authors: 
+  - name: Ludwig Erk
+    role: collector
+  - name: Franz Magnus Böhme
+    role: editor
+  - name: Helmuth Schaffrath
+    role: encoding
+contributors:
+  - name: David Huron
+    role: "**kern conversion"
+
+# List of tags
+tags: [symbolic, phrases, genres]
+formats: [kern] 
+num_entries: 1701
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright: Copyright 1995, estate of Helmut Schaffrath.
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys:
+  - erk1893liederhort1
+  - erk1893liederhort2
+  - erk1893liederhort3
+dataset_citation_keys: [schaffrath1995]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-18
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: 1.0
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: [location]
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Unknown sources
+    description: >
+      The last songs in this collection have a different catalogue 
+      number and indeed do not appear to be in Erk & Böhme volumes. 
+      From `deut2243.krn` onwards, catalogue numbers are of the 
+      form `L0035A`
+  - title: Different titles
+    description: >
+      The titles are actually incipits. The Erk & Böhme volumes 
+      use different titles, as you can see in the scans;
+      [volume 1](https://babel.hathitrust.org/cgi/pt?id=uc1.l0063460471),
+      [volume 2](https://babel.hathitrust.org/cgi/pt?id=uc1.b4134294) and
+      [volume 3](https://babel.hathitrust.org/cgi/pt?id=njp.32101064313123)
+  - title: Collection dates
+    description: >
+      Erk dates are used as earliest and latest collection dates.
+      Can this be narrowed down?
+  - title: Geocoding
+    description: >
+      Locations have to be geocoded
+  - title: Absolute pitch height unreliable
+    description: >
+      Citing the README, "In summary, although the relative pitch 
+      information and tonic is accurate, the absolute pitch-height
+      information is unreliable in this database."
+  - title: minor/major mode unreliable
+    description: >
+      Citing the README: "In summary, major/minor designations in
+      this database are unreliable."
