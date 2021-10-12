@@ -1,0 +1,321 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: pinck-verklingende-weisen
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [sagrillo]
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Pinck's Verklingende Weisen
+
+# A URL to the dataset's webpage
+url: http://kern.ccarh.org/cgi-bin/ksbrowse?l=/users/sagrillo/lorraine
+
+# A full text description
+description: >
+  A collection of 326 folk songs from the Lorraine, published by 
+  Louis Pick between 1926 and 1939. The songs were encoded by
+  Damien Sagrillo.
+
+# Authors and contributors
+authors:
+  - name: Louis Pinck
+    role: author
+  - name: Damien Sagrillo
+    role: digitization
+
+# List of tags
+tags: [symbolic, genres]
+formats: [kern]
+num_entries: 326
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright: unknown
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: 
+  - pinck1926verklingende1
+  - pinck1928verklingende2
+  - pinck1933verklingende3
+  - pinck1939verklingende4
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+    file_options:
+      encoding: ISO-8859-1
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, pinck-verklingende-weisen]
+  # Filter out the ??? and yyy from file.fkt
+  - operations: 
+      - unescape_html
+      - replace
+      - replace
+      - replace
+      - split
+      - strip
+      - map_values
+      - drop_none
+      - unique
+      - to_string_list
+    inputs: [file.fkt]
+    outputs: [genres]
+    params:
+      - 
+      - old: "(yyy|\\?\\?\\??),? ?"
+        new: ""
+      - old: "\\?"
+        new: ""
+      - old: "/"
+        new: ","
+      - sep: ','
+      - 
+      - return_missing: false
+        mapping_path: sagrillo-luxembourg/genre-mapping.yml
+      - 
+      - 
+      - 
+  - to_json_object:
+      inputs: 
+        - file.minrhy
+        - file.meters
+        - file.rhy1
+        - file.rhy2
+        - file.key
+        - file.kad
+        - file.akz
+        - file.fot
+        - file.for
+        - file.fok
+        - file.n7k
+      outputs: [other_fields]
+      params:
+        keys: [minrhy, meters, rhy1, rhy2, key, kad, akz, fot, for, fok, n7k]
+  - join: [_comments, comments, {sep: '|'}]
+  # other_fields
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format:
+    - id
+    - file_url
+    - pattern: "http://verovio.humdrum.org/?file=sagrillo/lorraine/{}.krn"
+  - format:
+    - id
+    - file_preview_url
+    - pattern: "https://kern.humdrum.org/cgi-bin/ksdata?file={}.krn&l=users/sagrillo/lorraine&format=kern"
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  # collectors
+  # collection_date 
+  # collection_date_earliest
+  # collection_date_latest
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  # culture
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Damien Sagrillo]
+  # encoding_date
+  # copyright
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.reg, location]
+  # latitude
+  # longitude
+  #- constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  # title
+  # title_translation
+  # language
+  # glottolog_id
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  # tonality
+  # scale
+  # ambitus
+  # tempo
+  # metric_classification
+  # beat_duration
+  # tune_family_id
+  - operations: [extract_groups, lowercase]
+    inputs: [file.mod]
+    outputs: [scale_de, ambitus]
+    params: 
+      - pattern: "([^\\]\\?]+) ?\\??\\] +AMBITUS\\[(\\w+)"
+        groups: [1, 2]
+      - {}
+  - extract_groups:
+    - file.key
+    - [tonality, meters_de]
+    - pattern: "(\\w+) +(\\d+) +([\\w\\#]+) ([ \\w\/]+) ?\\] +ZZ\\[(\\d+)"
+      groups: [3, 4]
+  - operations: [strip, replace, map_values]
+    inputs: [meters_de]
+    outputs: [meters]
+    params:
+      -
+      - old: " "
+        new: "|"
+      - mapping:
+          FREI: free
+        return_missing: true
+  - map_values:
+    - scale_de
+    - scale
+    - mapping_path: sagrillo-luxembourg/scales-mapping.yml
+      return_missing: true
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  # voice_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  # publication_key
+  # publication_song_num
+  # publication_page_num
+  # publication_preview_url
+  # catalogue_number
+  # publication_type
+  # publication_title
+  # publication_authors
+  # publication_date
+  - map_values:
+      - file.trd
+      - publication_key
+      - mapping:
+          "PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928": pinck1926verklingende1
+          "PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928": "pinck1928verklingende2"
+          "PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933": "pinck1933verklingende3"
+          "PINCK, Louis: Verklingende Weisen Bd 4, Kassel 1939": "pinck1939verklingende4"
+  # https://regex101.com/r/Gbcyat/4
+  - join: [[file.cut, file.cut1, file.cut2], title_raw, {sep: ' '}]
+  - extract_groups:
+      - title_raw
+      - [title_html, publication_song_num, publication_page_num]
+      - pattern: ^(([^\\(]|(\(\?\)))+)(\(Band \d\))?(\(\d+-(\d+)\))?(,? S. ?(\d+))?
+        groups: [1, 6, 8]
+  - rename: [title_raw, collectors]
+  - [[unescape_html, strip], title_html, title]
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  
+
+corrections: {
+  "p0566": {
+      "title": "Der Fisch(?) Concelebrant",
+      "source_song_num": "4-5",
+      "source_page_num": "7"
+  },
+  "p1032": {
+      "title": "Ach, Schatz, jetzt mu&szlig; ich wandern",
+      "source_song_num": "3-59",
+      "source_page_num": "170"
+  },
+  "p0573": {
+      "source_song_num": "4-12"
+  },
+  "p0574": {
+      "title": "Ich wine wei&szlig;e Spinnerin"
+  },
+  "p0575": {
+      "source_song_num": "4-14",
+      "source_page_num": "19"
+  },
+  "p0580|p0577":{
+      "source_key": "pinck1939verklingende4"
+  },
+  "p0588": {
+      "title": "Runckelstube",
+      "source_song_num": "4-27",
+      "source_page_num": "39"
+  },
+  "p0810": {
+      "title": "Ich ging einmal spazieren",
+      "source_page_num": "113"
+  },
+  "p0965": {
+      "title": "Spinn, Spinn",
+      "source_song_num": "2-94",
+      "source_page_num": "275"
+  }
+}
