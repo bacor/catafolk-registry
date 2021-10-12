@@ -7,6 +7,7 @@ from catafolk.sources import CSVSource, FileSource
 CORPUS_ID = "densmore-nootka"
 VERSION = "0.0.1"
 
+
 class DensmoreNootkaEntry(IndexEntry):
 
     source_names = ["meta", "file"]

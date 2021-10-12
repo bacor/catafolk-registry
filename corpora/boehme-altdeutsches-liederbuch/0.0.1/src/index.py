@@ -7,6 +7,7 @@ from catafolk.corpora import EssenEntry
 CORPUS_ID = "boehme-altdeutsches-liederbuch"
 VERSION = "0.0.1"
 
+
 class BoehmeAltdeutschEntry(EssenEntry):
 
     constants = dict(

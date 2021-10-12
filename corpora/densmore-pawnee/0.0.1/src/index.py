@@ -7,6 +7,7 @@ from catafolk.sources import CSVSource, FileSource
 CORPUS_ID = "densmore-pawnee"
 VERSION = "0.0.1"
 
+
 class DensmorePawneeEntry(IndexEntry):
 
     source_names = ["file"]

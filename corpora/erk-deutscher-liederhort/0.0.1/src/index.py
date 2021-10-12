@@ -7,6 +7,7 @@ from catafolk.sources import FileSource
 CORPUS_ID = "erk-deutscher-liederhort"
 VERSION = "0.0.1"
 
+
 class ErkDeutscherLiederhorstEntry(EssenEntry):
 
     constants = dict(
