@@ -5,7 +5,7 @@ from catafolk.corpora import EssenEntry
 from catafolk.sources import FileSource
 
 CORPUS_ID = "boehme-volksthumliche-lieder"
-VERSION = "0.1.0"
+VERSION = "0.0.1"
 
 
 class BoehmeVolksthumlicheLiederEntry(EssenEntry):

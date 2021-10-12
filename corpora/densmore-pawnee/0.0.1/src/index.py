@@ -4,6 +4,8 @@ from catafolk.configuration import Configuration
 from catafolk.index import IndexEntry, Index
 from catafolk.sources import CSVSource, FileSource
 
+CORPUS_ID = "densmore-pawnee"
+VERSION = "0.0.1"
 
 class DensmorePawneeEntry(IndexEntry):
 
@@ -12,7 +14,7 @@ class DensmorePawneeEntry(IndexEntry):
     default_source = "file"
 
     constants = dict(
-        dataset_id="densmore-pawnee",
+        dataset_id=CORPUS_ID,
         file_has_music=True,
         file_has_lyrics=False,
         file_has_license=False,
@@ -78,5 +80,5 @@ def generate_index(data_dir):
 
 if __name__ == "__main__":
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / "densmore-pawnee" / "0.1.0"
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
     generate_index(data_dir)

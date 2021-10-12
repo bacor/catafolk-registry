@@ -4,11 +4,13 @@ from catafolk.index import Index
 from catafolk.corpora import EssenEntry
 from catafolk.sources import FileSource
 
+CORPUS_ID = "erk-deutscher-liederhort"
+VERSION = "0.0.1"
 
 class ErkDeutscherLiederhorstEntry(EssenEntry):
 
     constants = dict(
-        dataset_id="erk-deutscher-liederhort",
+        dataset_id=CORPUS_ID,
         file_has_music=True,
         file_has_lyrics=False,
         file_has_license=False,
@@ -61,7 +63,7 @@ class ErkDeutscherLiederhorstEntry(EssenEntry):
 
 def generate_index():
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / "erk-deutscher-liederhort" / "0.1.0"
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
 
     index = Index()
     paths = data_dir.glob("data/*.krn")

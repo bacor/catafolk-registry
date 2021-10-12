@@ -4,11 +4,13 @@ from catafolk.index import Index
 from catafolk.sources import FileSource
 from catafolk.corpora import EssenEntry
 
+CORPUS_ID = "boehme-altdeutsches-liederbuch"
+VERSION = "0.0.1"
 
 class BoehmeAltdeutschEntry(EssenEntry):
 
     constants = dict(
-        dataset_id="boehme-altdeutsches-liederbuch",
+        dataset_id=CORPUS_ID,
         file_has_music=True,
         file_has_lyrics=False,
         file_has_license=False,
@@ -33,7 +35,7 @@ class BoehmeAltdeutschEntry(EssenEntry):
 
 def generate_index():
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / "boehme-altdeutsches-liederbuch" / "0.1.0"
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
     index = Index()
     paths = data_dir.glob("data/*.krn")
     for path in paths:

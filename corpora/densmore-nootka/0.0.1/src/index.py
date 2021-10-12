@@ -3,8 +3,9 @@ from pathlib import Path
 from catafolk.configuration import Configuration
 from catafolk.index import IndexEntry, Index
 from catafolk.sources import CSVSource, FileSource
-import json
 
+CORPUS_ID = "densmore-nootka"
+VERSION = "0.0.1"
 
 class DensmoreNootkaEntry(IndexEntry):
 
@@ -13,7 +14,7 @@ class DensmoreNootkaEntry(IndexEntry):
     default_source = "meta"
 
     constants = dict(
-        dataset_id="densmore-nootka",
+        dataset_id=CORPUS_ID,
         file_has_music=True,
         file_has_lyrics=True,
         file_has_license=False,
@@ -110,5 +111,5 @@ def generate_index(data_dir):
 
 if __name__ == "__main__":
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / "densmore-nootka" / "0.1.0"
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
     generate_index(data_dir)
