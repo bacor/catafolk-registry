@@ -4,6 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: finnish-folk-tunes
+version: 0.0.0
 
 # List of groups dataset belongs (see groups.yml) Optional.
 # group_ids: []
@@ -91,7 +92,7 @@ dataset_retrieval_date: 2020-04-18
 
 # The version of the dataset. If the dataset has no version, 
 # plese ensure version = unknown
-version: 
+corpus_own_version: 
 
 # Columns to show/hide on the catafolk website. This overrides 
 # default options

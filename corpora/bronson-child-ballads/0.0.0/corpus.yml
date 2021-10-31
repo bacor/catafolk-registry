@@ -1,4 +1,5 @@
 dataset_id: bronson-child-ballads
+version: 0.0.0
 analyzed: true
 title: Child Ballads
 dataset_url: http://kern.ccarh.org/cgi-bin/ksbrowse?l=/osu/monophony/british
@@ -17,7 +18,7 @@ duration:
 copyright: Unknown
 licence_abbr: Unknown
 license_url: 
-version: Unknown
+corpus_own_version: Unknown
 description: >
   The Child Ballads are traditional ballads from England and Scotland, collected by Francis Child in the 19th century.
   This collection is a subset of the first 53 tunes, collected and 

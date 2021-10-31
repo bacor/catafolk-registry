@@ -4,6 +4,8 @@
 
 # Unique id of the dataset
 dataset_id: densmore-nootka
+version: 0.0.1
+
 group_ids: [densmore]
 
 # Publication status (draft/beta/alpha/published)
@@ -64,7 +66,7 @@ dataset_retrieval_date: 2020-04-01
 
 # The version of the dataset. If the dataset has no version, 
 # plese ensure version = unknown
-version: unknown
+corpus_own_version: unknown
 
 # Columns to show/hide on the catafolk website. This overrides 
 # default options

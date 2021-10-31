@@ -4,6 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: erk-deutscher-liederhort
+version: 0.0.1
 
 # List of groups dataset belongs (see groups.yml) Optional.
 group_ids: [essen]
@@ -67,7 +68,7 @@ dataset_retrieval_date: 2020-04-18
 
 # The version of the dataset. If the dataset has no version, 
 # plese ensure version = unknown
-version: 1.0
+corpus_own_version: 1.0
 
 # Columns to show/hide on the catafolk website. This overrides 
 # default options
