@@ -1,0 +1,201 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: essen-china-natmin
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [essen]
+
+# Publication status (draft/beta/alpha/published)
+status: draft
+
+# Title of the dataset
+title: Essen Natmin
+
+# A URL to the dataset's webpage
+url: https://kern.humdrum.org/cgi-bin/browse?l=/essen/asia/china/natmin
+
+# A full text description
+description: 
+
+# Authors and contributors
+authors: 
+  - name: Helmuth Schaffrath
+    role: editor
+
+# List of tags
+tags: [symbolic, phrases]
+formats: [kern] 
+num_entries: 206
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+  
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: []
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: 
+    description: 
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+    file_options:
+      encoding: ISO-8859-1
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, essen-china-natmin]
+  - rename: [file.AGN, genre]
+  - to_string_list: [file._comments, comments_with_ethnicity]
+  # other_fields
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format:
+    - id
+    - file_url
+    - pattern: "https://verovio.humdrum.org/?file=essen/asia/china/natmin/{}.krn"
+  - format:
+    - id 
+    - file_preview_url
+    - pattern: "https://kern.humdrum.org/cgi-bin/ksdata?file={}.krn&l=essen/asia/china/natmin&format=kern"
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  # collectors
+  # collection_date 
+  # collection_date_earliest
+  # collection_date_latest
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - extract_groups:
+    - comments_with_ethnicity
+    - [culture]
+    - pattern: ".*Ethnic Group: ([^\\|]+)"
+      groups: [1]
+  - replace:
+    - comments_with_ethnicity
+    - comments
+    - old: "Ethnic Group: ([^\\|]+)\\|?"
+      new: ""
+      regex: true
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.EED, encoders]
+  - rename: [file.EEV, version]
+  # encoding_date
+  # copyright
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.ARE, location]
+  # latitude
+  # longitude
+  #- constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.OTL, title]
+  # title_translation
+  # language
+  # glottolog_id
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  # tonality
+  # scale
+  # ambitus
+  # tempo
+  # meters
+  # beat_duration
+  - rename: [file.AMT, metric_classification]
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  # voice_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  # publication_key
+  # publication_song_num
+  # publication_page_num
+  # publication_preview_url
+  # catalogue_number
+  # publication_type
+  # publication_title
+  # publication_authors
+  # publication_date
+  - rename: [file.SCT, catalogue_num]
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

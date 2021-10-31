@@ -1,0 +1,242 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: natural-history-of-song
+
+# List of groups dataset belongs (see groups.yml) Optional.
+# group_ids: []
+
+# Publication status (draft/beta/alpha/published)
+status: draft
+
+# Title of the dataset
+title: The Natural History of Song Discography
+
+# A URL to the dataset's webpage
+url: https://osf.io/5x3qv/
+
+# A full text description
+description: >
+  "NHS Discography contains transcriptions and analyses of 118 field 
+  recordings from the 30 world regions covered in NHS Ethnography. 
+  [...] We selected recordings by reviewing published collections of 
+  world music, digitizing out-of-print recordings, and contacting 
+  anthropologists and ethnomusicologists to obtain unpublished field
+  recordings. Each song was transcribed into music notation."
+# Authors and contributors
+contributors:
+  - name: Samuel Mehr
+  - name: Manvir Singh
+  - name: Dean Knox
+  - name: Christopher Lucas
+  - name: Nori Jacoby
+  - name: Timothy J. O'Donnell
+  - name: Luke Glowacki
+  - name: Max Krasnow
+  - name: Steven Pinker
+  - name: Daniel Pickens-Jones
+  - name: Daniel Ketter
+  - name: S. Atwood
+  - name: Alena Egner
+  - name: Erin J. Hopkins
+  - name: Rhea M. Howard 
+  - name: Joshua Hartshorne
+  - name: Mariela Jenning
+  - name: Jan Simson
+  - name: Constance Bainbridge 
+
+# List of tags
+tags: [symbolic,transcriptions]
+formats: [xml,pdf,sibelius]
+num_entries: 118
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  name: Creative Commons Attribution-NonCommercial-ShareAlike 
+    4.0 International
+  abbreviation: CC BY-NC-SA 4.0
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: []
+dataset_citation_keys: [natural-history-of-song]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2019-10-24
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: [location]
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Ignored metadata
+    description: >
+      This collection has an enormous amount of metadata, most of 
+      which is currently ignored.
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/Transcriptions/xml_raw/*.xml
+  - name: meta
+    type: csv
+    path: data/Datasets/NHSDiscography_Metadata.csv
+    id_field: song
+  - name: transcription_features
+    type: csv
+    path: data/Datasets/NHSDiscography_TranscriptionFeatures.csv
+    id_transformations:
+      - operations: [to_int, format]
+        inputs: [song]
+        outputs: [new_id]
+        params:
+          - {}
+          - pattern: NHSDiscography-{:0>3}
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, natural-history-of-song]
+  - rename: [meta.type, genres]
+  # other_fields
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, true]
+  # file_url
+  # file_preview_url
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  # collectors
+  - rename: [meta.year, collection_date]
+  # collection_date_earliest
+  # collection_date_latest
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.culture, culture]
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  # encoders
+  # encoding_date
+  # copyright
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.location_modern, location]
+  - rename: [meta.latitude, latitude]
+  - rename: [meta.longitude, longitude]  
+  - constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  # title
+  # title_translation
+  # language
+  # glottolog_id
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  # tonality
+  # scale
+  - rename: [transcription_features.range, ambitus]
+  # tempo
+  # meters
+  # beat_duration
+  # metric_classification
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  # voice_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  # publication_key
+  # publication_song_num
+  # publication_page_num
+  - rename: [meta.permalink, publication_preview_url]
+  # catalogue_number
+  # publication_type
+  # publication_title
+  # publication_authors
+  # publication_date
+  - extract_groups:
+      inputs: [meta.citation]
+      outputs:
+        - title
+        - publication_song_num
+        - publication_title
+        # - group 6: publication_address
+        # - group 7: source_publisher
+        - publication_date
+      params:
+        pattern: "\"+([^\"]+)\"+( +\\[([^\\]]+)\\])?\\.? ([^\\.]+)\\.( ([^:]+): ([^\\(]+)\\(([^\\)]+)\\))?"
+        groups: [1, 3, 4, 8]
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  
+corrections:
+  NHSDiscography-094:
+    title: "Angi: Love song to a married woman"
+    source_song_num: Disc 1, Side B, Track 10
+    source_title: On The Demonstration Collection of E.M. von Hornbostel and the Berlin Phonogramm-Archiv [LP]
+    source_address: New York
+    source_publisher: Folkways Records
+    source_date: 1963

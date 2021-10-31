@@ -1,0 +1,361 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: sagrillo-luxembourg
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [sagrillo]
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Songs of Luxembourg
+
+# A URL to the dataset's webpage
+url: http://kern.ccarh.org/cgi-bin/ksbrowse?l=/users/sagrillo/lux
+
+# A full text description
+description: >
+  A large collection of 612 folk songs from Luxembourg from various
+  sources. The songs were encoded by Damien Sagrillo.
+
+# Authors and contributors
+authors:
+  - name: Damien Sagrillo
+    role: digitisation
+
+# List of tags
+tags: [symbolic, no lyrics, phrases, genres]
+formats: [kern] 
+num_entries: 612
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: []
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: [meters, tonality, ambitus]
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+    - title: other meta fields
+      description: >
+        The files contain several other metafields that are currently
+        ignored, like `rhy1`, `rhy2`, `kad`, `akz`, `fot`, `for` and 
+        `fok` 
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*/*.krn
+    file_options:
+      encoding: ISO-8859-1
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, sagrillo-luxembourg]
+  - operations: 
+      - unescape_html
+      - replace
+      - replace
+      - replace
+      - split
+      - strip
+      - map_values
+      - drop_none
+      - unique
+      - to_string_list
+    inputs: [file.fkt]
+    outputs: [genres]
+    params:
+      -
+      - old: "(yyy|\\?\\?\\??),? ?"
+        new: ""
+      - old: "\\?"
+        new: ""
+      - old: "/"
+        new: ","
+      - sep: ','
+      -
+      - mapping_path: sagrillo-luxembourg/genre-mapping.yml
+        return_missing: false
+      -
+      -
+      -
+
+  - to_json_object:
+      inputs: 
+        - file.minrhy
+        - file.meters
+        - file.rhy1
+        - file.rhy2
+        - file.key
+        - file.kad
+        - file.akz
+        - file.fot
+        - file.for
+        - file.fok
+        - file.n7k
+      outputs: [other_fields]
+      params:
+        keys: [minrhy, meters, rhy1, rhy2, key, kad, akz, fot, for, fok, n7k]
+  - join: [_comments, comments, {sep: '|'}]
+  # other_fields
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format:
+    - id
+    - file_url
+    - {pattern: "https://kern.humdrum.org/cgi-bin/ksdata?file={}.krn&l=users/sagrillo/lux&format=kern"}
+  - format:
+    - id
+    - file_preview_url
+    - {pattern: "http://verovio.humdrum.org/?file=sagrillo/lux/{}.krn"}
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  # collectors
+  # collection_date 
+  # collection_date_earliest
+  # collection_date_latest
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  # culture
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Damien Sagrillo]
+  # encoding_date
+  # copyright
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.reg, location]
+  # latitude
+  # longitude
+  #- constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  # title
+  # title_translation
+  # language
+  # glottolog_id
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  # tonality
+  # scale
+  # ambitus
+  # tempo
+  # beat_duration
+  # metric_classification
+  # tune_family_id
+  - operations: [extract_groups, lowercase]
+    inputs: [file.mod]
+    outputs: [scale_de, ambitus]
+    params:
+      - pattern: "([^\\]\\?]+) ?\\??\\] +AMBITUS\\[(\\w+)"
+        groups: [1, 2]
+      - {}
+  - extract_groups:
+      inputs: [file.key]
+      outputs: [tonality, meters_de]
+      params: 
+        pattern: "(\\w+) +(\\d+) +([\\w\\#]+) ([ \\w\/]+) ?\\] +ZZ\\[(\\d+)"
+        groups: [3, 4]
+  - operations: [strip, replace, map_values]
+    inputs: [meters_de]
+    outputs: [meters]
+    params:
+      -
+      - old: " "
+        new: "|"
+      - mapping:
+          FREI: free
+        return_missing: true
+  - map_values:
+    - scale_de
+    - scale
+    - mapping_path: sagrillo-luxembourg/scales-mapping.yml
+      return_missing: true
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  # voice_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  # publication_key
+  # publication_song_num
+  # publication_page_num
+  # publication_preview_url
+  # catalogue_number
+  # publication_type
+  # publication_title
+  # publication_authors
+  # publication_date
+  - map_values:
+    - file.trd
+    - publication_key
+    - mapping:
+        D'Fraen um Kanddaaf an der aler Zeit, Luxemburg 1929": ruden1934fraen
+        Singendes Volk, Esch-Alzette,? 1937,? posth.: thill1937singendes
+        Die Bauernhochzeit in fr&uuml;heren Zeiten: spedener1886bauernhochzeit
+        Die (L|l)uxemburger Volkslieder &auml;lterer Zeit: delafontaine1904luxemburger
+        "KINTZELE, Guillaume: An der Ucht, Bd. 1, Luxemburg 1926": kintzele1926ucht1
+        "KINTZELE, Guillaume: An der Ucht, Bd. 2, Luxemburg 1927": kintzele1927ucht2
+        "KINTZELE, Guillaume: An der Ucht, Bd. 3,? Luxemburg 1928": kintzele1928ucht3
+        "NEYENS, J.-P.: Jugendgr": neyens1912jugendgrusse
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  - extract_groups:
+      inputs: [file.OTL]
+      outputs: [title_html, publication_song_num, publication_page_num]
+      params:
+        pattern: "^([^\\(,]+(, (?!S.)(?!Nr)[^\\(,]+)*)((,? ?\\((.+)\\))|(, Nr\\. (\\d+)))?(,? S. ?(.+))?"
+        groups: [1, 5, 9]
+  - [[unescape_html, strip], title_html, title]
+
+
+corrections: {
+  "l0001": {
+      "title": "Schlof Kennchen, schlof",
+      "source_page_num": "9"
+  },
+  "t0298|t0309": {
+      "source_key": "thill1937singendes"
+  },
+  "k1107v": {
+      "source_key": "kintzele1927ucht2",
+      "location": "Luxembourg"
+  },
+  "l0006": {
+      "title": "O Uodem, Strefuodem",
+      "source_page_num": "11"
+  },
+  "t0113": {
+      "source_page_num": "47f"
+  },
+  "t0114": {
+      "source_page_num": "48"
+  },
+  "t0126|t0127": {
+      "source_page_num": "91"
+  },
+  "t0140": {
+      "source_page_num": "90f"
+  },
+  "t0141": {
+      "source_page_num": "91"
+  },
+  "t0152": {
+      "source_page_num": "110"
+  },
+  "t0153": {
+      "source_page_num": "111"
+  },
+  "t0169": {
+      "source_page_num": "133"
+  },
+  "t0185|t0186v|t0187": {
+      "source_page_num": "159"
+  },
+  "t0203": {
+      "source_page_num": "181"
+  },
+  "t0287": {
+      "source_song_num": "122"
+  },
+  "t0289": {
+      "title": "Entschwundenes Gl&uuml;ck, 1. Melodie",
+      "source_page_num": "284"
+  },
+  "t0289v": {
+      "title": "Entschwundenes Gl&uuml;ck, 2. Melodie",
+      "source_page_num": "284"
+  },
+  "t0338": {
+      "title": "Schatz, ach Schatz, reise nicht so weit von hier!",
+      "source_song_num": "165a",
+      "source_page_num": "359f"
+  },
+  "t0361": {
+      "source_song_num": "183",
+      "source_page_num": "401"
+  },
+  "t0441": {
+      "title": "Schifflein, Schifflein, la&szlig; dich lenken",
+      "source_page_num": "539",
+      "source_song_num": "252a"
+  },
+  "t0417": {
+      "title": "Der Wildsch&uuml;tz, Melodie II",
+      "source_page_num": "499"
+  }
+}

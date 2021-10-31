@@ -1,0 +1,231 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: densmore-maidu
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [densmore]
+
+# Publication status (draft/beta/alpha/published)
+status: beta
+
+# Title of the dataset
+title: Music of the Maidu Indians of California
+
+# A URL to the dataset's webpage
+url: https://github.com/shanahdt/densmore/tree/master/Densmore/maidu
+
+# A full text description
+description: >
+  A collection of Maidu songs recorded by Frances Densmore from performances
+  by Pablo Sylvers and Amanda Wilson in 1937. These songs were published
+  in Densmore's *Music of the Maidu Indians of California* in 1958 and encoded
+  by Daniel and Eva Shanahan.
+
+# Authors and contributors
+authors: 
+  - name: Frances Densmore
+    role: author
+  - name: Daniel Shanahan
+    role: encoder
+    url: https://music.osu.edu/people/shanahan.37
+  - name: Eva Shanahan
+    role: encoder
+contributors:
+  - name: Bas Cornelissen
+    role: additional metadata
+    url: https://bascornelissen.nl
+
+# List of tags
+tags: [symbolic,densmore]
+formats: [kern] 
+num_entries: 53
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+  name: 
+  abbreviation:
+  url:
+  text:
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: [densmore1958maidu]
+dataset_citation_keys: [shanahan2014]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: 
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Publication preview urls are wrong
+    description: >
+      HathiTrust uses a 'page scan sequence' number in the url. We 
+      compute this by adding some number to the page number, but 
+      it seems that this doesn't always work... Is there another
+      query param that we can use to select the page?
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+    id_transformations:
+    - operation: extract_groups
+      inputs: [OTL]
+      outputs: [source_song_num]
+      params:
+        pattern: No_+(\d+)
+        groups: [1]
+    - [format, source_song_num, new_id, {pattern: "maidu{:0>3}"}]
+  - name: meta
+    type: csv
+    path: additional-metadata.csv
+    id_field: id
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, densmore-maidu]
+  - to_string_list: [file.SUPERFUNCTION, genres]
+  - to_json_object:
+    - [file.LANG, file.LING_GROUP, meta.record_num, meta.genre]
+    - other_fields
+    - keys: [lang, ling_group, record_num, section]
+  # other_fields
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format: 
+    - file.cf_name
+    - file_url
+    - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{}.krn
+  
+  # file_preview_url
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [collectors, Frances Densmore]
+  - constant: [collection_date, 1937-03]
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - constant: [culture, Maidu]
+  - constant: [culture_dplace_id, Nc12]
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Daniel Shanahan|Eva Shanahan]
+  - constant: [encoding_date, 2014]
+  - constant: [copyright, Copyright 2014 Daniel and Eva Shanahan]
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - constant: [location, "Chico, California"]
+  - constant: [latitude, 39.74]
+  - constant: [longitude, -121.835556]
+  - constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - operation: extract_groups
+    inputs: [file.OTL]
+    outputs: [title_underscore]
+    params:
+      pattern: (No_+\d+_)?([^\.]+)(.krn)?
+      groups: [2]
+  - replace: [title_underscore, title, {old: _, new: " "}]
+  - constant: [language, Maiduan]
+  - constant: [glottolog_id, maid1262]
+  - rename: [meta.free_translation, lyrics_translation]
+  # title_translation
+  # lyrics
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.tonality, tonality]
+  - rename: [meta.bpm, tempo]
+  - rename: [meta.beat_duration, beat_duration]
+  - rename: [meta.meters, meters]
+  # scale
+  # ambitus
+  # metric_classification
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.performers, performers]
+  - rename: [meta.performer_genders, genders]
+  - rename: [meta.instrumentation, instrumentation]
+  - rename: [meta.instrument_use, instrument_use]
+  - rename: [meta.percussion_use, percussion_use]
+  - rename: [meta.voice_use, voice_use]
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  - constant: [publication_key, densmore1958maidu]
+  - [[to_int, to_string], meta.song_num, publication_song_num]
+  - rename: [meta.page_num, publication_page_num]
+  - constant: [publication_type, book]
+  - constant: [publiation_title, Music of the Maidu Indians of California]
+  - constant: [publication_authors, Frances Densmore]
+  - constant: [publication_date, 1958]
+  - operations: [to_int, add, format]
+    inputs: [publication_page_num]
+    outputs: [publication_preview_url]
+    params:
+      - {}
+      - value: 16
+      - pattern: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={}
+  # catalogue_number
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

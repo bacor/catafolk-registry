@@ -1,0 +1,291 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: finnish-folk-tunes
+
+# List of groups dataset belongs (see groups.yml) Optional.
+# group_ids: []
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Digital Archive of Finnish Folk Tunes
+
+# A URL to the dataset's webpage
+url: http://esavelmat.jyu.fi/index_en.html
+
+# A full text description
+description: >
+  A large collection of 8613 Finnish folk tunes collected mostly
+  in the 19th century and published by the Finnish Literary Society
+  in the series *Finnish Folk Tunes (Suomen Kansan Sävelmiä)*, edited
+  by Ilmari Krohn. The collection was digitized by Tuomas Eerola 
+  and Petri Toivainen in 2004.
+
+# Authors and contributors
+authors: 
+  - name: Ilmari Krohn
+    role: author
+  - name: Armas Otto Väisänen
+    role: author
+  - name: Armas Launis
+    role: author
+  - name: Tuomas Eerola
+    role: design & development
+  - name: Petri Toiviainen
+    role: design & development
+  - name: Janne Seppänen
+    role: encoding
+  - name: Sini Järvelä
+    role: encoding
+  - name: Juha Hämäläinen
+    role: development
+  - name: Santeri Laitinen
+    role: development
+
+# List of tags
+tags: [symbolic]
+formats: [MIDI (Matlab)] 
+num_entries: 8613
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  name: Non-commercial
+  url: http://esavelmat.jyu.fi/collection_download.html
+  text: >
+    The Finnish folk song database is available for research 
+    purposes (that is, noncommercial) provided that the attribution
+    is maintained, i.e., you must give the original authors credit.
+
+# Copyright message for the dataset
+copyright: >
+  Copyright of the original collection: © [Suomalaisen 
+  Kirjallisuuden Seura (Finnish Literary Society)](http://www.finlit.fi/)
+  Copyright of the digital collection: © Tuomas Eerola & Petri Toiviainen.
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys:
+  - krohn1898HS1
+  - krohn1904LS1
+  - krohn1908LS2
+  - krohn1932LS3
+  - krohn1933LS4
+  - krohn1893KT1
+  - launis1910RS1
+  - launis1930RS2
+  - vaisanen1928KJS
+dataset_citation_keys: [eerola2004]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-18
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: 
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns:
+  - collector
+  - location
+  - meters
+  - key
+hide_columns: [title]
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: More metadata available?
+    description: >
+      looking at the online 
+      [preview](http://esavelmat.jyu.fi/savelma.php?numero=kt1_0153&uil=en)
+      of some of the songs, it seems there is more metadata 
+      available: the title, a precise location broken down 
+      in parish/village/province/county, the lyrics, booknotes 
+      and comments. Perhaps contact the authors for this?
+  - title: Source translations
+    description: >
+      BC: my Finish is ehm... rusty. Hopefully I found the right 
+      translations of the publication titles in the bibliography.
+  - title: Cadence field
+    description: >
+      We are currently ignoring the `cadence` field. This also seems
+      to contain different types of data. In the KT subcollection 
+      you find tempo indications such as `Andantino`, `Andante`; 
+      in the HS subcollection things like `Arkkivirsi`, `Siionin vk: 
+      129`, etc. In LS, what seems  like cadence types like `AIVb4, 
+      A IV a 2` etc.
+  - title: Language
+    description: >
+      All songs have language Finnish (finn1318). Hopefully this is
+      correct?
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: data
+    type: csv
+    path: data/finfolktunes_data_corrected.txt
+    id_field: filename
+    options:
+      sep: "\t"
+      encoding: ISO-8859-1
+      # Rename the columns, because the name 'key' appears twice...
+      header: 0
+      names: 
+        - number 
+        - collection
+        - filename
+        - type
+        - cadence
+        - page
+        - transcriber
+        - year
+        - key
+        - time-signature
+        - location
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, finnish-folk-tunes]
+  - rename: [data.type, genres]
+  - to_json_object:
+      - data.cadence
+      - cadence
+      - keys: [cadence]
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, MIDI]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  # file_url
+  # Link to preview on FFT website
+  - format: 
+    - data.filename
+    - file_preview_url
+    - pattern: http://esavelmat.jyu.fi/savelma.php?numero={}&uil=en
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [data.transcriber, collectors]
+  - rename: [data.year, collection_date]
+  # collection_date_earliest
+  # collection_date_latest
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  # culture
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Janne Seppänen|Sini Järvelä|Tuomas Eerola|Petri Toiviainen]
+  - constant: [encoding_date, 2004]
+  - constant: [copyright, copyright © Tuomas Eerola & Petri Toiviainen]
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [data.location, location]
+  # latitude
+  # longitude
+  #- constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - constant: [language, Finnish]
+  - constant: [glottolog_id, finn1318]
+  # title
+  # title_translation
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  - rename: [data.key, tonality]
+  - rename: [data.time-signature, meters]
+  # scale
+  # ambitus
+  # tempo
+  # beat_duration
+  # metric_classification
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  # voice_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  - rename: [data.page, publication_page_num]
+  # Map collection keys to citation keys
+  - map_values:
+    - data.collection
+    - publication_key
+    - mapping:
+        HS1: krohn1898HS1
+        LS1: krohn1904LS1
+        LS2: krohn1908LS2
+        LS3: krohn1932LS3
+        LS4: krohn1933LS4
+        KT1: krohn1893KT1
+        RS1: launis1910RS1
+        RS2: launis1930RS2
+        KJS: vaisanen1928KJS
+        Kantelesävelmiä: vaisanen1928KJS
+  # Extract song number from the filename. Hopefully this make sense...
+  # See https://regex101.com/r/CcHp3w/1
+  - extract_groups:
+    - data.filename
+    - [publication_song_num, tune_family_id]
+    - pattern: \w+_0*((\d+)\w+)
+      groups: [1, 2]
+  # publication_page_num
+  # publication_preview_url
+  # catalogue_number
+  # publication_type
+  # publication_title
+  # publication_authors
+  # publication_date
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

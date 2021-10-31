@@ -1,0 +1,237 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: densmore-papago
+
+# List of groups dataset belongs (see groups.yml) Optional.
+group_ids: [densmore]
+
+# Publication status (draft/beta/alpha/published)
+status: beta
+
+# Title of the dataset
+title: Densmore's Papago Music
+
+# A URL to the dataset's webpage
+url: https://github.com/shanahdt/densmore/tree/master/Densmore/papago
+
+# A full text description
+description: >
+  A collection of songs of the Tohono Oʼodham people  (formerly known 
+  as the Papago), collected by Frances Densmore in 1920–21 and 
+  published as her 1929 *Papago Music*. The songs were digitally
+  encoded by Daniel Shanahan and Eva Shanahan.
+
+# Authors and contributors
+authors: 
+  - name: Frances Densmore
+    role: collector
+  - name: Daniel Shanahan
+    role: encoder
+    url: https://music.osu.edu/people/shanahan.37
+  - name: Eva Shanahan
+    role: encoder
+contributors:
+  - name: Bas Cornelissen
+    role: additional metadata
+
+# List of tags
+tags: [symbolic,densmore]
+formats: [kern]
+num_entries: 169
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+  name: 
+  abbreviation:
+  url:
+  text:
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: [densmore1929papago]
+dataset_citation_keys: [shanahan2014]
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-01
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Publication preview incorrect page numbers 
+    description: >
+      The publication preview links sometimes point to wrong page
+      numbers, because the `seq` parameter in the HathiTrust 
+      library does not correspond directly to page numbers.
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+    id_transformations:
+    - operation: map_values
+      inputs: [OTL]
+      outputs: [song_num]
+      params:
+        mapping:
+          Flute Melody 1: No_168
+          Flute Melody 2: No_169
+        return_missing: True
+    - operation: extract_groups
+      inputs: [song_num]
+      outputs: [source_song_num]
+      params:
+        pattern: .*No_+(\d+)
+        groups: [1]
+    - [format, source_song_num, new_id, {pattern: "papago{:0>3}"}]
+  - name: meta
+    type: csv
+    path: additional-metadata.csv
+    id_field: id
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, densmore-papago]
+  - to_string_list: [file.SUPERFUNCTION, genres]
+  - to_json_object:
+    - [file.LANG, file.LING_GROUP, file.SOCIAL_FUNCTION]
+    - other_fields
+    - keys: [lang, ling_group, social_function]
+  - rename: [meta.comments, comments]
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format: 
+    - file.cf_name
+    - file_url
+    - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/papago/{}.krn
+  # file_preview_url
+
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [collectors, Frances Densmore]
+  - constant: [collection_date_earliest, 1920]
+  - constant: [collection_date_latests, 1921]
+  # collection_date 
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - constant: [culture, Tohono Oʼodham]
+  - constant: [culture_dplace_id, WNAI146]
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Daniel Shanahan|Eva Shanahan]
+  - constant: [encoding_date, 2014]
+  - constant: [copyright, Copyright 2014 Daniel and Eva Shanahan]
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.location, location]
+  - rename: [meta.latitude, latitude]
+  - rename: [meta.longitude, longitude]
+  - constant: [auto_geocoded, false]
+
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - operation: extract_groups
+    inputs: [file.OTL]
+    outputs: [title_underscore]
+    params:
+      pattern: (No_+\d+_)?([^\.]+)(.krn)?
+      groups: [2]
+  - replace: [title_underscore, title, {old: _, new: " "}]
+  # title_translation
+  - constant: [language, Tohono O'odam]
+  - constant: [glottolog_id, toho1246]
+  - rename: [meta.lyrics, lyrics]
+  - rename: [meta.free_translation, lyrics_translation]
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.tonality, tonality]
+  - rename: [meta.meters, meters]
+  - [[to_int, to_string], meta.bpm, tempo]
+  - rename: [meta.beat_duration, beat_duration]
+  # scale
+  # ambitus
+  # metric_classification
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  - rename: [meta.performers, performers]
+  - rename: [meta.performer_genders, performer_genders]
+  - rename: [meta.instrumentation, instrumentation]
+  - rename: [meta.instrument_use, instrument_use]
+  - rename: [meta.percussion_use, percussion_use]
+  - rename: [meta.voice_use, voice_use]
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  - constant: [publication_key, densmore1929papago]
+  - [[to_int, to_string], meta.song_num, publication_song_num]
+  - rename: [meta.page_num, publication_page_num]
+  - [[to_int, to_string], meta.catalogue_num, catalogue_num]
+  - constant: [publication_type, book]
+  - constant: [publiation_title, Papago Music]
+  - constant: [publication_authors, Frances Densmore]
+  - constant: [publication_date, 1929]
+  - operations: [to_int, add, format]
+    inputs: [publication_page_num]
+    outputs: [publication_preview_url]
+    params:
+      - {}
+      - value: 36
+      - pattern: https://babel.hathitrust.org/cgi/pt?id=mdp.39015010760851&seq={}
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

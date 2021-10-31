@@ -1,0 +1,216 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: haydn-scottish-songs
+group_ids: [sagrillo]
+
+# Publication status (draft/beta/alpha/published)
+status: alpha
+
+# Title of the dataset
+title: Haydn's Original Scots Songs
+
+# A URL to the datasets webpage
+url: https://kern.humdrum.org/cgi-bin/browse?l=users/sagrillo/scotland
+
+# A full text description
+description: >
+  A selection of Scottish folk songs arranged by Joseph Haydn and 
+  published in 1792. Digital encoding by Damien Sagrillo. 
+
+# Authors and contributors
+authors: 
+  - name: Joseph Haydn
+    role: author
+  - name: Damien Sagrillo
+    role: digitization
+
+# List of tags
+tags: [symbolic,no text,phrases]
+formats: [kern] 
+num_entries: 51
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright: unknown
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: [haydn1792scots]
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-03
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Missing songs
+    description: >
+      This is only a subset of the songs; the original publication 
+      contains many more. See e.g.
+      [this overview on ISMLP]
+      (https://imslp.org/wiki/List_of_works_by_Joseph_Haydn#Hob.XXXI_.28Scottish:_1-273.2C_Welsh:_1-61.29_Arrangements_of_Folksongs_and_other_vocal_arrangements)
+  - title: Collector?
+    description: >
+      Did Haydn actually collect these songs? Or did he use other
+      song books?
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+    file_options:
+      encoding: ISO-8859-1
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, haydn-scottish-songs]
+  - rename: [file.fkt, genres]
+  - to_json_object:
+      inputs: [file.minrhy, file.cut, file.key, file.bem, file.fog]
+      outputs: [other_fields]
+      params:
+        keys: [minrhy, cut, key, bem, fog]
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format:
+      - id
+      - file_url
+      - {pattern: "https://kern.humdrum.org/cgi-bin/ksdata?file={}.krn&l=users/sagrillo/scotland&format=kern"}
+  - format:
+      - id
+      - file_preview_url
+      - {pattern: "http://verovio.humdrum.org/?file=sagrillo/scotland/{}.krn"}
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [collectors, Joseph Haydn]
+  # collection_date 
+  # collection_date_earliest
+  - constant: [collection_date_latest, 1792]
+
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - constant: [culture, Scots]
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - constant: [encoders, Damien Sagrillo]
+  # encoding_date
+  # copyright
+  # contributors
+  # license_id
+  # version
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - constant: [location, Scotland]
+  # latitude
+  # longitude
+  # - constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.OTL, title]
+  # title_translation
+  - constant: [language, English]
+  - constant: [glottolog_id, stan1293]
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  - extract_groups:
+      inputs: [file.key]
+      outputs: [tonality]
+      params:
+        pattern: "(\\w+) +(\\d+) +(\\w+) +([\\w\/]+)"
+        groups: [3]
+  - strip: [file.meters, meters_stripped]
+  - replace: [meters_stripped, meters_string_list, {old: " ", new: "|"}]
+  - join: [[file.meter, meters_string_list], meters, {sep: "|"}]
+  # tonality
+  # scale
+  # ambitus
+  # tempo
+  # beat_duration
+  # metric_classification
+  # tune_family_id
+  
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  # performers
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  - constant: [voice_use, true]
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  - constant: [publication_key, haydn1792scots]
+  - extract_groups:
+      inputs: [id]
+      outputs: [publication_song_num, page_min_1]
+      params:
+        pattern: HA?0+((\d+)[A-Z]?)
+        groups: [1, 2]
+  - [[to_int, add], page_min_1, publication_page_num, [{}, {value: 1}]]
+  # publication_preview_url
+  - format: [publication_song_num, catalogue_num, {pattern: "Hob.XXXIa:{}"}]
+  - constant: [publication_type, book]
+  - constant: [publication_title, A Selection of Original Scots Songs (Hob.XXXIa)]
+  - constant: [publication_authors, Joseph Haydn]
+  - constant: [publication_date, 1792]
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

@@ -1,0 +1,93 @@
+dataset_id: bronson-child-ballads
+analyzed: true
+title: Child Ballads
+dataset_url: http://kern.ccarh.org/cgi-bin/ksbrowse?l=/osu/monophony/british
+authors: 
+  - name: Bertrand Harris Bronson
+    role: collector
+  - name: David Huron
+    role: digitization
+  - name: Paul von Hippel
+    role: reference records
+tags: [symbolic,phrases]
+formats: [kern]
+files: 38
+notes: 
+duration: 
+copyright: Unknown
+licence_abbr: Unknown
+license_url: 
+version: Unknown
+description: >
+  The Child Ballads are traditional ballads from England and Scotland, collected by Francis Child in the 19th century.
+  This collection is a subset of the first 53 tunes, collected and 
+  published by Bertrand Bronson in 1959 and digitized by David Huron.
+issues:
+  - title: Titles?
+    description: >
+      Are the titles of the songs available somewhere?
+  - title: Other volumes?
+    description: >
+      If digital versions of other volumes are available,
+      it would be nice to add those.
+
+#————————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/*.krn
+
+transformations:
+  # Default Catafolk fields
+  - rename: [file.cf_checksum, checksum]
+  - rename: [file.cf_path, path]
+  - rename: [file.cf_format, format]
+
+  # Constants
+  - constant: [dataset_id, bronson-child-ballads]
+  - constant: [has_music, true]
+  - constant: [has_lyrics, false]
+  - constant: [source_key, bronson1959child]
+
+  # Rename
+  - rename: [file.ARE, location]
+  - rename: [file.ENC, encoder]
+  - rename: [file.CNT, culture]
+  - rename: [file.MRD, collection_date]
+  - rename: [file.OCL, collector]
+  - rename: [file.MPN, performer]
+  - rename: [file.AGN, genre]
+  - rename: [file.YEC, copyright]
+
+  # Preview url
+  - format:
+    - id 
+    - preview_url
+    - pattern: https://verovio.humdrum.org/?file=osu/monophony/british/{}.krn
+
+  # Code
+  - format:
+    - id
+    - url
+    - pattern: https://kern.humdrum.org/cgi-bin/ksdata?file={}.krn&l=osu/monophony/british&format=kern
+  
+  # Extract page number
+  - extract_groups:
+      inputs: [file.PPG]
+      outputs: [source_page_num]
+      params:
+        pattern: "p\\. (\\d+)"
+        groups: [1]
+  
+  # Extract title and song number from the title (file.ONM)
+  # Some example titles:
+  # Child Ballad No. 41, Tune No. 2	
+  # Child Ballad No. 46, Tune No. 1
+  - extract_groups:
+      inputs: [file.ONM]
+      outputs: [title, title_eng, source_song_num]
+      params:
+        pattern: ((Child Ballad No\. (\d+), .+))
+        groups: [1, 2, 3]
+  

@@ -1,0 +1,222 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: creighton-nova-scotia
+
+# Publication status (draft/beta/alpha/published)
+status: beta
+
+# Title of the dataset
+title: Creighton's Songs and Ballads from Nova Scotia
+
+# A URL to the dataset's webpage
+url: https://github.com/craigsapp/creighton-nova-scotia
+
+# A full text description
+description: >
+  Digital edition of Songs and Ballads from Nova Scotia, collected 
+  by Helen Creighton (1932). The ditigal edition was prepared by
+  Craig Stuart Sapp in the Humdrum file format. 
+
+# Authors and contributors
+authors: 
+  - name: Helen Creighton
+    role: author
+  - name: Craig Stuart Sapp
+    url: https://github.com/craigsapp
+    role: music and bibliographic data
+contributors:
+  - name: Marcus Pearce
+    role: phrase markings and key designations
+  - name: Darell Conklin
+    role: phrase markings and key designations
+
+# List of tags
+tags: [symbolic, phrases]
+formats: [kern] 
+num_entries: 152
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: []
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-18
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Language correct?
+    description: >
+      Added language English (Atlantic Provinces English). Is this 
+      indeed correct?
+  - title: Reference record AMD?
+    description: >
+      Some files have a reference record `AMD`. Not sure what this is,
+      but the values indicate its either the scale or modality. Is
+      this correct?
+
+  
+# —————————————————————————————————————————————————————————————————
+# Catafolk options
+# —————————————————————————————————————————————————————————————————
+
+sources:
+  - name: file
+    type: file
+    file_pattern: data/kern/*.krn
+    
+transformations:
+  
+  # General 
+  # —————————————————————————————————————————————————————————————————
+  - constant: [dataset_id, creighton-nova-scotia]
+  - rename: [file.AGN, genres]
+  - to_json_object: 
+      inputs: [file.verses, file.VTS]
+      outputs: [other_fields]
+      params: 
+        keys: [verses, VTS]
+  - rename: [file.ONB, comments]
+  # comments
+  # warnings
+  # description
+  
+
+  # File 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.cf_path, file_path]
+  - rename: [file.cf_format, file_format]
+  - rename: [file.cf_checksum, file_checksum]
+  - constant: [file_has_music, true]
+  - constant: [file_has_lyrics, false]
+  - constant: [file_has_license, false]
+  - format:
+    - id 
+    - file_preview_url
+    - pattern: https://verovio.humdrum.org/?file=users/craig/songs/creighton/nova/{}.krn
+  - format:
+    - id
+    - file_url
+    - pattern: https://github.com/craigsapp/creighton-nova-scotia/blob/master/kern/{}.krn
+  
+
+  # Collection 
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.OCL, collectors]
+  - operation: extract_groups
+    inputs: [file.MRD]
+    outputs: [collection_date_earliest, collection_date_latest]
+    params:
+      pattern: (\d+)///-(\d+)///
+      groups: [1,2]
+  # collection date: see above
+  
+
+  # Culture
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.CNT, culture]
+  # culture_dplace_id
+  # culture_hraf_id
+
+
+  # Encoding
+  # —————————————————————————————————————————————————————————————————
+  - operations: ['strip', 'join']
+    inputs: [file.ENC1, file.ENC2, file.ENC3]
+    outputs: ['encoders']
+    params: [{}, {sep: '|'}]
+  - rename: [file.END, encoding_date]
+  - rename: [file.YEC, copyright]
+  - rename: [file.EEV, version]
+  # contributors
+  # license_id
+
+
+  # Location
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.ARE, location]
+  - constant: [latitude, 45]
+  - constant: [longitude, -63]
+  - constant: [auto_geocoded, false]
+
+  # Lyrics
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.OTL, title]
+  - constant: [language, 'English']
+  - constant: [glottolog_id, atla1283]
+  # title_translation
+  # lyrics
+  # lyrics_translation
+
+
+  # Music
+  # —————————————————————————————————————————————————————————————————
+  - rename: [file.AMD, 'scale']
+  # tonality
+  # scale
+  # ambitus
+  # tempo
+  # meters
+  # beat_duration
+  # metric_classification
+  # tune_family_id
+
+
+  # Performance
+  # —————————————————————————————————————————————————————————————————
+  - replace: [file.MPN, performers, {old: ' and ', new: '|'}]
+  - constant: [voice_use, true]
+  # performer_genders
+  # instrumentation
+  # instrument_use
+  # percussion_use
+  
+  
+  # Publication
+  # —————————————————————————————————————————————————————————————————
+  - constant: [publication_key, creighton1932nova]
+  - rename: [file.PPG, publication_page_num]
+  # publication_preview_url
+  # catalogue_number
+  - constant: [publication_type, book]
+  - constant: [publication_title, Songs and Ballads from Nova Scotia]
+  - constant: [publication_authors, Helen Creighton]
+  - constant: [publication_date, 1932]
+  - extract_groups:
+      inputs: [file.ONM]
+      outputs: [publication_song_num]
+      params:
+        pattern: (\d+)\.
+        groups: [1]
+    
+
+  
+  # Mixed
+  # —————————————————————————————————————————————————————————————————
+  

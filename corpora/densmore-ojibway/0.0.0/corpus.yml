@@ -1,0 +1,20 @@
+dataset_id: densmore-ojibway
+analyzed: true
+title: 
+dataset_url: http://kern.ccarh.org/cgi-bin/ksbrowse?type=collection&s=ojibway
+authors: 
+  - name: Frances Densmore
+    role: author
+  - name: Paul von Hippel
+    role: digitization    
+tags: [symbolic]
+formats: [kern]
+files: 42
+notes: 
+duration: 
+copyright: Copyright 1998 Paul von Hippel
+licence_abbr: unknown
+version: 1.0
+description: >
+  A collection of 42 Ojibway songs collected by Frances Densmore and digitized
+  by Paul von Hippel
