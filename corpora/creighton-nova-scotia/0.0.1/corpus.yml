@@ -1,0 +1,83 @@
+# —————————————————————————————————————————————————————————————————
+# Dataset details
+# —————————————————————————————————————————————————————————————————
+
+# Unique id of the dataset
+dataset_id: creighton-nova-scotia
+version: 0.0.1
+
+# Publication status (draft/beta/alpha/published)
+status: beta
+
+# Title of the dataset
+title: Creighton's Songs and Ballads from Nova Scotia
+
+# A URL to the dataset's webpage
+url: https://github.com/craigsapp/creighton-nova-scotia
+
+# A full text description
+description: >
+  Digital edition of Songs and Ballads from Nova Scotia, collected 
+  by Helen Creighton (1932). The ditigal edition was prepared by
+  Craig Stuart Sapp in the Humdrum file format. 
+
+# Authors and contributors
+authors: 
+  - name: Helen Creighton
+    role: author
+  - name: Craig Stuart Sapp
+    url: https://github.com/craigsapp
+    role: music and bibliographic data
+contributors:
+  - name: Marcus Pearce
+    role: phrase markings and key designations
+  - name: Darell Conklin
+    role: phrase markings and key designations
+
+# List of tags
+tags: [symbolic, phrases]
+formats: [kern] 
+num_entries: 152
+
+# The license, provide the name, and possibly even full text. 
+# If the license is unknown, make sure license.unknown = true
+license: 
+  unknown: true
+
+# Copyright message for the dataset
+copyright:
+
+# How to give credits when using the dataset (text message)
+credits:
+
+# Citation keys for the original publications and the dataset.
+# Typically, the former are older folk song books, and the latter
+# more recent papers
+publication_citation_keys: []
+dataset_citation_keys: []
+
+# Date on which the dataset which is analyzed by catafolk was 
+# downloaded
+dataset_retrieval_date: 2020-04-18
+
+# The version of the dataset. If the dataset has no version, 
+# plese ensure version = unknown
+corpus_own_version: unknown
+
+# Columns to show/hide on the catafolk website. This overrides 
+# default options
+show_columns: []
+hide_columns: []
+
+# Possible issues with the dataset. These are shown on the webpage,
+# so people using the dataset are aware of them.
+issues:
+  - title: Language correct?
+    description: >
+      Added language English (Atlantic Provinces English). Is this 
+      indeed correct?
+  - title: Reference record AMD?
+    description: >
+      Some files have a reference record `AMD`. Not sure what this is,
+      but the values indicate its either the scale or modality. Is
+      this correct?
