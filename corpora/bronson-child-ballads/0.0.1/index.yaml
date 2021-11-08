@@ -16,7 +16,7 @@ child01:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 350fc2b9839d7d7669d83f77efdc03c2
   file_format: kern
@@ -78,7 +78,7 @@ child02:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 77e3685f3041918f2f18475846f152d9
   file_format: kern
@@ -140,7 +140,7 @@ child03:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: fe5a1e1f2142f27fa1ceca88c719ae1c
   file_format: kern
@@ -202,7 +202,7 @@ child04:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: fbd5033b1cbe6aaef554cd0485f8a086
   file_format: kern
@@ -264,7 +264,7 @@ child05:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: d0f042c816103be0a962226724d4ed89
   file_format: kern
@@ -326,7 +326,7 @@ child06:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 909020aff4c7af51abe43d6d5ea8bb66
   file_format: kern
@@ -388,7 +388,7 @@ child07:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: bf2354ab66735a3cf4724586781451c4
   file_format: kern
@@ -450,7 +450,7 @@ child09:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: d57956e1e1a324ffdc20f1a2428bb56c
   file_format: kern
@@ -512,7 +512,7 @@ child10:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: e6e4f58227581abaeca9e6e6e71ddfe4
   file_format: kern
@@ -574,7 +574,7 @@ child11:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 67d346850648df65e13b1ba86744545d
   file_format: kern
@@ -636,7 +636,7 @@ child12:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 28167cea416012d60db59a37174606f5
   file_format: kern
@@ -698,7 +698,7 @@ child13:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 9e4e673746829f92d947204f40946f6b
   file_format: kern
@@ -760,7 +760,7 @@ child14:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 81987adf1364ad67edcf5db89ac34662
   file_format: kern
@@ -822,7 +822,7 @@ child16:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: df657f2c20fa2c779e2b35be63065c98
   file_format: kern
@@ -884,7 +884,7 @@ child17:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 2db981f3909779dc7df5982e69a4baa6
   file_format: kern
@@ -946,7 +946,7 @@ child18:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 7b3d52a07085962df269271a302a650d
   file_format: kern
@@ -1008,7 +1008,7 @@ child19:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 21555ffb046085a6f1d627d2193e5cfb
   file_format: kern
@@ -1070,7 +1070,7 @@ child20:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 59754e6aefc54130cfa1cc6a596e679a
   file_format: kern
@@ -1132,7 +1132,7 @@ child22:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 0fed2196971e918a90a348e3243fe787
   file_format: kern
@@ -1194,7 +1194,7 @@ child24:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 3c735f4edd213aae88b0793e1419ef68
   file_format: kern
@@ -1256,7 +1256,7 @@ child25:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: f39f17e1adb04ef6134f2f350672246d
   file_format: kern
@@ -1318,7 +1318,7 @@ child26:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 4e324755ad7e785b75fa5041c1ebfec3
   file_format: kern
@@ -1380,7 +1380,7 @@ child27:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 3c1aea234499892643968f14ec685435
   file_format: kern
@@ -1442,7 +1442,7 @@ child31:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: fa3e622600bab1b774db1405fa149238
   file_format: kern
@@ -1504,7 +1504,7 @@ child33:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 9fdf1f23da7c0c4884d13f3c30cc1c35
   file_format: kern
@@ -1566,7 +1566,7 @@ child37:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 8033af886e6fde52c8beeb7a269df982
   file_format: kern
@@ -1628,7 +1628,7 @@ child38:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 466b8d27c076e89e3b85e6e9ed3f3698
   file_format: kern
@@ -1690,7 +1690,7 @@ child39:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 1e06a65d17104093ef4b4d41a19bc4dd
   file_format: kern
@@ -1752,7 +1752,7 @@ child41:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 36b499024f4f157618fdae8be4d697ad
   file_format: kern
@@ -1814,7 +1814,7 @@ child43:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: bc675a4592abc1b25658724e69fb40f2
   file_format: kern
@@ -1876,7 +1876,7 @@ child44:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 99cbb5b95b908c63fb8e8e4289d22ebb
   file_format: kern
@@ -1938,7 +1938,7 @@ child45:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 6dce88d29bb5e276c6047bd1658e4468
   file_format: kern
@@ -2000,7 +2000,7 @@ child46:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: d2b72eb24969d8f5c5ebb010f8a84c74
   file_format: kern
@@ -2062,7 +2062,7 @@ child47:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: f3de9eb4045133ac6632a1881aaf9537
   file_format: kern
@@ -2124,7 +2124,7 @@ child49:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 4a4ac5dd0c2e34843ad7fb65760140d1
   file_format: kern
@@ -2186,7 +2186,7 @@ child51:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 20ac8469a660331a23ce3839d44c55dc
   file_format: kern
@@ -2248,7 +2248,7 @@ child52:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: fb3b0ca2f538b98c191882f11c802485
   file_format: kern
@@ -2310,7 +2310,7 @@ child53:
   culture_hraf_id: null
   dataset_id: bronson-child-ballads
   description: null
-  encoders: null
+  encoders: Huron, David
   encoding_date: null
   file_checksum: 286b0fc2c545defc06dfe701dd8020da
   file_format: kern

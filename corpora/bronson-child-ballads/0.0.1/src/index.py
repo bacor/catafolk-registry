@@ -28,7 +28,7 @@ class BronsonChildBalladsEntry(IndexEntry):
         file_format="file.cf_format",
         file_checksum="file.cf_checksum",
         location="file.ARE",
-        encoder="file.ENC",
+        encoders="file.ENC",
         culture="file.CNT",
         collection_date="file.MRD",
         collectors="file.OCL",
