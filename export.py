@@ -3,6 +3,7 @@ from typing import Union, List, Iterable
 import re
 import subprocess
 
+from catafolk.utils import sort_versions
 
 def iter_corpus_dir(
     corpora_dir: Union[str, Path] = "corpora",
@@ -39,17 +40,18 @@ def iter_corpus_dir(
         ):
             continue
 
-        versions = []
+        versions = {}
         for version_dir in corpus_dir.iterdir():
             if version_dir.is_dir() and re.match("\d+\.\d+\.\d+", version_dir.name):
-                versions.append(version_dir)
-        versions = sorted(versions)
+                versions[version_dir.name] = version_dir
+
         if len(versions) == 0:
             continue
         elif latest_only:
-            yield versions[-1]
+            latest = sort_versions(list(versions.keys()))[-1]
+            yield versions[latest]
         else:
-            for version in versions:
+            for version in versions.values():
                 yield version
 
 
@@ -70,7 +72,7 @@ def generate_indices(**kwargs) -> None:
 
 if __name__ == "__main__":
     corpora = [
-        # 'boehme-altdeutsches-liederbuch',
-        "boehme-volksthumliche-lieder"
+        'boehme-altdeutsches-liederbuch',
+        # "boehme-volksthumliche-lieder"
     ]
     generate_indices(include_corpora=corpora)
