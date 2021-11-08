@@ -94,23 +94,25 @@ class DensmoreNootkaEntry(IndexEntry):
         )
 
 
-def generate_index(data_dir):
+def generate_index():
+    config = Configuration()
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
     corpus_dir = Path(__file__).parent.parent
     index = Index()
     paths = data_dir.glob("data/*.krn")
+    meta_source = CSVSource(corpus_dir / "src/additional-metadata.csv")
     for path in paths:
         matches = re.match("No_+(\d+)", path.name)
         entry_id = f"nootka{matches[1]:0>3}"
         sources = dict(
             file=FileSource(path),
-            meta=CSVSource(corpus_dir / "src/additional-metadata.csv"),
+            meta=meta_source
         )
         entry = DensmoreNootkaEntry(entry_id, sources)
         index.add_entry(entry)
-    index.export_csv(corpus_dir / "index.csv")
+
+    index.export(corpus_dir)
 
 
 if __name__ == "__main__":
-    config = Configuration()
-    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
-    generate_index(data_dir)
+    generate_index()
