@@ -46,7 +46,7 @@ def generate_index():
         sources = dict(file=FileSource(path, root=data_dir))
         entry = BoehmeVolksthumlicheLiederEntry(entry_id, sources)
         index.add_entry(entry)
-    index.export_csv(corpus_dir / "index.csv")
+    index.export(corpus_dir)
 
 
 if __name__ == "__main__":
