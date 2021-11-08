@@ -46,7 +46,7 @@ def generate_index():
         index.add_entry(entry)
 
     corpus_dir = Path(__file__).parent.parent
-    index.export_csv(corpus_dir / "index.csv")
+    index.export(corpus_dir)
 
 
 if __name__ == "__main__":
