@@ -104,10 +104,7 @@ def generate_index():
     for path in paths:
         matches = re.match("No_+(\d+)", path.name)
         entry_id = f"nootka{matches[1]:0>3}"
-        sources = dict(
-            file=FileSource(path),
-            meta=meta_source
-        )
+        sources = dict(file=FileSource(path), meta=meta_source)
         entry = DensmoreNootkaEntry(entry_id, sources)
         index.add_entry(entry)
 

@@ -2,10 +2,13 @@ from pathlib import Path
 from catafolk.configuration import Configuration
 from catafolk.index import Index, IndexEntry
 from catafolk.sources import FileSource
+from catafolk.utils import load_corpus_metadata
 import re
 
-CORPUS_ID = "bronson-child-ballads"
-VERSION = "0.0.1"
+CORPUS_DIR = Path(__file__).parent.parent
+CORPUS_METADATA = load_corpus_metadata(CORPUS_DIR / "corpus.yml")
+CORPUS_VERSION = CORPUS_METADATA["version"]
+CORPUS_ID = CORPUS_METADATA["dataset_id"]
 
 
 class BronsonChildBalladsEntry(IndexEntry):
@@ -14,7 +17,7 @@ class BronsonChildBalladsEntry(IndexEntry):
 
     constants = dict(
         dataset_id=CORPUS_ID,
-        corpus_version=VERSION,
+        corpus_version=CORPUS_VERSION,
         file_has_music=True,
         file_has_lyrics=False,
         publication_key="bronson1959child",
@@ -60,8 +63,7 @@ class BronsonChildBalladsEntry(IndexEntry):
 
 def generate_index():
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
-    corpus_dir = Path(__file__).parent.parent
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / CORPUS_VERSION
     paths = data_dir.glob("data/*.krn")
 
     index = Index()
@@ -70,7 +72,7 @@ def generate_index():
         sources = dict(file=FileSource(path, root=data_dir))
         entry = BronsonChildBalladsEntry(entry_id, sources)
         index.add_entry(entry)
-    index.export(corpus_dir)
+    index.export(CORPUS_DIR)
 
 
 if __name__ == "__main__":
