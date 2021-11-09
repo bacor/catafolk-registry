@@ -75,6 +75,7 @@ if __name__ == "__main__":
         'boehme-altdeutsches-liederbuch',
         "boehme-volksthumliche-lieder",
         "bronson-child-ballads",
-        'creighton-nova-scotia'
+        'creighton-nova-scotia',
+        'densmore-choctaw'
     ]
     generate_indices(include_corpora=corpora)
