@@ -32,9 +32,9 @@ class DensmoreMaiduEntry(IndexEntry):
         collectors="Frances Densmore",
         culture="Maidu",
         culture_dplace_id="Nc12",
-        encoders='Daniel Shanahan|Eva Shanahan',
+        encoders="Daniel Shanahan|Eva Shanahan",
         encoding_date=2014,
-        copyright='Copyright 2014 Daniel and Eva Shanahan',
+        copyright="Copyright 2014 Daniel and Eva Shanahan",
         location="Chico, California",
         latitude=39.74,
         longitude=-121.835556,
@@ -48,14 +48,13 @@ class DensmoreMaiduEntry(IndexEntry):
         file_format="file.cf_format",
         file_checksum="file.cf_checksum",
         genres="meta.genre",
-        publication_page_num='meta.page_num',
-        publication_song_num='meta.song_num',
-        
+        publication_page_num="meta.page_num",
+        publication_song_num="meta.song_num",
         # Defaults fields from meta fields:
         lyrics_translation="meta.free_translation",
         description="meta.analysis",
         catalogue_num="meta.catalogue_num",
-        tonality = "meta.tonality",
+        tonality="meta.tonality",
         tempo="meta.bpm",
         beat_duration="meta.beat_duration",
         meters="meta.meters",
@@ -67,12 +66,11 @@ class DensmoreMaiduEntry(IndexEntry):
         instrumentation="meta.instrumentation",
     )
 
-    export_unused_fields=True
+    export_unused_fields = True
     used_fields = [
         "file.OTL",
         "file.PDT",
         "file._comments",
-        
         # Ignore
         "meta.title",
         "meta.free_translation",
@@ -82,24 +80,26 @@ class DensmoreMaiduEntry(IndexEntry):
     ]
 
     def get_file_url(self):
-        fn = self.get('file.cf_name')
-        return f'https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{fn}.krn'
-    
+        fn = self.get("file.cf_name")
+        return (
+            f"https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{fn}.krn"
+        )
+
     def get_title(self):
-        otl = self.get('file.OTL')
-        matches = re.match('(No_+\d+_)?([^\.]+)(.krn)?', otl)
+        otl = self.get("file.OTL")
+        matches = re.match("(No_+\d+_)?([^\.]+)(.krn)?", otl)
         if matches:
-            return matches[2].replace('_', ' ')
+            return matches[2].replace("_", " ")
         else:
             return otl
-    
+
     def get_publication_preview_url(self):
-        page_num = self.get('publication_page_num') + 16
-        return f'https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={page_num}'
+        page_num = self.get("publication_page_num") + 16
+        return f"https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={page_num}"
 
     def get_comments(self):
-        comments = [self.get('file._comments'), self.get('meta.comments')]
-        comments = [c for c in comments if c is not None and c != '']
+        comments = [self.get("file._comments"), self.get("meta.comments")]
+        comments = [c for c in comments if c is not None and c != ""]
         if len(comments) == 0:
             return None
         else:
@@ -114,8 +114,8 @@ def generate_index():
     index = Index()
     meta_source = CSVSource(CORPUS_DIR / "src/additional-metadata.csv")
     for path in paths:
-        matches = re.match('No_+(\d+)', path.stem)
-        entry_id = f'maidu{matches[1]:0>3}'
+        matches = re.match("No_+(\d+)", path.stem)
+        entry_id = f"maidu{matches[1]:0>3}"
         sources = dict(file=FileSource(path, root=data_dir), meta=meta_source)
         entry = DensmoreMaiduEntry(entry_id, sources)
         index.add_entry(entry)

@@ -55,9 +55,8 @@ class DensmoreChoctawEntry(IndexEntry):
         metric_classification="file.AMT",
         tempo="meta.bpm",
         comments="file._comments",
-        
         # Defaults fields from meta fields:
-        tonality = "meta.tonality",
+        tonality="meta.tonality",
         beat_duration="meta.beat_duration",
         meters="meta.meters",
         performers="meta.performers",
@@ -66,10 +65,10 @@ class DensmoreChoctawEntry(IndexEntry):
         percussion_use="meta.percussion_use",
         voice_use="meta.voice_use",
         instrumentation="meta.instrumentation",
-        catalogue_number="meta.catalog_num"
+        catalogue_number="meta.catalog_num",
     )
 
-    export_unused_fields=True
+    export_unused_fields = True
     used_fields = [
         "file.OTL",
         "file.ENC",
@@ -83,7 +82,6 @@ class DensmoreChoctawEntry(IndexEntry):
         "file.ODT",
         "file.mpn",
         "file._comments",
-
         # Constants
         "file.CNT",
         "file.TXO",
@@ -91,13 +89,12 @@ class DensmoreChoctawEntry(IndexEntry):
         "file.PPR",
         "file.PPP",
         "file.OCY",
-        
         # Ignore
         "meta.title",
         "meta.publication_page_num",
         "meta.publication_song_num",
     ]
-    
+
     def get_publication_page_num(self):
         yor = self.get("file.YOR")
         matches = re.match("Bulletin 136, page (\\d+), No. (.+)", yor[-1])
