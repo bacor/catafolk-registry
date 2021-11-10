@@ -4,7 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: densmore-maidu
-version: 0.0.0
+version: 0.0.1
 
 # List of groups dataset belongs (see groups.yml) Optional.
 group_ids: [densmore]
@@ -92,33 +92,33 @@ issues:
 # Catafolk options
 # —————————————————————————————————————————————————————————————————
 
-sources:
-  - name: file
-    type: file
-    file_pattern: data/*.krn
-    id_transformations:
-    - operation: extract_groups
-      inputs: [OTL]
-      outputs: [source_song_num]
-      params:
-        pattern: No_+(\d+)
-        groups: [1]
-    - [format, source_song_num, new_id, {pattern: "maidu{:0>3}"}]
-  - name: meta
-    type: csv
-    path: additional-metadata.csv
-    id_field: id
+# sources:
+#   - name: file
+#     type: file
+#     file_pattern: data/*.krn
+#     id_transformations:
+#     - operation: extract_groups
+#       inputs: [OTL]
+#       outputs: [source_song_num]
+#       params:
+#         pattern: No_+(\d+)
+#         groups: [1]
+#     - [format, source_song_num, new_id, {pattern: "maidu{:0>3}"}]
+#   - name: meta
+#     type: csv
+#     path: additional-metadata.csv
+#     id_field: id
     
-transformations:
+# transformations:
   
   # General 
   # —————————————————————————————————————————————————————————————————
-  - constant: [dataset_id, densmore-maidu]
-  - to_string_list: [file.SUPERFUNCTION, genres]
-  - to_json_object:
-    - [file.LANG, file.LING_GROUP, meta.record_num, meta.genre]
-    - other_fields
-    - keys: [lang, ling_group, record_num, section]
+  # - constant: [dataset_id, densmore-maidu]
+  # - to_string_list: [file.SUPERFUNCTION, genres]
+  # - to_json_object:
+  #   - [file.LANG, file.LING_GROUP, meta.record_num, meta.genre]
+  #   - other_fields
+  #   - keys: [lang, ling_group, record_num, section]
   # other_fields
   # comments
   # warnings
@@ -127,37 +127,37 @@ transformations:
 
   # File 
   # —————————————————————————————————————————————————————————————————
-  - rename: [file.cf_path, file_path]
-  - rename: [file.cf_format, file_format]
-  - rename: [file.cf_checksum, file_checksum]
-  - constant: [file_has_music, true]
-  - constant: [file_has_lyrics, false]
-  - constant: [file_has_license, false]
-  - format: 
-    - file.cf_name
-    - file_url
-    - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{}.krn
+  # - rename: [file.cf_path, file_path]
+  # - rename: [file.cf_format, file_format]
+  # - rename: [file.cf_checksum, file_checksum]
+  # - constant: [file_has_music, true]
+  # - constant: [file_has_lyrics, false]
+  # - constant: [file_has_license, false]
+  # - format: 
+  #   - file.cf_name
+  #   - file_url
+  #   - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{}.krn
   
   # file_preview_url
 
 
   # Collection 
   # —————————————————————————————————————————————————————————————————
-  - constant: [collectors, Frances Densmore]
-  - constant: [collection_date, 1937-03]
+  # - constant: [collectors, Frances Densmore]
+  # - constant: [collection_date, 1937-03]
 
   # Culture
   # —————————————————————————————————————————————————————————————————
-  - constant: [culture, Maidu]
-  - constant: [culture_dplace_id, Nc12]
+  # - constant: [culture, Maidu]
+  # - constant: [culture_dplace_id, Nc12]
   # culture_hraf_id
 
 
   # Encoding
   # —————————————————————————————————————————————————————————————————
-  - constant: [encoders, Daniel Shanahan|Eva Shanahan]
-  - constant: [encoding_date, 2014]
-  - constant: [copyright, Copyright 2014 Daniel and Eva Shanahan]
+  # - constant: [encoders, Daniel Shanahan|Eva Shanahan]
+  # - constant: [encoding_date, 2014]
+  # - constant: [copyright, Copyright 2014 Daniel and Eva Shanahan]
   # contributors
   # license_id
   # version
@@ -165,33 +165,33 @@ transformations:
 
   # Location
   # —————————————————————————————————————————————————————————————————
-  - constant: [location, "Chico, California"]
-  - constant: [latitude, 39.74]
-  - constant: [longitude, -121.835556]
-  - constant: [auto_geocoded, false]
+  # - constant: [location, "Chico, California"]
+  # - constant: [latitude, 39.74]
+  # - constant: [longitude, -121.835556]
+  # - constant: [auto_geocoded, false]
 
   # Lyrics
   # —————————————————————————————————————————————————————————————————
-  - operation: extract_groups
-    inputs: [file.OTL]
-    outputs: [title_underscore]
-    params:
-      pattern: (No_+\d+_)?([^\.]+)(.krn)?
-      groups: [2]
-  - replace: [title_underscore, title, {old: _, new: " "}]
-  - constant: [language, Maiduan]
-  - constant: [glottolog_id, maid1262]
-  - rename: [meta.free_translation, lyrics_translation]
+  # - operation: extract_groups
+  #   inputs: [file.OTL]
+  #   outputs: [title_underscore]
+  #   params:
+  #     pattern: (No_+\d+_)?([^\.]+)(.krn)?
+  #     groups: [2]
+  # - replace: [title_underscore, title, {old: _, new: " "}]
+  # - constant: [language, Maiduan]
+  # - constant: [glottolog_id, maid1262]
+  # - rename: [meta.free_translation, lyrics_translation]
   # title_translation
   # lyrics
 
 
   # Music
-  # —————————————————————————————————————————————————————————————————
-  - rename: [meta.tonality, tonality]
-  - rename: [meta.bpm, tempo]
-  - rename: [meta.beat_duration, beat_duration]
-  - rename: [meta.meters, meters]
+  # # —————————————————————————————————————————————————————————————————
+  # - rename: [meta.tonality, tonality]
+  # - rename: [meta.bpm, tempo]
+  # - rename: [meta.beat_duration, beat_duration]
+  # - rename: [meta.meters, meters]
   # scale
   # ambitus
   # metric_classification
@@ -200,30 +200,30 @@ transformations:
 
   # Performance
   # —————————————————————————————————————————————————————————————————
-  - rename: [meta.performers, performers]
-  - rename: [meta.performer_genders, genders]
-  - rename: [meta.instrumentation, instrumentation]
-  - rename: [meta.instrument_use, instrument_use]
-  - rename: [meta.percussion_use, percussion_use]
-  - rename: [meta.voice_use, voice_use]
+  # - rename: [meta.performers, performers]
+  # - rename: [meta.performer_genders, genders]
+  # - rename: [meta.instrumentation, instrumentation]
+  # - rename: [meta.instrument_use, instrument_use]
+  # - rename: [meta.percussion_use, percussion_use]
+  # - rename: [meta.voice_use, voice_use]
   
   
   # Publication
   # —————————————————————————————————————————————————————————————————
-  - constant: [publication_key, densmore1958maidu]
-  - [[to_int, to_string], meta.song_num, publication_song_num]
-  - rename: [meta.page_num, publication_page_num]
-  - constant: [publication_type, book]
-  - constant: [publiation_title, Music of the Maidu Indians of California]
-  - constant: [publication_authors, Frances Densmore]
-  - constant: [publication_date, 1958]
-  - operations: [to_int, add, format]
-    inputs: [publication_page_num]
-    outputs: [publication_preview_url]
-    params:
-      - {}
-      - value: 16
-      - pattern: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={}
+  # - constant: [publication_key, densmore1958maidu]
+  # - [[to_int, to_string], meta.song_num, publication_song_num]
+  # - rename: [meta.page_num, publication_page_num]
+  # - constant: [publication_type, book]
+  # - constant: [publiation_title, Music of the Maidu Indians of California]
+  # - constant: [publication_authors, Frances Densmore]
+  # - constant: [publication_date, 1958]
+  # - operations: [to_int, add, format]
+    # inputs: [publication_page_num]
+    # outputs: [publication_preview_url]
+    # params:
+    #   - {}
+    #   - value: 16
+    #   - pattern: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={}
   # catalogue_number
 
   

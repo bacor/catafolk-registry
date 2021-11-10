@@ -1,0 +1,3633 @@
+maidu001:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody consists of a four-measure phrase, repeated 9 times with
+    inter esting variations. A two-measure phrase occurs midway through the melody
+    and at the close. The song has a compass of 5 tones and contains only the tones
+    of the minor triad and fourth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 33fd2b1dd872a59659bc6ec5d871b46c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_1_Song_of_the_Hesi_Dance_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|striking on a plank
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 5, "meta.singers_num":
+    3, "meta.bpm_voice": "92", "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 17
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=33
+  publication_song_num: '1'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '92'
+  title: Song of the Hesi Dance (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu002:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: An interesting dance rhythm occurs in this melody, the performance
+    end ing on the fourth above the keynote. Several renditions of the repeated portion
+    were recorded.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 387c27155f123e75b13093d93a1f477a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_2_Song_of_the_Hesi_Dance_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|striking on a plank
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 6, "meta.singers_num":
+    4, "meta.bpm_voice": "60", "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 18
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=34
+  publication_song_num: '2'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Song of the Hesi Dance (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu003:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The longest tone in this song is the quarter note at the beginning
+    of the repeated portion. This tone seems to steady the rhythm of the entire melody.
+    Many short rests occur, and were given clearly. The song has a compass of 6 tones
+    and is based on the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 8bd8869c0404bccad3336420653a9ebc
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_3_Song_of_the_Duck_Dance_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 16, "meta.singers_num":
+    8, "meta.bpm_voice": "88", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 18
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=34
+  publication_song_num: '3'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Song of the Duck Dance (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu004:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The rhythm of this melody is somewhat jerky, and the phrases are short.
+    The tones are those of the minor triad and fourth and every phrase is descending
+    in trend.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: f9a9bb362a1329f2541ab7d5c85433b1
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_4_Song_of_the_Duck_Dance_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 15, "meta.singers_num":
+    8, "meta.bpm_voice": "72", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 19
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=35
+  publication_song_num: '4'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '72'
+  title: Song of the Duck Dance (b)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu005:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: In structure this melody resembles the first song of the Hesi (No.
+    1). A phrase containing two measures is repeated ten times, with slight variations.
+    A one-measure phrase in a slightly different rhythm occurs midway the length of
+    the melody. The rhythm and tones of the first measure are duplicated only in the
+    third measure, while the rhythm and tones of the second measure recur several
+    times in the melody. Like many songs of the Maidu, this melody has a compass of
+    five tones and is based on the minor triad and fourth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1bb74348409bd668cad88f23a09d67f5
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_5_Song_of_the_Duck_Dance_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 7, "meta.singers_num":
+    3, "meta.bpm_voice": "60", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 19
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=35
+  publication_song_num: '5'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Song of the Duck Dance (c)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu006:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody resembles the preceding dance songs in its two-measure
+    answering phrases, but differs in melodic structure. This melody is framed on
+    two overlapping tetrachords (D-C-A and C-A-G), each phrase ending with an ascending
+    fourth. The keynote is midway the compass of the melody. In the pre ceding songs
+    the keynote is frequently the lowest tone occurring in the melody.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 45e627ae6754f3f975ae4d22be2c628a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_6_Song_of_the_Duck_Dance_(d).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 8, "meta.singers_num":
+    4, "meta.bpm_voice": "60", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 20
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=36
+  publication_song_num: '6'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Song of the Duck Dance (d)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu007:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This song has a marching rhythm and the phrases are short. The progressions
+    suggest C sharp as the keynote, with a minor tonality. The third above C does
+    not occur, but the sixth above C is a prominent tone and is a minor sixth above
+    the keynote.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 18173628d130475af6eb749a4d90287e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_7_Song_of_the_Bear_Dance_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 18, "meta.singers_num":
+    10, "meta.bpm_voice": "80", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 21
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=37
+  publication_song_num: '7'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '80'
+  title: Song of the Bear Dance (a)
+  title_translation: null
+  tonality: irregular
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu008:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: A swinging rhythm characterizes this song, which contains long phrases
+    without a rest. An ascending fourth occurs frequently, and overlapping, descend
+    ing tetrachords occur several times (C-B flat-G and B flat-G-F). The keynote is
+    next to the highest tone, and the third occurs only as the initial unaccented
+    tone. This song is an example of a melody with interval-formation.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 7abdeb608c4cd4a58b5932d67e67117c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_8_Song_of_the_Bear_Dance_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 17, "meta.singers_num":
+    9, "meta.bpm_voice": "88", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 21
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=37
+  publication_song_num: '8'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Song of the Bear Dance (b)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu009:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This song opens with a lively rhythm, but the change of measure-length
+    in the third measure introduces a heavier motion, characterized by a succession
+    of eighth notes. The implied keynote is A flat, and the melody contains the tones
+    of the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 5399f89d175afc8ff199d8fbd3eb3169
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_9_Song_of_the_Bear_Dance_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 19, "meta.singers_num":
+    11, "meta.bpm_voice": "88", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 22
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=38
+  publication_song_num: '9'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Song of the Bear Dance (c)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu010:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The tonality of this melody is not clear, but it is transcribed as
+    nearly as possible. The tone transcribed as C sharp was often sung above the indicated
+    pitch, and the tone transcribed as E was not clear in its intonation; but both
+    D sharp and A were given clearly. It is a peculiar melody with a graceful rhythm
+    and many descending phrases. Two renditions were recorded and are alike in the
+    essentials of rhythm and melody.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4144a81168e94ab7f687ed861c95d3e4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_10_Song_of_the_Grasshopper_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of ceremonial dances
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4|3/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
+    "songs of ceremonial dances", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 12, "meta.singers_num":
+    6, "meta.bpm_voice": "104", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 22
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=38
+  publication_song_num: '10'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '104'
+  title: Song of the Grasshopper Dance
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu011:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: A peculiarity of this song is the prominence of the tone above the
+    keynote which ends a majority of the phrases and is the final tone of the song.
+    The only tones are those of the major triad and second. Several renditions were
+    recorded and are identical.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4a67087345ad7101d73196a52f85d2c2
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_11_The_Dancers_Approach_the_Lodge_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 33, "meta.singers_num": 14, "meta.bpm_voice": "88",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 25
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=41
+  publication_song_num: '11'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: The Dancers Approach the Lodge (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu012:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The next song is different from the next preceding in melodic and rhythmic
+    structure. It is based on the fourth five-toned scale and framed on two descending
+    fourths which occur consecutively, about midway through the melody. The reversal
+    of count divisions in succeeding phrases is interesting and shows a definite sense
+    of rhythm. The swinging, swaying rhythm of the phrases beginning on C, with their
+    descending trend, has been noted in several other Maidu dance songs.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d2921f852cb76335b4bef577ad4226ec
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_12_The_Dancers_Approach_the_Lodge_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 21, "meta.singers_num": 9, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 26
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=42
+  publication_song_num: '12'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: The Dancers Approach the Lodge (b)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu013:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: In this song the keynote is in the middle of the compass and the tones
+    are those of a major triad and second. Like the song next preceding, this is character
+    ized by one-measure phrases, each followed by a short rest.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ed7dff0a5c7f750e7fea08b1955b9310
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_13_Social_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 32, "meta.singers_num": 19, "meta.bpm_voice": "88",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 26
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=42
+  publication_song_num: '13'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Social Dance Song (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu014:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The tempo of this song is slow, as in a majority of Maidu dance songs.
+    The melody consists of only four phrases and was repeated many times. The tones
+    are those of the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6e844d0f7a26d1aa8b7b1beb93ea2ac0
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_14_Social_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 1, "meta.singers_num": 1, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 26
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=42
+  publication_song_num: '14'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Social Dance Song (b)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu015:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The count-divisions in this melody are small and the range is low,
+    as in many songs recorded by Indian women. The tones are those of the fourth five-toned
+    scale, and attention is directed to the rhythm of the fourth measure from the
+    close in which the final count reverses the divisions in the opening measure.
+    Many renditions were recorded and are uniform in every respect.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 91104deb931f762abf72c6d33f5c0039
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_15_Social_Dance_Song_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 2, "meta.singers_num": 1, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 26
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=42
+  publication_song_num: '15'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Social Dance Song (c)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu016:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: "This melody is based on two intervals of a whole tone\u2014 E-F sharp\
+    \ and B-C sharp. Two fourths, B-E and C sharp-F sharp, are also prominent in the\
+    \ melody. A pleasant swaying motion is given by the frequent ascent and descent\
+    \ of the phrases."
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6db23af943063c3c3e98e2224ca55742
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_16_Social_Dance_Song_(d).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 13, "meta.singers_num": 7, "meta.bpm_voice": "56",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 27
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=43
+  publication_song_num: '16'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '56'
+  title: Social Dance Song (d)
+  title_translation: null
+  tonality: irregular
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu017:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The fourth five-toned scale forms the basis of this melody, which has
+    a compass of seven tones. The keynote is next to the highest tone occurring in
+    the song. The repeated portion was sung several times, the renditions being identical.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 72be499aca8915642a1577c8d0ec54d4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_17_Social_Dance_Song_(e).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 14, "meta.singers_num": 7, "meta.bpm_voice": "56",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 27
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=43
+  publication_song_num: '17'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '56'
+  title: Social Dance Song (e)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu018:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Attention is directed to the break in the rhythm of this song, occurring
+    in the fifth measure. A change of rhythm midway the length of an Indian song is
+    noted frequently. The melody is based on the major triad with the keynote as the
+    highest tone, which is a somewhat unusual placing of the melody.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 5a7845d8111626db9fda566099c1bc6d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_18_Social_Dance_Song_(f).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 40, "meta.singers_num": 17, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 28
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=44
+  publication_song_num: '18'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Social Dance Song (f)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu019:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The interval of a fourth constitutes the framework of this song, though
+    it seldom occurs without a passing tone. Two renditions of the song were recorded,
+    one with and one without the accompaniment of a clacker. The renditions were identical,
+    except for the occasional substitution of E flat for G as the final tone in the
+    fifth measure from the close. In both renditions the repeated portion was sung
+    several times, and the second and third measures from the close were omitted in
+    the ending of the performance. The clacker was synchronous with the voice in the
+    measures having a predominance of sixteenth notes. In other measures it was less
+    regular, though maintaining a general rhythm of sixteenth notes. (Compare No.
+    27.)
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 723c8e036a87f4e586ecfba8693f7c6e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_19_Social_Dance_Song_(g).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 46, "meta.singers_num": 19, "meta.bpm_voice": "56",
+    "meta.bpm_drum": 56.0}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 28
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=44
+  publication_song_num: '19'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '56'
+  title: Social Dance Song (g)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu020:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The phrasing of this melody is crisp and lively. The tones are those
+    of the fourth five-toned scale, the phrases are chiefly descending, and the compass
+    is an octave, which is larger than in a majority of Maidu songs.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 728feb8643343c86647bbb830970fb61
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_20_Social_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 51, "meta.singers_num": 30, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 28
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=44
+  publication_song_num: '20'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Social Dance Song (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu021:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: A change of tempo and an elaborate rhythm characterize this song, which
+    was repeated several times without change.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1aea758d4dcd01c627063027eb441ceb
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_21_Toto_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 27, "meta.singers_num": 16, "meta.bpm_voice": "56",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 29
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=45
+  publication_song_num: '21'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '56'
+  title: Toto Dance Song (a)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu022:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody progresses almost entirely by whole tones. It is based
+    on the fourth five-toned scale and marked by descending slurred phrases.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 3f5c53172c643b316aad32b6891a12b6
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_22_Toto_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 28, "meta.singers_num": 17, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 29
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=45
+  publication_song_num: '22'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Toto Dance Song (b)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu023:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: With few exceptions the remaining Maidu songs are more rapid in tempo
+    than those preceding. The tempo of this melody is a quarter note equivalent to
+    108, as measured by the metronome. The tones are those of the minor triad and
+    fourth; the song has a compass of five tones and contains no change of measure-length.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 455d08c105d4d7eb4f514c023d2870a4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_23_Circle_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 29, "meta.singers_num": 12, "meta.bpm_voice": "108",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 30
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=46
+  publication_song_num: '23'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '108'
+  title: Circle Dance Song (a)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu024:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody consists of five periods, generally containing two phrases
+    of two measures each, which seem to answer each other. The song is based on the
+    minor triad, with the fifth as the lowest tone.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ea571dcdc6d75274a30dd5a2d11b2658
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_24_Circle_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 30, "meta.singers_num": 13, "meta.bpm_voice": "80",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 30
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=46
+  publication_song_num: '24'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '80'
+  title: Circle Dance Song (b)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu025:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Three renditions of this song were recorded without a pause. The rendi
+    tions are alike except that the repetition of the first half occurs only in the
+    first rendition. The melody contains only three tones, with whole tone intervals.
+    The intonation was not accurate, as the Indian generally finds difficulty in maintaining
+    the pitch-relation of a succession of small intervals.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: a40146d05024cbd16e0e8a858332d101
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_25_Closing_Song_of_Circle_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 31, "meta.singers_num": 18, "meta.bpm_voice": "92",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 31
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=47
+  publication_song_num: '25'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '92'
+  title: Closing Song of Circle Dance
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu026:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody progresses chiefly by whole-tone intervals, with the fourth
+    as a prominent interval in the framework. It is characterized by a short note
+    followed by a dotted note.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 5510654536350fee613c1f115a68417e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_26_Dance_Song_from_Grindstone_Village_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 10, "meta.singers_num": 6, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 31
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=47
+  publication_song_num: '26'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Dance Song from Grindstone Village (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu027:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: In contrast to that next preceding, this melody is characterized by
+    a dotted eighth followed by a sixteenth note. The principal tones are B, D, and
+    E in the upper and lower octave. The song was recorded with the accompaniment
+    of a clacker. Where audible, this was in strokes equivalent to a quarter note
+    of the melody. (Compare No. 19.)
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ded959c3126d4ae4741bb7b55ee9c859
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_27_Dance_Song_of_Grindstone_Village_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 45, "meta.singers_num": 18, "meta.bpm_voice": "96",
+    "meta.bpm_drum": 96.0}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 31
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=47
+  publication_song_num: '27'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '96'
+  title: Dance Song of Grindstone Village (b)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu028:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The dance rhythm of this melody is simple and vigorous. The intervals
+    are small and, as in similar instances, the intonation on these intervals was
+    some what irregular. The last phrase of the song is repeated six times.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 29648a1ea07cf6e54deca623343ebbc4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_28_Song_of_a_Jumping_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 37, "meta.singers_num": 15, "meta.bpm_voice": "96",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 32
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=48
+  publication_song_num: '28'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '96'
+  title: Song of a Jumping Dance
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu029:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: A rest occurs at the close of each measure in this melody. The tempo
+    is slower than in a majority of the songs in the latter portion of this memoir,
+    and the tones are those of the minor triad and fourth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 901748959354451e2c4d9c56aab8e54c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_29_Slide_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 47, "meta.singers_num": 20, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 33
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=49
+  publication_song_num: '29'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Slide Dance Song
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu030:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The framework of this melody consists of a major triad with a frequent
+    descent to the minor third below the keynote. This series comprises a minor triad
+    and minor seventh, and the tones, as in this instance, usually occur in descending
+    order. It occurs in the second and third measures as the sequence B flat- G- E
+    flat- C, and reappears throughout the melody. (Compare No. 46.)
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 5a785de94f90a62a732269551c42c680
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_30_Dream_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs of social dances
+  glottolog_id: maid1262
+  instrument_use: true
+  instrumentation: voice|clacker
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
+    social dances", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 9, "meta.singers_num": 5, "meta.bpm_voice": "60",
+    "meta.bpm_drum": NaN}'
+  percussion_use: true
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 34
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=50
+  publication_song_num: '30'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '60'
+  title: Dream Dance Song
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu031:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '0.5'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This song is connected with a story, and its structure offers a contrast
+    to the ceremonial and social dance songs. This melody has a compass of an octave
+    and moves freely between the highest and lowest tones of that compass. The count-
+    divisions are small, and the song contains no change of measure lengths. The descending
+    phrases may suggest the motion of the sand-hill cranes which are supposed to have
+    given the song to the girls, while they were gathering clover.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 66810dd9ef3f9f8038aedacc1c571857
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_31_Song_of_the_Sand-Hill_Cranes.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with gathering clover
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
+    connected with gathering clover", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 48, "meta.singers_num":
+    21, "meta.bpm_voice": "152", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 35
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=51
+  publication_song_num: '31'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '152'
+  title: Song of the Sand-Hill Cranes
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu032:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Strong accents characterize this song, and we note that it concerns
+    a difference of opinion between the boys and the girls. The melody contains only
+    three tones, occurring in -varied order. The phrases contain two measures, each
+    phrase followed by a rest. The singing could be continued indefinitely, with the
+    phrases repeated in any desired order.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 62aeb4bc08042ae6b498de793f4bef9e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_32_Song_of_the_Two_Boys_Who_Went_for_Clover.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with gathering clover
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
+    connected with gathering clover", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 35, "meta.singers_num":
+    22, "meta.bpm_voice": "88", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 36
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=52
+  publication_song_num: '32'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Song of the Two Boys Who Went for Clover
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu033:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This is the only recorded Maidu song which is based on the second five-
+    toned scale. It is minor in tonality and omits the second and sixth tones of the
+    octave. The keynote is the highest note occurring in the song and is present in
+    most of the measures. Short rests occur frequently. The entire form of the melody
+    is in keeping with the words. It could be continued indefinitely, and only the
+    first portion of the performance is presented. It was sung a semitone lower than
+    the transcription.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 196682438800f39d838dfe5001ff15f9
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_33_Come_Home,_Baby_Is_Crying.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with gathering acorns
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.REG": "Northern California",
+    "file.SOCIAL_FUNCTION": "songs connected with gathering acorns", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 20, "meta.singers_num":
+    12, "meta.bpm_voice": "63", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 38
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=54
+  publication_song_num: '33'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '63'
+  title: Come Home, Baby Is Crying
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu034:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Two intervals of a fourth are the principal framework of this melody.
+    The keynote is the highest tone and the two-measure opening phrase is followed
+    by short, somewhat exclamatory phrases which probably contain the words. The tempo
+    is not rapid, though the message of the song is somewhat urgent.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 82636d54476c4f5f9858479432acd135
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_34_Bring_a_Blanket.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with gathering acorns
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
+    connected with gathering acorns", "file.REG": "Northern California", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Penutian", "meta.record_num": 22, "meta.singers_num":
+    13, "meta.bpm_voice": "80", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 40
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=56
+  publication_song_num: '34'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '80'
+  title: Bring a Blanket
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu035:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The rhythm of this song is well adapted to its use. Two intervals of
+    a fourth characterize the framework, these being G-D, and F-C. Seven renditions
+    were recorded, the only difference being that in the final rendition the count-
+    division in the last count of the second measure consists of two eighths instead
+    of a dotted eighth followed by a sixteenth note. The song is major in tonality
+    and based on the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 9ddc23a7395828229684e35efaaa98aa
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_35_Hand-Game_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: hand game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "game", "file.SOCIAL_FUNCTION": "hand game
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 24, "meta.singers_num": 10, "meta.bpm_voice": "112",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 43
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=59
+  publication_song_num: '35'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '112'
+  title: Hand-Game Song (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu036:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody consists of two phrases, each with a descending trend,
+    the song closing with an ascending interval. No differences occur in the nine
+    renditions.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: c1850e4884134165544f8faf576ebb9f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_36_Hand-Game_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: hand game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "game", "file.SOCIAL_FUNCTION": "hand game
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 25, "meta.singers_num": 11, "meta.bpm_voice": "120",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 43
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=59
+  publication_song_num: '36'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '120'
+  title: Hand-Game Song (b)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu037:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The form of this pleasing melody does not suggest its use. Among all
+    Indian tribes the songs associated with games are usually small in compass and
+    monotonous in rhythm, with short phrases. This song has a compass of an octave
+    and is based on the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ebfc7746623cac349e41d1b2ebf5ae11
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_37_Woman's_Game_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: woman's game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
+    "woman''s game songs", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 43, "meta.singers_num": 26,
+    "meta.bpm_voice": "112", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 44
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=60
+  publication_song_num: '37'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '112'
+  title: Woman's Game Song (a)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu038:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The second measure of this melody occurs in twelve forms, the tones
+    being the same, but the rhythm being different. Each of these varied occurrences
+    is followed by the third measure of the song, which is repeated without change
+    except for an occasional rest on the last count. This supplies the monotonous
+    rhythm that is connected with gaming songs and becomes almost hypnotic in its
+    many repetitions. This melody contains the tones of the minor triad and fourth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 24ca095de47349fe34e09b931fca0b3d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_38_Woman's_Game_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: woman's game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
+    "woman''s game songs", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 23, "meta.singers_num": 14,
+    "meta.bpm_voice": "100", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 44
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=60
+  publication_song_num: '38'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '100'
+  title: Woman's Game Song (b)
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu039:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Frequent changes of tempo characterize this song, with its short phrases,
+    each followed by a rest. The melody is based on the fourth five-toned scale and
+    moves freely within its compass of six tones.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d74794133d9f1c223777e21324e7719a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_39_Woman's_Game_Song_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: woman's game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4|3/8|4/8|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
+    "woman''s game songs", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 26, "meta.singers_num": 15,
+    "meta.bpm_voice": "120", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 45
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=61
+  publication_song_num: '39'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '120'
+  title: Woman's Game Song (c)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu040:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The alternation of phrases in this song resembles that in No. 38. The
+    changes of measure-lengths were maintained clearly, and the swaying downward and
+    upward is interesting. A portion of the melody is above and a portion below the
+    keynote. The song contains the tones of the fourth five-toned scale.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e45eb57765de1c2bfdf1096511b9ffad
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_40_Woman's_Game_Song_(d).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: woman's game songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
+    "woman''s game songs", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 44, "meta.singers_num": 27,
+    "meta.bpm_voice": "76", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 46
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=62
+  publication_song_num: '40'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '76'
+  title: Woman's Game Song (d)
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu041:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: A peculiarity of this song is the accidental, which was sung clearly.
+    The performance ends on the tone above the keynote. In this, as in numerous other
+    instances, the signature is intended to show the pitch of certain tones, not to
+    suggest that the singer had any knowledge of our musical system.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4f9104e697886d5ff0d8d73f7b3860f7
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_41_The_Two_Girls_Are_Together.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with girls' adolescence ceremony
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4|2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
+    "file.SOCIAL_FUNCTION": "songs connected with girls'' adolescence ceremony", "file.REG":
+    "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP": "Penutian",
+    "meta.record_num": 4, "meta.singers_num": 2, "meta.bpm_voice": "88", "meta.bpm_drum":
+    NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 47
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=63
+  publication_song_num: '41'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: The Two Girls Are Together
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu042:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This song is minor in tonality and is characterized by the prominence
+    of the seventh, which is a whole tone below the keynote. This tone occurs in the
+    third, fifth, and seventh measures, approached by a descent from the keynote and
+    followed by an ascent to that tone. This sequence is in a slightly slower tempo.
+    The melody contains all the tones of the octave except the sixth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ca69f1a59694a7f8a0aca962ba5d04f5
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_42_Look_at_the_Poppy_Flowers,_Growing_Fine.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with girls' adolescence ceremony
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "women"], "file.REG": "Northern
+    California", "file.LANG": "Non-Tone", "file.SOCIAL_FUNCTION": "songs connected
+    with girls'' adolecence ceremony", "file.LING_GROUP": "Penutian", "meta.record_num":
+    3, "meta.singers_num": 2, "meta.bpm_voice": "112", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 48
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=64
+  publication_song_num: '42'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '112'
+  title: Look at the Poppy Flowers, Growing Fine
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu043:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: The metronome marks are a little odd It starts in quarter=168 and then
+    changes to eighth=184. The given tempi are all in quarters.
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The first part of this melody is based on four tones and is in a dance
+    rhythm, with short phrases and frequent rests. After the change of tempo, the
+    compass is extended to five tones, with A retained as the lowest tone. The rhythm
+    is also changed for a duration of three measures, suggesting this phrase may contain
+    the words. The song closes with a return of the opening rhythm.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4831fdd002c50a8d908fdadd80375679
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_43_Make_the_Girls_Happy.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with girls' adolescence ceremony
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/8|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
+    "file.SOCIAL_FUNCTION": "songs connected with girls'' adolescence ceremony", "file.REG":
+    "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP": "Penutian",
+    "meta.record_num": 52, "meta.singers_num": 31, "meta.bpm_voice": "168|92", "meta.bpm_drum":
+    NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 48
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=64
+  publication_song_num: '43'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: 168|92
+  title: Make the Girls Happy
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu044:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Minor in tonality, this simple melody contains only the tones B flat,
+    C, D flat, and E flat. The count-divisions are chiefly eighth and quarter notes
+    and the song is not divided into distinct phrases. Within its small limit it is
+    a rather wandering melody.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 79ac4f1ca65de47d0d613ddf98e009c0
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_44_The_Two_Girls_on_the_Bridge.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with girls' adolescence ceremony
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
+    "file.SOCIAL_FUNCTION": "songs connected with girls'' adolescence ceremony", "file.REG":
+    "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP": "Penutian",
+    "meta.record_num": 49, "meta.singers_num": 29, "meta.bpm_voice": "100", "meta.bpm_drum":
+    NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 48
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=64
+  publication_song_num: '44'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '100'
+  title: The Two Girls on the Bridge
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu045:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This melody is positive in rhythm and is based on the major triad.
+    It contains no change of measure-lengths. Four phrases, or periods, comprise the
+    song, each containing four measures. An added two-measure phrase in a different
+    rhythm is inserted before the closing phrase of the song.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 51dab0c1be419e15fc9e5dcd90d2c81c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_45_Closing_Song_of_the_Adolescence_Ceremony.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with girls' adolescence ceremony
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
+    "file.SOCIAL_FUNCTION": "songs connected with girls'' adolescence ceremony", "file.REG":
+    "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP": "Penutian",
+    "meta.record_num": 39, "meta.singers_num": 23, "meta.bpm_voice": "112", "meta.bpm_drum":
+    NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 49
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=65
+  publication_song_num: '45'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '112'
+  title: Closing Song of the Adolescence Ceremony
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu046:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '0.5'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The form of this melody suggests the agitation of the neglected wife.
+    It opens with a four-measure phrase containing three different measure-lengths.
+    This phrase descends an octave. The next phrase, containing six measures, shows
+    no change of measure-length and descends seven tones. (Compare No. 31.) These
+    general characteristics are continued throughout the melody, which contains all
+    the tones of the octave except the seventh.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: b7e006ae5dc9e7c64e1cf54aed73784c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_46_The_Neglected_Wife_Goes_Away.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with stories
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 5/8|4/8|7/8|4/8|3/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
+    connected with stories", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 41, "meta.singers_num": 24,
+    "meta.bpm_voice": "192", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 50
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=66
+  publication_song_num: '46'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '192'
+  title: The Neglected Wife Goes Away
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu047:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: Like the next preceding melody, this is major in tonality and contains
+    all the tones of the octave except the seventh. The rhythm is less irregular than
+    in the preceding song, and the movement of the melody is less erratic and more
+    determined. The opening phrase is based on the descending minor third C-A; the
+    change of tempo is followed by four measures on the descending major triad D-
+    B flat-F, after which the melody returns to the minor third. Only the first portion
+    of the performance was transcribed.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 85f13131c1d4b03476cd28f19668855d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_47_The_Neglected_Wife_Is_Pursued_by_Her_Husband.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with stories
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
+    connected with stories", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 42, "meta.singers_num": 25,
+    "meta.bpm_voice": "100|80", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 51
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=67
+  publication_song_num: '47'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: 100|80
+  title: The Neglected Wife Is Pursued by Her Husband
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu048:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The form of this little melody suggests the limited mind and determined
+    purpose of the gray squirrels. The melody consists of repetitions of a two-measure
+    phrase, and the entire performance is transcribed in order to present the effect
+    of the repetitions. The only tones are C, D, and E flat.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d577ac6ddaf7d1b3034ff94143702c71
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_48_The_Gray_Squirrels_and_the_Fire.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: songs connected with stories
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|7/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
+    connected with stories", "file.REG": "Northern California", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Penutian", "meta.record_num": 36, "meta.singers_num": 22,
+    "meta.bpm_voice": "88", "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 53
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=69
+  publication_song_num: '48'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: The Gray Squirrels and the Fire
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu049:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This pleasing melody has a compass of only four tones. In repetitions
+    of the song, the descending phrase would have a gentle, reassuring quality. The
+    first effort of an Indian doctor, among the many tribes studied, has been to soothe
+    and quiet the patient.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ebc081e97a81b872695b654ccadf881c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_49_Song_of_a_Maidu_Doctor.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: miscellaneous songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 38, "meta.singers_num": 16, "meta.bpm_voice": "108",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 54
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=70
+  publication_song_num: '49'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '108'
+  title: Song of a Maidu Doctor
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu050:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The principal intervals in this melody are whole tones, occurring between
+    C and D and between F and G. It is an example of interval-structure in a melody,
+    without a keynote clearly implied. It seems permissible, however, to regard F
+    as the keynote. The third above that tone does not occur, but the sixth is a prominent
+    interval. The song has a compass of 10 tones. This is the largest compass in the
+    Maidu songs, except No. 27, which has a compass of 11 tones. The rhythm is irregular
+    and the song is characterized by descending phrases.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: cdde557eaa0e7c1e820e30ecf7e3a900
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_50_Song_of_a_Hunter.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: miscellaneous songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4|5/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 34, "meta.singers_num": 21, "meta.bpm_voice": "88",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 54
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=70
+  publication_song_num: '50'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '88'
+  title: Song of a Hunter
+  title_translation: null
+  tonality: major
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu051:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '0.5'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: The form of this melody is interesting in connection with the words
+    of the song. The indicated tempo is rapid and the note-values were maintained
+    clearly.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 51ee92750f970160b0cca0c5180144a8
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_51_A_Rabbit_Is_Going_North.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: miscellaneous songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/8|5/8|3/8
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 54, "meta.singers_num": 22, "meta.bpm_voice": "184|152",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 55
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=71
+  publication_song_num: '51'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: 184|152
+  title: A Rabbit Is Going North
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu052:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: It is impossible to show in notation the pulsations of the singer's
+    voice in the fourth and sixth measures. They suggest, without attempting to imitate,
+    the sound made by the bird. The most interesting phrase is contained in the fifth
+    and sixth measures, with their descending and ascending trend. The song contains
+    all the tones of the octave except the seventh.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 17e81409e3dc242b53539b3975cb8c81
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_52_A_Goose_Laments_His_Lost_Brother.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: miscellaneous songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 2/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 50, "meta.singers_num": 21, "meta.bpm_voice": "100",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: male
+  performers: Pablo Sylvers
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 55
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=71
+  publication_song_num: '52'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '100'
+  title: A Goose Laments His Lost Brother
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+maidu053:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: '1.0'
+  catalogue_num: null
+  collection_date: 1937-03
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: Frances Densmore
+  comments: ''
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Maidu
+  culture_dplace_id: Nc12
+  culture_hraf_id: null
+  dataset_id: densmore-maidu
+  description: This monotonous little lullaby can scarcely be called a song. The oldest
+    Indians did not regard the crooning of a mother as an integrated melody. The present
+    lullaby is so simple that it may be very old. It consists of a one-measure phrase,
+    repeated with occasional slight changes. It contains only the tones of the minor
+    triad and fourth.
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: c77666d928a6cf953f4d99e102d1e46d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/No_53_Lullaby.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/None.krn
+  genres: miscellaneous songs
+  glottolog_id: maid1262
+  instrument_use: null
+  instrumentation: voice
+  language: Maiduan
+  latitude: 39.74
+  license_id: null
+  location: Chico, California
+  longitude: -121.835556
+  lyrics: null
+  lyrics_translation: meta.free_translation
+  meters: 3/4
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.REG": "Northern California", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Penutian", "meta.record_num": 53, "meta.singers_num": 32, "meta.bpm_voice": "100",
+    "meta.bpm_drum": NaN}'
+  percussion_use: null
+  performer_genders: female
+  performers: Amanda Wilson
+  publication_authors: Frances Densmore
+  publication_date: '1958'
+  publication_key: densmore1958maidu
+  publication_page_num: 56
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq=72
+  publication_song_num: '53'
+  publication_title: Music of the Maidu Indians of California
+  publication_type: book
+  scale: null
+  tempo: '100'
+  title: Lullaby
+  title_translation: null
+  tonality: minor
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
