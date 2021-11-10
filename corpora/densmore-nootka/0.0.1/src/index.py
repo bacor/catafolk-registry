@@ -3,19 +3,22 @@ from pathlib import Path
 from catafolk.configuration import Configuration
 from catafolk.index import IndexEntry, Index
 from catafolk.sources import CSVSource, FileSource
+from catafolk.utils import load_corpus_metadata
 
-CORPUS_ID = "densmore-nootka"
-VERSION = "0.0.1"
+CORPUS_DIR = Path(__file__).parent.parent
+CORPUS_METADATA = load_corpus_metadata(CORPUS_DIR / "corpus.yml")
+CORPUS_VERSION = CORPUS_METADATA["version"]
+CORPUS_ID = CORPUS_METADATA["dataset_id"]
 
 
 class DensmoreNootkaEntry(IndexEntry):
 
     source_names = ["meta", "file"]
-
     default_source = "meta"
 
     constants = dict(
         dataset_id=CORPUS_ID,
+        corpus_version=CORPUS_VERSION,
         file_has_music=True,
         file_has_lyrics=True,
         file_has_license=False,
@@ -37,15 +40,15 @@ class DensmoreNootkaEntry(IndexEntry):
     )
 
     mappings = dict(
-        file_path=("file", "cf_path"),
-        file_format=("file", "cf_format"),
-        file_checksum=("file", "cf_checksum"),
-        culture=("meta", "culture"),
-        performers=("meta", "performer"),
-        performer_genders=("meta", "performer_gender"),
-        tempo=("meta", "bpm"),
-        publication_song_num=("meta", "song_num"),
-        publication_page_num=("meta", "page_num"),
+        file_path="file.cf_path",
+        file_format="file.cf_format",
+        file_checksum="file.cf_checksum",
+        culture="meta.culture",
+        performers="meta.performer",
+        performer_genders="meta.performer_gender",
+        tempo="meta.bpm",
+        publication_song_num="meta.song_num",
+        publication_page_num="meta.page_num",
     )
 
     def get_file_url(self):
@@ -96,7 +99,7 @@ class DensmoreNootkaEntry(IndexEntry):
 
 def generate_index():
     config = Configuration()
-    data_dir = Path(config.get("data_dir")) / CORPUS_ID / VERSION
+    data_dir = Path(config.get("data_dir")) / CORPUS_ID / CORPUS_VERSION
     corpus_dir = Path(__file__).parent.parent
     index = Index()
     paths = data_dir.glob("data/*.krn")
@@ -104,11 +107,11 @@ def generate_index():
     for path in paths:
         matches = re.match("No_+(\d+)", path.name)
         entry_id = f"nootka{matches[1]:0>3}"
-        sources = dict(file=FileSource(path), meta=meta_source)
+        sources = dict(file=FileSource(path, root=data_dir), meta=meta_source)
         entry = DensmoreNootkaEntry(entry_id, sources)
         index.add_entry(entry)
 
-    index.export(corpus_dir)
+    index.export(CORPUS_DIR)
 
 
 if __name__ == "__main__":

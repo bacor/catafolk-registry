@@ -72,12 +72,13 @@ def generate_indices(**kwargs) -> None:
 
 if __name__ == "__main__":
     corpora = [
-        'boehme-altdeutsches-liederbuch',
-        "boehme-volksthumliche-lieder",
-        "bronson-child-ballads",
-        'creighton-nova-scotia',
-        'densmore-choctaw',
-        'densmore-maidu',
-        'densmore-menominee'
+        # 'boehme-altdeutsches-liederbuch',
+        # "boehme-volksthumliche-lieder",
+        # "bronson-child-ballads",
+        # 'creighton-nova-scotia',
+        # 'densmore-choctaw',
+        # 'densmore-maidu',
+        # 'densmore-menominee',
+        # 'densmore-nootka',
     ]
     generate_indices(include_corpora=corpora)

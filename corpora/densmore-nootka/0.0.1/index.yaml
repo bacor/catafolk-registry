@@ -10,6 +10,7 @@ nootka001:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -22,7 +23,7 @@ nootka001:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_1_Song_Conserning_the_Whale_Which_Could_Not_Be_Eaten.krn
+  file_path: data/No_1_Song_Conserning_the_Whale_Which_Could_Not_Be_Eaten.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -73,6 +74,7 @@ nootka002:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -85,7 +87,7 @@ nootka002:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__2_Song_Concerning_the_Eatable_Whale.krn
+  file_path: data/No__2_Song_Concerning_the_Eatable_Whale.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -135,6 +137,7 @@ nootka003:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -147,7 +150,7 @@ nootka003:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_3_Song_of_the_Married_Man_Who_Became_a_Whaler.krn
+  file_path: data/No_3_Song_of_the_Married_Man_Who_Became_a_Whaler.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -198,6 +201,7 @@ nootka004:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -210,7 +214,7 @@ nootka004:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_4_Song_to_Make_a_Wounded_Whale_Swim_Toward_Shore.krn
+  file_path: data/No_4_Song_to_Make_a_Wounded_Whale_Swim_Toward_Shore.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -262,6 +266,7 @@ nootka005:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -274,7 +279,7 @@ nootka005:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_5_Song_of_Gathering_at_Which_Fin_Was_Displayed.krn
+  file_path: data/No_5_Song_of_Gathering_at_Which_Fin_Was_Displayed.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial
@@ -326,6 +331,7 @@ nootka006:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -338,7 +344,7 @@ nootka006:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_6_"I_Come_to_the_Land".krn
+  file_path: data/No_6_"I_Come_to_the_Land".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial
@@ -390,6 +396,7 @@ nootka007:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -402,7 +409,7 @@ nootka007:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__7_A_Whale_Returns.krn
+  file_path: data/No__7_A_Whale_Returns.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial
@@ -452,6 +459,7 @@ nootka008:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -464,7 +472,7 @@ nootka008:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_8_Song_of_a_Whale.krn
+  file_path: data/No_8_Song_of_a_Whale.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -516,6 +524,7 @@ nootka009:
   comments: '"Drum in very rapid beats"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -528,7 +537,7 @@ nootka009:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_9_Song_of_the_Oil_Potlatch.krn
+  file_path: data/No_9_Song_of_the_Oil_Potlatch.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -578,6 +587,7 @@ nootka010:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -590,7 +600,7 @@ nootka010:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_10_Dance_Song_of_the_Young_Women.krn
+  file_path: data/No_10_Dance_Song_of_the_Young_Women.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -640,6 +650,7 @@ nootka011:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -652,7 +663,7 @@ nootka011:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_11_Song_in_the_Canoes.krn
+  file_path: data/No_11_Song_in_the_Canoes.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -702,6 +713,7 @@ nootka012:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -714,7 +726,7 @@ nootka012:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_12_Song_of_Invitation_to_a_Potlatch.krn
+  file_path: data/No_12_Song_of_Invitation_to_a_Potlatch.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -765,6 +777,7 @@ nootka013:
     tempi'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Quinaelt
   culture_dplace_id: null
   culture_hraf_id: null
@@ -777,7 +790,7 @@ nootka013:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_13_Song_of_the_Guests_in_Their_Canoes.krn
+  file_path: data/No_13_Song_of_the_Guests_in_Their_Canoes.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -828,6 +841,7 @@ nootka014:
     voice=72, drum=84'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -840,7 +854,7 @@ nootka014:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_14_Song_of_a_Guest_at_a_Potlatch.krn
+  file_path: data/No_14_Song_of_a_Guest_at_a_Potlatch.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -891,6 +905,7 @@ nootka015:
     sticks on a large box, this being done by the assembly"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -903,7 +918,7 @@ nootka015:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__15_Song_of_the_Kwikwatla_Dance.krn
+  file_path: data/No__15_Song_of_the_Kwikwatla_Dance.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -953,6 +968,7 @@ nootka016:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -965,7 +981,7 @@ nootka016:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__16_Song_of_the_Host_at_a_Potlatch.krn
+  file_path: data/No__16_Song_of_the_Host_at_a_Potlatch.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1017,6 +1033,7 @@ nootka017:
     hands sharply at the accented tones of the song"
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1029,7 +1046,7 @@ nootka017:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_17_Song_Before_Distribution_of_Gifts_(a).krn
+  file_path: data/No_17_Song_Before_Distribution_of_Gifts_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1082,6 +1099,7 @@ nootka018:
     the song"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1094,7 +1112,7 @@ nootka018:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_18_Song_Before_Distribution_of_Gifts_(b).krn
+  file_path: data/No_18_Song_Before_Distribution_of_Gifts_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1144,6 +1162,7 @@ nootka019:
   comments: 'Drum rhythm: continuous eigth-notes'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1156,7 +1175,7 @@ nootka019:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_19_"Mine_is_a_Proud_Village".krn
+  file_path: data/No_19_"Mine_is_a_Proud_Village".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1208,6 +1227,7 @@ nootka020:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1220,7 +1240,7 @@ nootka020:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__20_Song_of_the_Women_Guests.krn
+  file_path: data/No__20_Song_of_the_Women_Guests.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1270,6 +1290,7 @@ nootka021:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1282,7 +1303,7 @@ nootka021:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__21_"The_Rattle_is_my_Tumanos".krn
+  file_path: data/No__21_"The_Rattle_is_my_Tumanos".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1332,6 +1353,7 @@ nootka022:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1344,7 +1366,7 @@ nootka022:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_22_Potlatch_Song.krn
+  file_path: data/No_22_Potlatch_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|harvest
@@ -1395,6 +1417,7 @@ nootka023:
   comments: Meaning of the words is not known
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1407,7 +1430,7 @@ nootka023:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__23_Song_of_Santiano_at_a_Potlatch.krn
+  file_path: data/No__23_Song_of_Santiano_at_a_Potlatch.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: healing
@@ -1457,6 +1480,7 @@ nootka024:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1469,7 +1493,7 @@ nootka024:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_24_Song_Concerning_a_Man's_Tumanos.krn
+  file_path: data/No_24_Song_Concerning_a_Man's_Tumanos.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: healing
@@ -1521,6 +1545,7 @@ nootka025:
     is not known"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1533,7 +1558,7 @@ nootka025:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_25_Song_Challenging_to_Contest_of_Strength_(a).krn
+  file_path: data/No_25_Song_Challenging_to_Contest_of_Strength_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: game
@@ -1583,6 +1608,7 @@ nootka026:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1595,7 +1621,7 @@ nootka026:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__26_Song_Challenging_to_Contest_of_Strength_(b).krn
+  file_path: data/No__26_Song_Challenging_to_Contest_of_Strength_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: game
@@ -1645,6 +1671,7 @@ nootka027:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1657,7 +1684,7 @@ nootka027:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__27_Song_Challenging_to_Contest_of_Strength_(c).krn
+  file_path: data/No__27_Song_Challenging_to_Contest_of_Strength_(c).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: game
@@ -1707,6 +1734,7 @@ nootka028:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1719,7 +1747,7 @@ nootka028:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__28_Song_of_Women's_Dance_(a).krn
+  file_path: data/No__28_Song_of_Women's_Dance_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -1769,6 +1797,7 @@ nootka029:
   comments: '"It is said to be very old, and the words are forgotten"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1781,7 +1810,7 @@ nootka029:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_29_Song_of_Women's_Dance_(b).krn
+  file_path: data/No_29_Song_of_Women's_Dance_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|women
@@ -1831,6 +1860,7 @@ nootka030:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1843,7 +1873,7 @@ nootka030:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__30_Song_of_the_Kwekwasa_Dance_(a).krn
+  file_path: data/No__30_Song_of_the_Kwekwasa_Dance_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -1893,6 +1923,7 @@ nootka031:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1905,7 +1936,7 @@ nootka031:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_31_Song_of_the_Kwekwasa_Dance_(b).krn
+  file_path: data/No_31_Song_of_the_Kwekwasa_Dance_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -1955,6 +1986,7 @@ nootka032:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -1967,7 +1999,7 @@ nootka032:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__32_Song_of_the_Kwekwasa_Dance_(c).krn
+  file_path: data/No__32_Song_of_the_Kwekwasa_Dance_(c).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -2017,6 +2049,7 @@ nootka033:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2029,7 +2062,7 @@ nootka033:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_33_Dream_Song_of_a_Whaler.krn
+  file_path: data/No_33_Dream_Song_of_a_Whaler.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial
@@ -2079,6 +2112,7 @@ nootka034:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2091,7 +2125,7 @@ nootka034:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_34_"The_Other_Tribes_Are_Praising_Me".krn
+  file_path: data/No_34_"The_Other_Tribes_Are_Praising_Me".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|tribename
@@ -2143,6 +2177,7 @@ nootka035:
   comments: Meaning of the words was unknown
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2155,7 +2190,7 @@ nootka035:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_35_Song_of_the_Kluklukwatk_Dance_(a).krn
+  file_path: data/No_35_Song_of_the_Kluklukwatk_Dance_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|tribename
@@ -2205,6 +2240,7 @@ nootka036:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2217,7 +2253,7 @@ nootka036:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__36_Song_of_the_Kluklukwatk_Dance_(b).krn
+  file_path: data/No__36_Song_of_the_Kluklukwatk_Dance_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|tribename
@@ -2267,6 +2303,7 @@ nootka037:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2279,7 +2316,7 @@ nootka037:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_37_Song_of_the_Kluklukwatk_Dance_(c).krn
+  file_path: data/No_37_Song_of_the_Kluklukwatk_Dance_(c).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|tribename
@@ -2329,6 +2366,7 @@ nootka038:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2341,7 +2379,7 @@ nootka038:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_38_"I_Am_Dancing_in_the_Air".krn
+  file_path: data/No_38_"I_Am_Dancing_in_the_Air".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance|tribename
@@ -2391,6 +2429,7 @@ nootka039:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2403,7 +2442,7 @@ nootka039:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_39_Klokali_Song_(a).krn
+  file_path: data/No_39_Klokali_Song_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2453,6 +2492,7 @@ nootka040:
   comments: The song has no words
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2465,7 +2505,7 @@ nootka040:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_40_Klokali_Song_(b).krn
+  file_path: data/No_40_Klokali_Song_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2515,6 +2555,7 @@ nootka041:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2527,7 +2568,7 @@ nootka041:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_41_Klokali_Song_Learned_From_a_Slave_(a).krn
+  file_path: data/No_41_Klokali_Song_Learned_From_a_Slave_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2579,6 +2620,7 @@ nootka042:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2591,7 +2633,7 @@ nootka042:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_42_Klokali_Song_Learned_From_a_Slave_(b).krn
+  file_path: data/No_42_Klokali_Song_Learned_From_a_Slave_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2641,6 +2683,7 @@ nootka043:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2653,7 +2696,7 @@ nootka043:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__43_"We_Make_You_Join_the_Klokali".krn
+  file_path: data/No__43_"We_Make_You_Join_the_Klokali".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2703,6 +2746,7 @@ nootka044:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2715,7 +2759,7 @@ nootka044:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_44_"Ten_Large_Diamonds".krn
+  file_path: data/No_44_"Ten_Large_Diamonds".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2767,6 +2811,7 @@ nootka045:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2779,7 +2824,7 @@ nootka045:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_45_"I_Possess_the_Salt_Water".krn
+  file_path: data/No_45_"I_Possess_the_Salt_Water".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2832,6 +2877,7 @@ nootka046:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2844,7 +2890,7 @@ nootka046:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_46_Lightning_Dance_Song.krn
+  file_path: data/No_46_Lightning_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2894,6 +2940,7 @@ nootka047:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2906,7 +2953,7 @@ nootka047:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_47_"The_Wolves_Are_Howling".krn
+  file_path: data/No_47_"The_Wolves_Are_Howling".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -2958,6 +3005,7 @@ nootka048:
   comments: Drum rhythm in publication
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -2970,7 +3018,7 @@ nootka048:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_48_Modern_Klokali_Song.krn
+  file_path: data/No_48_Modern_Klokali_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3020,6 +3068,7 @@ nootka049:
   comments: Different drum rhythms in different renditions; see publication
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3032,7 +3081,7 @@ nootka049:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_49_Wand_Dance_Song_-_with_2nd_rendition_drums.krn
+  file_path: data/No_49_Wand_Dance_Song_-_with_2nd_rendition_drums.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3082,6 +3131,7 @@ nootka050:
   comments: 'Drum rhythm: continous quarters'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3094,7 +3144,7 @@ nootka050:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_50_Song_With_Impersonation_of_the_Wild_White_Geese.krn
+  file_path: data/No_50_Song_With_Impersonation_of_the_Wild_White_Geese.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3144,6 +3194,7 @@ nootka051:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3156,7 +3207,7 @@ nootka051:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_51_Song_With_Impersonation_of_the_Deer_(a).krn
+  file_path: data/No_51_Song_With_Impersonation_of_the_Deer_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3206,6 +3257,7 @@ nootka052:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3218,7 +3270,7 @@ nootka052:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_52_Song_With_Impersonation_of_the_Deer_(b).krn
+  file_path: data/No_52_Song_With_Impersonation_of_the_Deer_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3270,6 +3322,7 @@ nootka053:
   comments: 'Drum rhythm: similar to no. 13'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3282,7 +3335,7 @@ nootka053:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_53_Song_With_Impersonation_of_a_Little_Fish.krn
+  file_path: data/No_53_Song_With_Impersonation_of_a_Little_Fish.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3332,6 +3385,7 @@ nootka054:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3344,7 +3398,7 @@ nootka054:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_54_Song_With_Impersonation_of_a_Raven.krn
+  file_path: data/No_54_Song_With_Impersonation_of_a_Raven.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3394,6 +3448,7 @@ nootka055:
   comments: 'Drum rhythm: continuous sixteenth-notes'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3406,7 +3461,7 @@ nootka055:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_55_Song_With_Impersonation_of_Wolves.krn
+  file_path: data/No_55_Song_With_Impersonation_of_Wolves.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
@@ -3456,6 +3511,7 @@ nootka056:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3468,7 +3524,7 @@ nootka056:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_56_Song_of_the_Horsemen.krn
+  file_path: data/No_56_Song_of_the_Horsemen.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3519,6 +3575,7 @@ nootka057:
     tempo is given in half notes|Drum rhythm: continuous half notes'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3531,7 +3588,7 @@ nootka057:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_57_Young_Doctor's_Canoe_Song_(a).krn
+  file_path: data/No_57_Young_Doctor's_Canoe_Song_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3581,6 +3638,7 @@ nootka058:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3593,7 +3651,7 @@ nootka058:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_58_Young_Doctor's_Canoe_Song_(b).krn
+  file_path: data/No_58_Young_Doctor's_Canoe_Song_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3643,6 +3701,7 @@ nootka059:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3655,7 +3714,7 @@ nootka059:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_59_Young_Doctor's_Canoe_Song_(c).krn
+  file_path: data/No_59_Young_Doctor's_Canoe_Song_(c).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3707,6 +3766,7 @@ nootka060:
   comments: Drum rhythm similar to no. 55
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3719,7 +3779,7 @@ nootka060:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_60_Song_With_Spearman's_Dance.krn
+  file_path: data/No_60_Song_With_Spearman's_Dance.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3769,6 +3829,7 @@ nootka061:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3781,7 +3842,7 @@ nootka061:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_61_Klikitat_Dance_Song.krn
+  file_path: data/No_61_Klikitat_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3831,6 +3892,7 @@ nootka062:
   comments: Drum rhythm similar to no. 13
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3843,7 +3905,7 @@ nootka062:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_62_Song_With_Changeable_Mask_Dance.krn
+  file_path: data/No_62_Song_With_Changeable_Mask_Dance.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3893,6 +3955,7 @@ nootka063:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3905,7 +3968,7 @@ nootka063:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_63_Makah_Homatsa_Song.krn
+  file_path: data/No_63_Makah_Homatsa_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -3955,6 +4018,7 @@ nootka064:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -3967,7 +4031,7 @@ nootka064:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_64_Homatsa_Song_(a).krn
+  file_path: data/No_64_Homatsa_Song_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -4017,6 +4081,7 @@ nootka065:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Vancouver Island
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4029,7 +4094,7 @@ nootka065:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_65_Homatsa_Song_(b).krn
+  file_path: data/No_65_Homatsa_Song_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -4079,6 +4144,7 @@ nootka066:
   comments: Drum rhythm similar to no. 13
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Nootka
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4091,7 +4157,7 @@ nootka066:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_66_Nootka_Homatsa_Song.krn
+  file_path: data/No_66_Nootka_Homatsa_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -4141,6 +4207,7 @@ nootka067:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4153,7 +4220,7 @@ nootka067:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_67_Entering_Dance_Song.krn
+  file_path: data/No_67_Entering_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: ceremonial|dance
@@ -4203,6 +4270,7 @@ nootka068:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4215,7 +4283,7 @@ nootka068:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_68_Social_Dance_Song.krn
+  file_path: data/No_68_Social_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4265,6 +4333,7 @@ nootka069:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Yakima
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4277,7 +4346,7 @@ nootka069:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_69_Song_of_Defiance_(a).krn
+  file_path: data/No_69_Song_of_Defiance_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4327,6 +4396,7 @@ nootka070:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4339,7 +4409,7 @@ nootka070:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_70_Song_of_Defiance_(b).krn
+  file_path: data/No_70_Song_of_Defiance_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4389,6 +4459,7 @@ nootka071:
   comments: Drum rhythm similar to no. 10|Drum and voice have different tempi
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4401,7 +4472,7 @@ nootka071:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_71_Song_of_Pintlachatl_Dance_(a).krn
+  file_path: data/No_71_Song_of_Pintlachatl_Dance_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4451,6 +4522,7 @@ nootka072:
   comments: Drum rhythm similar to no. 13
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4463,7 +4535,7 @@ nootka072:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_72_Song_of_Pintlachatl_Dance_(b).krn
+  file_path: data/No_72_Song_of_Pintlachatl_Dance_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4513,6 +4585,7 @@ nootka073:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4525,7 +4598,7 @@ nootka073:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_73_Song_of_Pintlachatl_Dance_(c).krn
+  file_path: data/No_73_Song_of_Pintlachatl_Dance_(c).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4575,6 +4648,7 @@ nootka074:
   comments: Drum rhythm similar to no. 13
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4587,7 +4661,7 @@ nootka074:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_74_Song_of_Pintlachatl_Dance_(d).krn
+  file_path: data/No_74_Song_of_Pintlachatl_Dance_(d).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4639,6 +4713,7 @@ nootka075:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4651,7 +4726,7 @@ nootka075:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_75_Oldest_Daughter's_Dance_Song.krn
+  file_path: data/No_75_Oldest_Daughter's_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4701,6 +4776,7 @@ nootka076:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4713,7 +4789,7 @@ nootka076:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_76_Youngest_Daughter's_Dance_Song.krn
+  file_path: data/No_76_Youngest_Daughter's_Dance_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4763,6 +4839,7 @@ nootka077:
   comments: Drum rhythm similar to no. 13
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4775,7 +4852,7 @@ nootka077:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_77_"Do_Not_Try_to_Imitate_Me".krn
+  file_path: data/No_77_"Do_Not_Try_to_Imitate_Me".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4829,6 +4906,7 @@ nootka078:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4841,7 +4919,7 @@ nootka078:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_78_Song_Belonging_to_the_Last_Makah_Chief_.krn
+  file_path: data/No_78_Song_Belonging_to_the_Last_Makah_Chief_.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4891,6 +4969,7 @@ nootka079:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4903,7 +4982,7 @@ nootka079:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_79_Song_Before_Feast.krn
+  file_path: data/No_79_Song_Before_Feast.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -4954,6 +5033,7 @@ nootka080:
     one sentence means ''A chief is in a canoe with many men''"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -4966,7 +5046,7 @@ nootka080:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_80_Song_After_Food_Was_Served.krn
+  file_path: data/No_80_Song_After_Food_Was_Served.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -5016,6 +5096,7 @@ nootka081:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5028,7 +5109,7 @@ nootka081:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_81_Song_During_Feast.krn
+  file_path: data/No_81_Song_During_Feast.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -5078,6 +5159,7 @@ nootka082:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5090,7 +5172,7 @@ nootka082:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_82_Song_After_Feast.krn
+  file_path: data/No_82_Song_After_Feast.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: dance
@@ -5140,6 +5222,7 @@ nootka083:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5152,7 +5235,7 @@ nootka083:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__83_"I_Am_Trying_to_Look_as_Pretty_as_I_Can".krn
+  file_path: data/No__83_"I_Am_Trying_to_Look_as_Pretty_as_I_Can".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5206,6 +5289,7 @@ nootka084:
     drum=72)
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5218,7 +5302,7 @@ nootka084:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_84_Social_Song.krn
+  file_path: data/No_84_Social_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5268,6 +5352,7 @@ nootka085:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5280,7 +5365,7 @@ nootka085:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__85_"Do_Not_Go_Away".krn
+  file_path: data/No__85_"Do_Not_Go_Away".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5331,6 +5416,7 @@ nootka086:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5343,7 +5429,7 @@ nootka086:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_86_"They_Come_From_Under_the_Water".krn
+  file_path: data/No_86_"They_Come_From_Under_the_Water".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5393,6 +5479,7 @@ nootka087:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5405,7 +5492,7 @@ nootka087:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_87_Courtesy_Song_(a).krn
+  file_path: data/No_87_Courtesy_Song_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5455,6 +5542,7 @@ nootka088:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5467,7 +5555,7 @@ nootka088:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__88_Courtesy_Song_(b).krn
+  file_path: data/No__88_Courtesy_Song_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5522,6 +5610,7 @@ nootka089:
     drum=56)
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5534,7 +5623,7 @@ nootka089:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_89_"I_Will_Not_Have_Him".krn
+  file_path: data/No_89_"I_Will_Not_Have_Him".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5588,6 +5677,7 @@ nootka090:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5600,7 +5690,7 @@ nootka090:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_90_"I_Look_Like_a_Sea_Parrot".krn
+  file_path: data/No_90_"I_Look_Like_a_Sea_Parrot".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5652,6 +5742,7 @@ nootka091:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5664,7 +5755,7 @@ nootka091:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_91_"How_High_My_Forehead_Is_Getting".krn
+  file_path: data/No_91_"How_High_My_Forehead_Is_Getting".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5716,6 +5807,7 @@ nootka092:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5728,7 +5820,7 @@ nootka092:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_92_"I_Am_Getting_Old".krn
+  file_path: data/No_92_"I_Am_Getting_Old".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5778,6 +5870,7 @@ nootka093:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5790,7 +5883,7 @@ nootka093:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_93_"My_Dear_Friend_is_Going_Away".krn
+  file_path: data/No_93_"My_Dear_Friend_is_Going_Away".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5842,6 +5935,7 @@ nootka094:
   comments: Sung partly in English, partly in Chinook|Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5854,7 +5948,7 @@ nootka094:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_94_Song_at_Parting.krn
+  file_path: data/No_94_Song_at_Parting.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5904,6 +5998,7 @@ nootka095:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5916,7 +6011,7 @@ nootka095:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_95_Song_of_the_Crew.krn
+  file_path: data/No_95_Song_of_the_Crew.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -5966,6 +6061,7 @@ nootka096:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -5978,7 +6074,7 @@ nootka096:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_96_"I_Hear_the_Bird_Singing".krn
+  file_path: data/No_96_"I_Hear_the_Bird_Singing".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -6028,6 +6124,7 @@ nootka097:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6040,7 +6137,7 @@ nootka097:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_97_"Stop_Singing".krn
+  file_path: data/No_97_"Stop_Singing".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: social
@@ -6090,6 +6187,7 @@ nootka098:
   comments: Drum rhythm similar to no. 10
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6102,7 +6200,7 @@ nootka098:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_98_Song_of_the_War_Club.krn
+  file_path: data/No_98_Song_of_the_War_Club.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6154,6 +6252,7 @@ nootka099:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6166,7 +6265,7 @@ nootka099:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_99_"I_Will_Not_Cut_Off_Your_Head".krn
+  file_path: data/No_99_"I_Will_Not_Cut_Off_Your_Head".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6217,6 +6316,7 @@ nootka100:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6229,7 +6329,7 @@ nootka100:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_100_Song_on_the_Way_to_War.krn
+  file_path: data/No_100_Song_on_the_Way_to_War.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6279,6 +6379,7 @@ nootka101:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6291,7 +6392,7 @@ nootka101:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_101_"You_Cannot_Defeat_Us".krn
+  file_path: data/No_101_"You_Cannot_Defeat_Us".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6342,6 +6443,7 @@ nootka102:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6354,7 +6456,7 @@ nootka102:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_102_Makah_War_Song.krn
+  file_path: data/No_102_Makah_War_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6405,6 +6507,7 @@ nootka103:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6417,7 +6520,7 @@ nootka103:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_103_Song_of_Those_Who_Remained_at_Home.krn
+  file_path: data/No_103_Song_of_Those_Who_Remained_at_Home.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6469,6 +6572,7 @@ nootka104:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6481,7 +6585,7 @@ nootka104:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_104_Song_of_a_Head_Hunter.krn
+  file_path: data/No_104_Song_of_a_Head_Hunter.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6531,6 +6635,7 @@ nootka105:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6543,7 +6648,7 @@ nootka105:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_105_Song_of_a_Returning_War_Party.krn
+  file_path: data/No_105_Song_of_a_Returning_War_Party.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6593,6 +6698,7 @@ nootka106:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6605,7 +6711,7 @@ nootka106:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_106_Clayoquot_War_Song_(a).krn
+  file_path: data/No_106_Clayoquot_War_Song_(a).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6655,6 +6761,7 @@ nootka107:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6667,7 +6774,7 @@ nootka107:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_107_Clayoquot_War_Song_(b).krn
+  file_path: data/No_107_Clayoquot_War_Song_(b).krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6717,6 +6824,7 @@ nootka108:
   comments: '"The words mean ''The head I cut off is bleeding''"'
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6729,7 +6837,7 @@ nootka108:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__108_Head_Hunter's_Song_of_Triumph.krn
+  file_path: data/No__108_Head_Hunter's_Song_of_Triumph.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: war
@@ -6779,6 +6887,7 @@ nootka109:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6791,7 +6900,7 @@ nootka109:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_109_Song_Addressed_to_a_Shark.krn
+  file_path: data/No_109_Song_Addressed_to_a_Shark.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -6841,6 +6950,7 @@ nootka110:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6853,7 +6963,7 @@ nootka110:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_110_Song_to_Bring_Rain.krn
+  file_path: data/No_110_Song_to_Bring_Rain.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -6903,6 +7013,7 @@ nootka111:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6915,7 +7026,7 @@ nootka111:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_111_Song_of_the_Man_on_the_Rock.krn
+  file_path: data/No_111_Song_of_the_Man_on_the_Rock.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -6965,6 +7076,7 @@ nootka112:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -6977,7 +7089,7 @@ nootka112:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_112_"In_the_Treetop".krn
+  file_path: data/No_112_"In_the_Treetop".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7027,6 +7139,7 @@ nootka113:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7039,7 +7152,7 @@ nootka113:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_113_Song_of_the_Squirrel.krn
+  file_path: data/No_113_Song_of_the_Squirrel.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7089,6 +7202,7 @@ nootka114:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7101,7 +7215,7 @@ nootka114:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_114_Song_of_the_Little_Slave_Man.krn
+  file_path: data/No_114_Song_of_the_Little_Slave_Man.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7152,6 +7266,7 @@ nootka115:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7164,7 +7279,7 @@ nootka115:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_115_"How_Tiny_You_Are".krn
+  file_path: data/No_115_"How_Tiny_You_Are".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7214,6 +7329,7 @@ nootka116:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7226,7 +7342,7 @@ nootka116:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_116_"She_Will_Pick_Salmonberries".krn
+  file_path: data/No_116_"She_Will_Pick_Salmonberries".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7278,6 +7394,7 @@ nootka117:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7290,7 +7407,7 @@ nootka117:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_117_"The_Other_Babies_Bother_Me".krn
+  file_path: data/No_117_"The_Other_Babies_Bother_Me".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7341,6 +7458,7 @@ nootka118:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7353,7 +7471,7 @@ nootka118:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_118_"I_Wish_I_Was_Out_on_the_Rocks".krn
+  file_path: data/No_118_"I_Wish_I_Was_Out_on_the_Rocks".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7406,6 +7524,7 @@ nootka119:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7418,7 +7537,7 @@ nootka119:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_119_"Let_Us_Go_After_Crabs".krn
+  file_path: data/No_119_"Let_Us_Go_After_Crabs".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7469,6 +7588,7 @@ nootka120:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7481,7 +7601,7 @@ nootka120:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_120_"Go_to_Sleep".krn
+  file_path: data/No_120_"Go_to_Sleep".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7531,6 +7651,7 @@ nootka121:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7543,7 +7664,7 @@ nootka121:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_121_Song_to_a_Little_Girl.krn
+  file_path: data/No_121_Song_to_a_Little_Girl.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7593,6 +7714,7 @@ nootka122:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7605,7 +7727,7 @@ nootka122:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_122_A_Song_of_Prophecy.krn
+  file_path: data/No_122_A_Song_of_Prophecy.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7656,6 +7778,7 @@ nootka123:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7668,7 +7791,7 @@ nootka123:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_123_"I_Will_Be_a_Great_Warrior".krn
+  file_path: data/No_123_"I_Will_Be_a_Great_Warrior".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7719,6 +7842,7 @@ nootka124:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7731,7 +7855,7 @@ nootka124:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_124_"My_Little_Son".krn
+  file_path: data/No_124_"My_Little_Son".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7784,6 +7908,7 @@ nootka125:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Clayoquot
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7796,7 +7921,7 @@ nootka125:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_125_A_Basket_Full_of_Snipe.krn
+  file_path: data/No_125_A_Basket_Full_of_Snipe.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7848,6 +7973,7 @@ nootka126:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7860,7 +7986,7 @@ nootka126:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_126_"I_Am_Going_To_Be_a_Fisherman".krn
+  file_path: data/No_126_"I_Am_Going_To_Be_a_Fisherman".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7911,6 +8037,7 @@ nootka127:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7923,7 +8050,7 @@ nootka127:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_127_"My_Canoe_Is_Full_of_Kelp_Fish".krn
+  file_path: data/No_127_"My_Canoe_Is_Full_of_Kelp_Fish".krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -7975,6 +8102,7 @@ nootka128:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -7987,7 +8115,7 @@ nootka128:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_128_Song_of_a_Grandparent.krn
+  file_path: data/No_128_Song_of_a_Grandparent.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: children
@@ -8037,6 +8165,7 @@ nootka129:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -8049,7 +8178,7 @@ nootka129:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No_129_Fathoms_of_Wumpum_Shell.krn
+  file_path: data/No_129_Fathoms_of_Wumpum_Shell.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -8102,6 +8231,7 @@ nootka131:
   comments: null
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Makah
   culture_dplace_id: null
   culture_hraf_id: null
@@ -8114,7 +8244,7 @@ nootka131:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__131_Song_Concerning_Kwati's_Anklets.krn
+  file_path: data/No__131_Song_Concerning_Kwati's_Anklets.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: legends
@@ -8166,6 +8296,7 @@ nootka204:
     drum=132)
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
   culture: Quileute
   culture_dplace_id: null
   culture_hraf_id: null
@@ -8178,7 +8309,7 @@ nootka204:
   file_has_licence: null
   file_has_lyrics: true
   file_has_music: true
-  file_path: ../../../../../../../bas/surfdrive/catafolk/densmore-nootka/0.0.1/data/No__204_Bear_Song.krn
+  file_path: data/No__204_Bear_Song.krn
   file_preview_url: null
   file_url: https://github.com/shanahdt/densmore/blob/master/Densmore/nootka/None.krn
   genres: tribename
