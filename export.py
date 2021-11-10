@@ -78,5 +78,6 @@ if __name__ == "__main__":
         'creighton-nova-scotia',
         'densmore-choctaw',
         'densmore-maidu',
+        'densmore-menominee'
     ]
     generate_indices(include_corpora=corpora)

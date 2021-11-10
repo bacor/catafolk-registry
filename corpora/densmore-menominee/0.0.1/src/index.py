@@ -12,7 +12,7 @@ CORPUS_VERSION = CORPUS_METADATA["version"]
 CORPUS_ID = CORPUS_METADATA["dataset_id"]
 
 
-class DensmoreMaiduEntry(IndexEntry):
+class DensmoreMenomineeEntry(IndexEntry):
 
     source_names = ["file", "meta"]
     default_source = "meta"
@@ -23,37 +23,38 @@ class DensmoreMaiduEntry(IndexEntry):
         file_has_music=True,
         file_has_lyrics=False,
         file_has_license=False,
-        publication_key="densmore1958maidu",
+        publication_key="densmore1932menominee",
         publication_type="book",
-        publication_title="Music of the Maidu Indians of California",
+        publication_title="Menominee Music",
         publication_authors="Frances Densmore",
-        publication_date="1958",
-        collection_date="1937-03",
+        publication_date="1932",
         collectors="Frances Densmore",
-        culture="Maidu",
-        culture_dplace_id="Nc12",
+        collection_date_earliest="1925",
+        collection_date_latest="1929",
+        culture="Menominee",
+        culture_dplace_id="Nf9",
         encoders='Daniel Shanahan|Eva Shanahan',
         encoding_date=2014,
         copyright='Copyright 2014 Daniel and Eva Shanahan',
-        location="Chico, California",
-        latitude=39.74,
-        longitude=-121.835556,
+        location="Menominee County, Wisconsin, U.S.A.",
+        latitude=45.02,
+        longitude=-88.70,
         auto_geocoded=False,
-        language="Maiduan",
-        glottolog_id="maid1262",
+        language="Menominee",
+        glottolog_id="meno1252",
     )
 
     mappings = dict(
         file_path="file.cf_path",
         file_format="file.cf_format",
         file_checksum="file.cf_checksum",
-        genres="meta.genre",
-        publication_page_num='meta.page_num',
-        publication_song_num='meta.song_num',
+        genres="file.SUPERFUNCTION",
         
         # Defaults fields from meta fields:
+        publication_song_num='meta.song_num',
+        publication_page_num='meta.page_num',
+        lyrics="meta.lyrics",
         lyrics_translation="meta.free_translation",
-        description="meta.analysis",
         catalogue_num="meta.catalogue_num",
         tonality = "meta.tonality",
         tempo="meta.bpm",
@@ -61,10 +62,10 @@ class DensmoreMaiduEntry(IndexEntry):
         meters="meta.meters",
         performers="meta.performers",
         performer_genders="meta.performer_genders",
+        instrumentation="meta.instrumentation",
         instrument_use="meta.instrument_use",
         percussion_use="meta.percussion_use",
         voice_use="meta.voice_use",
-        instrumentation="meta.instrumentation",
     )
 
     export_unused_fields=True
@@ -72,19 +73,18 @@ class DensmoreMaiduEntry(IndexEntry):
         "file.OTL",
         "file.PDT",
         "file._comments",
-        
-        # Ignore
-        "meta.title",
-        "meta.free_translation",
+        "file.SUPERFUNCTION",
+
+        # # Ignore
         "meta.comments",
-        "meta.culture_dplace_id",
-        "meta.genre",
+        "meta.catalogue_num",
     ]
 
     def get_file_url(self):
         fn = self.get('file.cf_name')
-        return f'https://github.com/shanahdt/densmore/blob/master/Densmore/maidu/{fn}.krn'
+        return f'https://github.com/shanahdt/densmore/blob/master/Densmore/menominee/{fn}.krn'
     
+
     def get_title(self):
         otl = self.get('file.OTL')
         matches = re.match('(No_+\d+_)?([^\.]+)(.krn)?', otl)
@@ -94,8 +94,8 @@ class DensmoreMaiduEntry(IndexEntry):
             return otl
     
     def get_publication_preview_url(self):
-        page_num = self.get('publication_page_num') + 16
-        return f'https://babel.hathitrust.org/cgi/pt?id=wu.89058380726&seq={page_num}'
+        page_num = self.get('publication_page_num') + 38
+        return f'https://babel.hathitrust.org/cgi/pt?id=mdp.39015024872874&seq={page_num}'
 
     def get_comments(self):
         comments = [self.get('file._comments'), self.get('meta.comments')]
@@ -113,11 +113,22 @@ def generate_index():
 
     index = Index()
     meta_source = CSVSource(CORPUS_DIR / "src/additional-metadata.csv")
+    flute_melody_ids = {
+        'Flute_Melody_No_1': 141,
+        'Flute_Melody_No_2': 142,
+        'Flute_Melody_No_3': 143,
+        'Flute_Melody_No_4': 144,
+    }
     for path in paths:
-        matches = re.match('No_+(\d+)', path.stem)
-        entry_id = f'maidu{matches[1]:0>3}'
+        if path.stem not in flute_melody_ids:
+            matches = re.match('No_+(\d+)', path.stem)
+            song_num = matches[1]
+        else:
+            song_num = flute_melody_ids[path.stem]
+        
+        entry_id = f'menominee{song_num:0>3}'
         sources = dict(file=FileSource(path, root=data_dir), meta=meta_source)
-        entry = DensmoreMaiduEntry(entry_id, sources)
+        entry = DensmoreMenomineeEntry(entry_id, sources)
         index.add_entry(entry)
     index.export(CORPUS_DIR)
 

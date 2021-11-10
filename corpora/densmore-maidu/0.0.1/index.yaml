@@ -39,7 +39,7 @@ maidu001:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -106,7 +106,7 @@ maidu002:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -174,7 +174,7 @@ maidu003:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -241,7 +241,7 @@ maidu004:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -312,7 +312,7 @@ maidu005:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: The first flowers are blooming, so we are glad.
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -381,7 +381,7 @@ maidu006:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: Lively, lively. We are lots of people.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -449,7 +449,7 @@ maidu007:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -518,7 +518,7 @@ maidu008:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -586,7 +586,7 @@ maidu009:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -656,7 +656,7 @@ maidu010:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4|3/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "dance"], "file.SOCIAL_FUNCTION":
@@ -724,7 +724,7 @@ maidu011:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -794,7 +794,7 @@ maidu012:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -861,7 +861,7 @@ maidu013:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -928,7 +928,7 @@ maidu014:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -997,7 +997,7 @@ maidu015:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1065,7 +1065,7 @@ maidu016:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1132,7 +1132,7 @@ maidu017:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1200,7 +1200,7 @@ maidu018:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1274,7 +1274,7 @@ maidu019:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1341,7 +1341,7 @@ maidu020:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1407,7 +1407,7 @@ maidu021:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1473,7 +1473,7 @@ maidu022:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1541,7 +1541,7 @@ maidu023:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: There is a cloud in the heavens.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1608,7 +1608,7 @@ maidu024:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: Bring more wood.
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1677,7 +1677,7 @@ maidu025:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: All going around.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1744,7 +1744,7 @@ maidu026:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1813,7 +1813,7 @@ maidu027:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1880,7 +1880,7 @@ maidu028:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: I jump down and dance, then I jump back up and dance.
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -1947,7 +1947,7 @@ maidu029:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: Dance, my sister-in-law
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -2016,7 +2016,7 @@ maidu030:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "songs of
@@ -2086,7 +2086,7 @@ maidu031:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
@@ -2155,7 +2155,7 @@ maidu032:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
@@ -2226,7 +2226,7 @@ maidu033:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "harvest", "file.REG": "Northern California",
@@ -2294,7 +2294,7 @@ maidu034:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "songs
@@ -2364,7 +2364,7 @@ maidu035:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "game", "file.SOCIAL_FUNCTION": "hand game
@@ -2431,7 +2431,7 @@ maidu036:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "game", "file.SOCIAL_FUNCTION": "hand game
@@ -2499,7 +2499,7 @@ maidu037:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
@@ -2569,7 +2569,7 @@ maidu038:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: I want that basket
   meters: 2/4|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
@@ -2636,7 +2636,7 @@ maidu039:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4|3/8|4/8|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
@@ -2704,7 +2704,7 @@ maidu040:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["game", "women"], "file.SOCIAL_FUNCTION":
@@ -2772,7 +2772,7 @@ maidu041:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
@@ -2842,7 +2842,7 @@ maidu042:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["ceremonial", "women"], "file.REG": "Northern
@@ -2912,7 +2912,7 @@ maidu043:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 3/8|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
@@ -2981,7 +2981,7 @@ maidu044:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: Put the two girls on the bridge so the crow cannot get them.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
@@ -3050,7 +3050,8 @@ maidu045:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: This is the last song. Some day we will sing it for another
+    girl.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": ["children", "women", "rites of passage"],
@@ -3121,7 +3122,7 @@ maidu046:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: I am a fine-looking woman; still I am running with my tears.
   meters: 5/8|4/8|7/8|4/8|3/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
@@ -3192,7 +3193,7 @@ maidu047:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: Wait for your property, you two. Wait for your property.
   meters: 2/4|3/4|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
@@ -3260,7 +3261,7 @@ maidu048:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: We come after the fire to put it out.
   meters: 2/4|7/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "legends", "file.SOCIAL_FUNCTION": "songs
@@ -3328,7 +3329,7 @@ maidu049:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
@@ -3399,7 +3400,8 @@ maidu050:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: We have been hunting today. We are loaded down. The feathers
+    are heavy.
   meters: 2/4|5/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
@@ -3466,7 +3468,8 @@ maidu051:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: I am hopping along. I am going north. I will get there after
+    a while.
   meters: 3/8|5/8|3/8
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
@@ -3535,7 +3538,7 @@ maidu052:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: How about it? My brother died. How about it? My brother died.
   meters: 2/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
@@ -3604,7 +3607,7 @@ maidu053:
   location: Chico, California
   longitude: -121.835556
   lyrics: null
-  lyrics_translation: meta.free_translation
+  lyrics_translation: The swallow (to'lip) is singing for the baby.
   meters: 3/4
   metric_classification: null
   other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
