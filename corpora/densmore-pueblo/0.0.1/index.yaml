@@ -1,0 +1,5179 @@
+pueblo01:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1888'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ba7a1a770110946aba3137a70e5682da
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_1_Creation_or_Beginning_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 5
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=17
+  publication_song_num: '1'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Creation or Beginning Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo02:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1889'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: a6042229e64d1b30685f91e0e0362931
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_2_First_Raingod_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 6
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=18
+  publication_song_num: '2'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: First Raingod Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo03:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1890'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 74d69c3cb220989c626e93de0de69b30
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_3_Song_When_Setting_Up_Iatiku's_Altar.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 6
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=18
+  publication_song_num: '3'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song When Setting Up Iatiku's Altar
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo04:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1891'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 56f5eab03f766c6bdaca7570a5112991
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_4_Hunter's_Prayer_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 8
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=20
+  publication_song_num: '4'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Hunter's Prayer Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo05:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1892'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 507e4ef2360cbb5bce205928298f8427
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_5_Song_to_the_Wild_Animals.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 8
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=20
+  publication_song_num: '5'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song to the Wild Animals
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo06:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1893'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e31c38169704aa8c080528582f50e3ef
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_6_Song_to_the_Birds.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 9
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=21
+  publication_song_num: '6'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song to the Birds
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo07:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1894'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 3bc65ae1607dda8c1ea6bb7e94770904
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_7_Song_When_Going_for_a_Drink_of_Medicine.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 10
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=22
+  publication_song_num: '7'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song When Going for a Drink of Medicine
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo08:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1895'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 50441b583abd70e5bcb5c35636884889
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_8_Kasewat,_Matted_Hair_or_Wig_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.LING_GROUP": "Keresan", "file.LANG":
+    "Tone", "file.REG": "Southwest", "file.SOCIAL_FUNCTION": "miscellaneous songs"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 11
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=23
+  publication_song_num: '8'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Kasewat, Matted Hair or Wig Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo09:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1896'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 268fbec846baa75b69bd22c0f47f3d0f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_9_Song_of_Brave_Man's_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 12
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=24
+  publication_song_num: '9'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Brave Man's Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo10:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1897'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 493c26c349bf9afd06583820f92a088a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_10_Song_of_Ouwe_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 13
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=25
+  publication_song_num: '10'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Ouwe Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo11:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1898'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6ab0e28292e791cc7ac9f9951752898f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_11_Game_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 14
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=26
+  publication_song_num: '11'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Game Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo12:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1899'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: f5c7839cc0e891a5b1d31c68dcfc9eb2
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_12_Agochudi'_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 15
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=27
+  publication_song_num: '12'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Agochudi' Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo13:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1900'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4e5aa6bc1a9ada75bbca49362b382ea9
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_13_Ashiya_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 16
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=28
+  publication_song_num: '13'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Ashiya Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo14:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1901'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e86138f611ae766cb2ae9e266e68b64a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_14_Corn-grinding_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 17
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=29
+  publication_song_num: '14'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo15:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1902'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 117ad900825cab5bea7be5fbb1b3421c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_15_Song_Telling_Where_Maidens_Are_Grinding_Corn.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 18
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=30
+  publication_song_num: '15'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Telling Where Maidens Are Grinding Corn
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo16:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1903'
+  collection_date: '1928'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Anthony Wilding and M. W. Stirling
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6633ae83c561118c8f59781ecdcc6255
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_16_Deer_and_Antelope_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 19
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=31
+  publication_song_num: '16'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Deer and Antelope Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo17:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1904'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: ee686b0e33a8fc39e7cb24d879259faa
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_17_Hunting_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 21
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=33
+  publication_song_num: '17'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Hunting Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo18:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1905'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 57155762d3f372b6ab56fae71a913bd8
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_18_Song_Concerning_the_Water_Used_in_Ceremonies.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 22
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=34
+  publication_song_num: '18'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Concerning the Water Used in Ceremonies
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo19:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1906'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e0c54c39e552f8527d4f273197e8a1ef
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_19_Mother's_Song_to_a_Baby.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "misc", "file.SOCIAL_FUNCTION": "miscellaneous
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 24
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=36
+  publication_song_num: '19'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Mother's Song to a Baby
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo20:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1907'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 19d05398dc90ca5c7844ec512bc85471
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_20_Song_Addressed_to_Medicine_Bowl.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "healing", "file.SOCIAL_FUNCTION": "songs
+    connected with the treatment of the sick", "file.LING_GROUP": "Keresan", "file.LANG":
+    "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 26
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=38
+  publication_song_num: '20'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Addressed to Medicine Bowl
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo21:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1908'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 8c236035bdbe90d1ca30be43679eb381
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_21_Song_During_Treatment_of_the_Sick.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "healing", "file.SOCIAL_FUNCTION": "songs
+    connected with the treatment of the sick", "file.LING_GROUP": "Keresan", "file.LANG":
+    "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 27
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=39
+  publication_song_num: '21'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song During Treatment of the Sick
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo22:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1909'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 59e4c2ab80cabcbf671fd3e1afd5f7aa
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_22_A_Little_Golden_Calliste.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "seasonal"], "file.SOCIAL_FUNCTION":
+    "winter dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 30
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=42
+  publication_song_num: '22'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: A Little Golden Calliste
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo23:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1910'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 65a2f6d97fbb530fc00c217a6a9ed4ea
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_23_Winter_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "seasonal"], "file.SOCIAL_FUNCTION":
+    "winter dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 31
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=43
+  publication_song_num: '23'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Winter Dance Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo24:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1911'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 3e5a9faa27561cd60e60747a7a3388a1
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_24_Winter_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "seasonal"], "file.SOCIAL_FUNCTION":
+    "winter dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 31
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=43
+  publication_song_num: '24'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Winter Dance Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo25:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1912'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 335b58db7f6b3b0ad9afe3dd2eeb26dc
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_25_The_Rain_Clouds_Are_Caring_for_the_Little_Corn_Plants.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "seasonal"], "file.SOCIAL_FUNCTION":
+    "winter dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 33
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=45
+  publication_song_num: '25'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Rain Clouds Are Caring for the Little Corn Plants
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo26:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1913'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 7bec7806dc1c0f8eb24ec777756446ea
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_26_Opening_Song_of_Flower_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "nature"], "file.SOCIAL_FUNCTION":
+    "flower dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 35
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=47
+  publication_song_num: '26'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Opening Song of Flower Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo27:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1914'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 91df6eac38901433ed21ec7222a19c47
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_27_Butterfly_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "nature"], "file.SOCIAL_FUNCTION":
+    "flower dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 36
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=48
+  publication_song_num: '27'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Butterfly Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo28:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1915'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6c6621ecad2288ddb87cd99b355b2f27
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_28_Flower_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "nature"], "file.SOCIAL_FUNCTION":
+    "flower dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 38
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=50
+  publication_song_num: '28'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Flower Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo29:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1916'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 12f554b8bc867bf73c8b9fa2e1cd5339
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_29_Song_Concerning_a_Visit_to_Other_Pueblos.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "nature"], "file.SOCIAL_FUNCTION":
+    "flower dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 40
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=52
+  publication_song_num: '29'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Concerning a Visit to Other Pueblos
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo30:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1917'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 62bcf1d7d14227b426794a50c95f87b3
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_30_Song_Addressed_to_a_New_Chief.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "situi dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 42
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=54
+  publication_song_num: '30'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Addressed to a New Chief
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo31:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1918'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 958fb7169fe505d0fa5bc27b9f9a39cc
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_31_The_Mockingbird_Sings_in_the_Morning.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "corn dance
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 44
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=56
+  publication_song_num: '31'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Mockingbird Sings in the Morning
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo32:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1919'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d099b980ce5298ff2c72b407d014be85
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_32_In_the_West_Is_the_Home_of_the_Raingods.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "corn dance
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 46
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=58
+  publication_song_num: '32'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: In the West Is the Home of the Raingods
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo33:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1920'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4fb6563de3721fe9d1a105495b59d808
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_33_The_Raingods_Have_Returned.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "corn dance
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 47
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=59
+  publication_song_num: '33'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Raingods Have Returned
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo34:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1921'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 6ba565ed74fb59c86aa463bc23edd2aa
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_34_Corn_Plant,_I_Sing_for_You.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.LING_GROUP": "Keresan", "file.LANG":
+    "Tone", "file.REG": "Southwest", "file.SOCIAL_FUNCTION": "corn dance songs"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 48
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=60
+  publication_song_num: '34'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn Plant, I Sing for You
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo35:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1922'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 81d9219fc2fd5d785a35783c7e8a4fb5
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_35_Song_Concerning_the_Clouds_and_Fog.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "corn dance
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 49
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=61
+  publication_song_num: '35'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Concerning the Clouds and Fog
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo36:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1923'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 91cbc4465aa6f9ae15141a637a44ae9b
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_36_Song_Concerning_Laguna_Lake.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "corn dance
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 40
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=52
+  publication_song_num: '36'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song Concerning Laguna Lake
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo37:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1924'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 165e91bdb0943be8bb4105400d11b42c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_37_The_Sun-Youth_Has_Risen_in_the_East.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "harvest"], "file.SOCIAL_FUNCTION":
+    "harvest dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 52
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=64
+  publication_song_num: '37'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Sun-Youth Has Risen in the East
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo38:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1925'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d6327b39407eface08dcd0c086b208fc
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_38_The_Raingods_Are_Coming_Back.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "harvest"], "file.SOCIAL_FUNCTION":
+    "harvest dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 54
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=66
+  publication_song_num: '38'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Raingods Are Coming Back
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo39:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1926'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e9ab672b5ef5c0637633273b817ecc4d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_39_The_Butterfly_You_Painted_Has_Flown_Away.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": ["dance", "harvest"], "file.SOCIAL_FUNCTION":
+    "harvest dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG":
+    "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 56
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=68
+  publication_song_num: '39'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Butterfly You Painted Has Flown Away
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo40:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1927'
+  collection_date: '1930'
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Acoma
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 71d0c82e2aa54d998699230c9a6c4533
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_40_Song_of_Comanche_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: acom145
+  instrument_use: null
+  instrumentation: null
+  language: Acoma
+  latitude: 34.896389
+  license_id: null
+  location: Acoma Pueblo, New Mexico, U.S.A.
+  longitude: -107.581944
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "comanche
+    dance songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Philip Sanches
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 59
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=71
+  publication_song_num: '40'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Comanche Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo41:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1928'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 2c0b159d856a45d67d98c1dc94bdf57a
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_41_The_Coming_of_the_Sun.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 60
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=72
+  publication_song_num: '41'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Coming of the Sun
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo42:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1929'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d18c952b1c1ae497a634fb2e553bd964
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_42_The_Sun_and_the_Yellow_Corn.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 62
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=74
+  publication_song_num: '42'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Sun and the Yellow Corn
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo43:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1930'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1b2fdae0cbe379b72ac74a9c8f205cc0
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_43_The_Sound_of_the_Raingods.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 64
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=76
+  publication_song_num: '43'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Sound of the Raingods
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo44:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1931'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 45f03e6c773a6ba5a2b4b69470b726c1
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_44_It_Is_Raining.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 66
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=78
+  publication_song_num: '44'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: It Is Raining
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo45:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1932'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e62fcea93ed57695abab0a9da3604893
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_45_Song_to_a_Bee.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 67
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=79
+  publication_song_num: '45'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song to a Bee
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo46:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1933'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 86cf7322162fa39a8596ba2810a4bb7f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_46_Corn-grinding_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 68
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=80
+  publication_song_num: '46'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo47:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1934'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 3d04b66c8441375f0bce776570385688
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_47_Corn-grinding_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 69
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=81
+  publication_song_num: '47'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo48:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1935'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4ea08c6a1d598a2ecc7a666c355d1279
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_48_War_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 71
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=83
+  publication_song_num: '48'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: War Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo49:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1936'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 31c32637f60068dd92c40eb7c6c15e40
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_49_War_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 72
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=84
+  publication_song_num: '49'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: War Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo50:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1937'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1c20c96a7a2885e0dfa68c89e119847d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_50_War_Song_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 73
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=85
+  publication_song_num: '50'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: War Song (c)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo51:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1938'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 397c6763b4a924336be4a23a70fd74c2
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_51_First_Song_of_Hunci_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 74
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=86
+  publication_song_num: '51'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: First Song of Hunci Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo52:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1939'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 62d3573b82f0d348b4cf2ad6866591f7
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_52_Second_Song_of_Hunci_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 75
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=87
+  publication_song_num: '52'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Second Song of Hunci Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo53:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1940'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 4a8cac3c0c9dba60e172b44f17402c83
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_53_Final_Song_of_Hunci_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 76
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=88
+  publication_song_num: '53'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Final Song of Hunci Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo54:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1941'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 9b063bd76b6fa11f5d882692200276c4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_54_Song_of_Fortynine_Dance_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 77
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=89
+  publication_song_num: '54'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Fortynine Dance (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo55:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1942'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e6083e48f6484ceae632854e2d6f4747
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_55_Song_of_Fortynine_Dance_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 78
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=90
+  publication_song_num: '55'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Fortynine Dance (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo56:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1943'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 279aa0096d64648cde290339ee648fee
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_56_Song_of_Fortynine_Dance_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 79
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=91
+  publication_song_num: '56'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of Fortynine Dance (c)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo57:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1944'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d37501af43efa5389610296d1de64844
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_57_Song_of_the_Horned_Toad_When_Putting_Her_Children_to_Sleep.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "isleta",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 80
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=92
+  publication_song_num: '57'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song of the Horned Toad When Putting Her Children to Sleep
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo58:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1945'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Isleta
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 8baa9f4054f5f48141c97d049a3f03d1
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_58_Lady_Crane,_You_Stole_My_Corn.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: isle1245
+  instrument_use: null
+  instrumentation: null
+  language: Isleta
+  latitude: 34.908611
+  license_id: null
+  location: Isleta Pueblo, New Mexico, U.S.A.
+  longitude: -106.691667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.LING_GROUP": "Keresan",
+    "file.LANG": "Tone", "file.REG": "Southwest", "file.SOCIAL_FUNCTION": "isleta"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Antony Lucero
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 81
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=93
+  publication_song_num: '58'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Lady Crane, You Stole My Corn
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo59:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1946'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 66079e26b05bedaa73dbce3c374b159c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_59_Song_on_Evening_Before_the_Buffalo_Dance.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 83
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=95
+  publication_song_num: '59'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Song on Evening Before the Buffalo Dance
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo60:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1947'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 0c3bd2c712fe69c1bef1780872f6a8d0
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_60_Buffalo_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 84
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=96
+  publication_song_num: '60'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Buffalo Dance Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo61:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1948'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: e45ba39306ad1b7ffd4e6e48fd2e2e7b
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_61_Buffalo_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 85
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=97
+  publication_song_num: '61'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Buffalo Dance Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo62:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1949'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: bcfeea4ec702dda3df5223cd2c20e7bb
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_62_Buffalo_Dance_Song_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 86
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=98
+  publication_song_num: '62'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Buffalo Dance Song (c)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo63:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1950'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 81250cb21aa176dfc4bbc096a105c9d5
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_63_Ouwe_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 88
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=100
+  publication_song_num: '63'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Ouwe Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo64:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1951'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 7051820ab3d5074c66102522b7ded75d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_64_Corn_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 91
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=103
+  publication_song_num: '64'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo65:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1952'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 125eb3f9bb2809d481b6946baad490a8
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_65_Corn-grinding_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 92
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=104
+  publication_song_num: '65'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo66:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1953'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: bb15a5f7f86f7ceff9a68b04b5c13073
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_66_Hunting_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 94
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=106
+  publication_song_num: '66'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Hunting Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo67:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1954'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: Cochiti
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: d8deae41ab002a2136ab07766eac0471
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_67_Antelope_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: coch1273
+  instrument_use: null
+  instrumentation: null
+  language: Cochiti
+  latitude: 35.608889
+  license_id: null
+  location: Cochiti, New Mexico, U.S.A.
+  longitude: -106.344722
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "tribename", "file.SOCIAL_FUNCTION": "cochiti",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Evergreen Tree
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 95
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=107
+  publication_song_num: '67'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Antelope Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo68:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1955'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 0b44f44988a017345d526613d44587ed
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_68_The_Rain_Is_Coming.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 97
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=109
+  publication_song_num: '68'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Rain Is Coming
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo69:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1956'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 73f4be4103acab51490e4de905001ad7
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_69_The_Mockingbird_Speaks.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 98
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=110
+  publication_song_num: '69'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Mockingbird Speaks
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo70:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1957'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1cffb4e41e9534015fc16d6c105ec556
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_70_Rain_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 99
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=111
+  publication_song_num: '70'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Rain Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo71:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1958'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: df11fa8d2dd991d0f3bf757b66de1a67
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_71_The_Raingods_Speak.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 100
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=112
+  publication_song_num: '71'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Raingods Speak
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo72:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1959'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 5c521d5839fe521c7136647d3b712dfa
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_72_The_Badger_Woman_Speaks.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 101
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=113
+  publication_song_num: '72'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: The Badger Woman Speaks
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo73:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1960'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 285bca0494deaecc21914057c19cd520
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_73_At_the_Rainbow_Spring.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "rain dance
+    song", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 102
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=114
+  publication_song_num: '73'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: At the Rainbow Spring
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo74:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1961'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: cf29d84c918dcdd54176e6340d4ff5fe
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_74_Corn-grinding_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "corn-grinding
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 104
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=116
+  publication_song_num: '74'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo75:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1962'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 1691598054b2ebdcd6b79e640322fbc3
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_75_Corn-grinding_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "corn-grinding
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 105
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=117
+  publication_song_num: '75'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo76:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1963'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: b437078ec732d219de2e6368fb0463a6
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_76_Corn-grinding_Song_(c).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "harvest", "file.SOCIAL_FUNCTION": "corn-grinding
+    songs", "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 106
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=118
+  publication_song_num: '76'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Corn-grinding Song (c)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo77:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1964'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 285fef2443a67da7bb0ac2701f6ea2a3
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_77_Harvest_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 107
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=119
+  publication_song_num: '77'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Harvest Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo78:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1965'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: b36992a69ba2115bfab15ac4b4e36b2e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_78_Pleasure_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 107
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=119
+  publication_song_num: '78'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Pleasure Dance Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo79:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1966'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 26b9a5cb66779bb8adaffc7477bd4f1d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_79_Pleasure_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 108
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=120
+  publication_song_num: '79'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Pleasure Dance Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo80:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1967'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 039b76449bf2fa04da66f4a522a3d8d4
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_80_Comanche_Dance_Song_(a).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 109
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=121
+  publication_song_num: '80'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Comanche Dance Song (a)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo81:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1968'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: bc7f87ff232700206b4faaf92b04611f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_81_Comanche_Dance_Song_(b).krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 110
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=122
+  publication_song_num: '81'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Comanche Dance Song (b)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
+pueblo82:
+  ambitus: null
+  auto_geocoded: false
+  beat_duration: null
+  catalogue_num: '1969'
+  collection_date: 1930-1940
+  collection_date_earliest: '1928'
+  collection_date_latest: '1957'
+  collectors: Frances Densmore
+  comments: null
+  contributors: null
+  copyright: Copyright 2014 Daniel and Eva Shanahan
+  corpus_version: 0.0.1
+  culture: "Zu\xF1i"
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: densmore-pueblo
+  description: null
+  encoders: Daniel Shanahan|Eva Shanahan
+  encoding_date: '2014'
+  file_checksum: 924a1c390ab830ebacf307f6269e8294
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: true
+  file_has_music: true
+  file_path: data/No_82_Deer_Dance_Song.krn
+  file_preview_url: null
+  file_url: https://github.com/shanahdt/densmore/raw/master/Densmore/acoma/None.krn
+  genres: null
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: null
+  language: null
+  latitude: 35.069444
+  license_id: null
+  location: Zuni Pueblo, New Mexico, U.S.A.
+  longitude: -108.846667
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: null
+  other_fields: '{"file.SUPERFUNCTION": "dance", "file.SOCIAL_FUNCTION": "dance songs",
+    "file.LING_GROUP": "Keresan", "file.LANG": "Tone", "file.REG": "Southwest"}'
+  percussion_use: null
+  performer_genders: male
+  performers: Falling Star
+  publication_authors: Frances Densmore
+  publication_date: '1957'
+  publication_key: densmore1957pueblo
+  publication_page_num: 111
+  publication_preview_url: https://babel.hathitrust.org/cgi/pt?id=mdp.39015024865878&view=1up&seq=123
+  publication_song_num: '82'
+  publication_title: Pueblo Music
+  publication_type: book
+  scale: null
+  tempo: null
+  title: Deer Dance Song
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: null
+  voice_use: true
+  warnings: null
