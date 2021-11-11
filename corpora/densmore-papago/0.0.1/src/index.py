@@ -104,10 +104,9 @@ class DensmorePapagoEntry(IndexEntry):
 def generate_index():
     config = Configuration()
     data_dir = Path(config.get("data_dir")) / CORPUS_ID / CORPUS_VERSION
-    corpus_dir = Path(__file__).parent.parent
     index = Index()
     paths = data_dir.glob("data/*.krn")
-    meta_source = CSVSource(corpus_dir / "src/additional-metadata.csv")
+    meta_source = CSVSource(CORPUS_DIR / "src/additional-metadata.csv")
     special_song_nums = {
         "Flute_Melody_1": 168,
         "Flute_Melody_2": 169,
