@@ -60,7 +60,7 @@ class DensmorePapagoEntry(IndexEntry):
         publication_page_num="meta.page_num",
         publication_song_num="meta.song_num",
         lyrics="meta.lyrics",
-        lyrics_translation="meta.free_translation"
+        lyrics_translation="meta.free_translation",
     )
 
     export_unused_fields = True
@@ -95,12 +95,7 @@ class DensmorePapagoEntry(IndexEntry):
         return f'{num:.0f}'
 
     def get_comments(self):
-        comments = [self.get("file._comments"), self.get("meta.comments")]
-        comments = [c for c in comments if c is not None and c != ""]
-        if len(comments) == 0:
-            return None
-        else:
-            return comments
+        return self.concatenate('file._comments', 'meta.comments')
     
     def get_tempo(self):
         bpm = self.get('meta.bpm')
