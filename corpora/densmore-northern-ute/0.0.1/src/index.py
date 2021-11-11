@@ -99,12 +99,8 @@ class DensmoreNorthernUteEntry(IndexEntry):
         return f'{num:.0f}'
 
     def get_comments(self):
-        comments = [self.get("file._comments"), self.get("meta.comments")]
-        comments = [c for c in comments if c is not None and c != ""]
-        if len(comments) == 0:
-            return None
-        else:
-            return comments
+        return self.concatenate('file._comments', 'meta.comments')
+
 
 def generate_index():
     config = Configuration()
