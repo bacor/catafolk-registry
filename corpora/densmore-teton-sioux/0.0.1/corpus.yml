@@ -4,7 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: densmore-teton-sioux
-version: 0.0.0
+version: 0.0.1
 
 # List of groups dataset belongs (see groups.yml) Optional.
 group_ids: [densmore]
@@ -181,11 +181,11 @@ transformations:
 
 
   # Performance
-  # —————————————————————————————————————————————————————————————————
-  - format:
-    - [file.MPN@@SIO, file.MPN@ENG]
-    - performers
-    - pattern: "{} ({})"
+  # # —————————————————————————————————————————————————————————————————
+  # - format:
+  #   - [file.MPN@@SIO, file.MPN@ENG]
+  #   - performers
+  #   - pattern: "{} ({})"
   # performers
   # performer_genders
   # instrumentation
@@ -196,23 +196,23 @@ transformations:
   
   # Publication
   # —————————————————————————————————————————————————————————————————
-  - constant: [publication_key, densmore1918teton]
-  - rename: [file.ONM, publication_song_num]
-  - rename: [file.PPG, publication_page_num]
-  - operation: extract_groups
-    inputs: [file.catalog]
-    outputs: [catalogue_num]
-    params:
-      pattern: "Catalogue No\\. (\\d+)"
-      groups: [1]
-  - constant: [publication_type, book]
-  - constant: [publication_title, Teton Sioux Music]
-  - constant: [publication_authors, Frances Densmore]
-  - constant: [publication_date, 1918]
-  - format:
-    - publication_page_num
-    - publication_preview_url
-    - pattern: https://books.google.nl/books?id=Adw_AAAAYAAJ&pg=PA{}
+  # - constant: [publication_key, densmore1918teton]
+  # - rename: [file.ONM, publication_song_num]
+  # - rename: [file.PPG, publication_page_num]
+  # - operation: extract_groups
+  #   inputs: [file.catalog]
+  #   outputs: [catalogue_num]
+  #   params:
+  #     pattern: "Catalogue No\\. (\\d+)"
+  #     groups: [1]
+  # - constant: [publication_type, book]
+  # - constant: [publication_title, Teton Sioux Music]
+  # - constant: [publication_authors, Frances Densmore]
+  # - constant: [publication_date, 1918]
+  # - format:
+  #   - publication_page_num
+  #   - publication_preview_url
+  #   - pattern: https://books.google.nl/books?id=Adw_AAAAYAAJ&pg=PA{}
 
   
   # Mixed
