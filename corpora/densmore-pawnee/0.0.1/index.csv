@@ -1,87 +1,984 @@
-id,dataset_id,title,title_eng,location,latitude,longitude,culture,collection_date,collector,performer,source,source_key,source_author,source_title,source_publisher,source_address,source_page_num,source_song_num,source_date,catalogue_number,source_url,encoder,encoding_date,copyright,license_abbr,version,meter,metric_classification,modality,key,ambitus,has_lyrics,has_music,genre,language,language_iso,url,preview_url,path,format,checksum
-pawnee01,densmore-pawnee,Song of Morning Star,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Coming Sun,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 20, No. 1",densmore1929pawnee,,,,,20,1,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA20,David Huron,"August 31, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,Morning star ceremony,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee01.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee01.krn,data/pawnee01.krn,kern,8779f66ce3cb97de01096339131e2943
-pawnee02,densmore-pawnee,The Herd Passes Through the Village,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 25, No. 2",densmore1929pawnee,,,,,25,2,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA25,David Huron,"August 31, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee02.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee02.krn,data/pawnee02.krn,kern,629dedfa384efd08d6dd64110b0e345d
-pawnee03,densmore-pawnee,The Buffalo and the Crow,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 27, No. 3",densmore1929pawnee,,,,,27,3,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA27,David Huron,"August 31, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee03.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee03.krn,data/pawnee03.krn,kern,91d59d562fe16e3328d6d1f88dd8248e
-pawnee04,densmore-pawnee,My Dear Father the Buffalo,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 28, No. 4",densmore1929pawnee,,,,,28,4,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA28,David Huron,"August 31, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee04.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee04.krn,data/pawnee04.krn,kern,359c29db231e7e0577f57a8f4f34e428
-pawnee05,densmore-pawnee,Yonder the Smoke Was Standing,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 30, No. 5",densmore1929pawnee,,,,,30,5,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA30,David Huron,"September 1, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee05.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee05.krn,data/pawnee05.krn,kern,4a3304bc675ce6a9c07e83ab1633b532
-pawnee06,densmore-pawnee,The Woman Imitates the Buffalo,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 31, No. 6",densmore1929pawnee,,,,,31,6,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA31,David Huron,"September 1, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee06.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee06.krn,data/pawnee06.krn,kern,e29d869fc18ede34478a0e70f65d293f
-pawnee07,densmore-pawnee,The Buffalo Are Coming,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 32, No. 7",densmore1929pawnee,,,,,32,7,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA32,David Huron,"September 1, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee07.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee07.krn,data/pawnee07.krn,kern,d5585030ab5d95374f79fceb3212de7d
-pawnee08,densmore-pawnee,The Waves of Dust,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 33, No. 8",densmore1929pawnee,,,,,33,8,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA33,David Huron,"September 1, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee08.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee08.krn,data/pawnee08.krn,kern,70d7f3a3fa49b9a4fc8bf39d280b6645
-pawnee09,densmore-pawnee,Unreal the Buffalo is Standing,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 35, No. 9",densmore1929pawnee,,,,,35,9,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA35,David Huron,"September 2, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Buffalo dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee09.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee09.krn,data/pawnee09.krn,kern,518faafbd3e20373866275e191f4d02f
-pawnee10,densmore-pawnee,The Band of the Dead Is Coming,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 36, No. 10",densmore1929pawnee,,,,,36,10,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA36,David Huron,"September 1, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Lance dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee10.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee10.krn,data/pawnee10.krn,kern,67b64ae300ae7090137caa65e7b2aa54
-pawnee11,densmore-pawnee,Mother is Coming,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 37, No. 11",densmore1929pawnee,,,,,37,11,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA37,David Huron,"September 2, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee11.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee11.krn,data/pawnee11.krn,kern,5260adcc15d995f6aea3daf9cc26a418
-pawnee12,densmore-pawnee,The Bear is Pointing at the Sun,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 38, No. 12",densmore1929pawnee,,,,,38,12,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA38,David Huron,"September 2, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee12.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee12.krn,data/pawnee12.krn,kern,19298da465fae53e98b54a30fb834de9
-pawnee13,densmore-pawnee,A Woman Stands Among the Trees,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 40, No. 13",densmore1929pawnee,,,,,40,13,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA40,David Huron,"September 2, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee13.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee13.krn,data/pawnee13.krn,kern,bce7764aee58fd1f5e8efd876a7c0661
-pawnee14,densmore-pawnee,The Hores is Shouting,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 41, No. 14",densmore1929pawnee,,,,,41,14,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA41,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee14.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee14.krn,data/pawnee14.krn,kern,e0e39bfbcbd514ad4cdfb982358bf915
-pawnee15,densmore-pawnee,I Was Lost in the Timber,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 42, No. 15",densmore1929pawnee,,,,,42,15,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA42,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee15.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee15.krn,data/pawnee15.krn,kern,0c60fba2d0ff9a34bf264d306477d74b
-pawnee16,densmore-pawnee,I Am Like a Bear,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Dog Chief [Simond Adams],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 43, No. 16",densmore1929pawnee,,,,,43,16,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA43,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee16.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee16.krn,data/pawnee16.krn,kern,80b9ec007213614dfd2201370ffc9f13
-pawnee17,densmore-pawnee,Bear Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Dog Chief [Simond Adams],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 44, No. 17",densmore1929pawnee,,,,,44,17,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA44,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee17.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee17.krn,data/pawnee17.krn,kern,0d1d02b3f9e8be00402486c77fbce5b8
-pawnee18,densmore-pawnee,Bear Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Dog Chief [Simond Adams],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 45, No. 18",densmore1929pawnee,,,,,45,18,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA45,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee18.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee18.krn,data/pawnee18.krn,kern,653326ba25ab3614bbe724e0c115ca56
-pawnee19,densmore-pawnee,Bear Dance Song (c),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Dog Chief [Simond Adams],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 46, No. 19",densmore1929pawnee,,,,,46,19,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA46,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee19.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee19.krn,data/pawnee19.krn,kern,1e8499e2979b32f9e7ebfb7b518d27ad
-pawnee20,densmore-pawnee,Bear Dance Song (d),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Dog Chief [Simond Adams],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 47, No. 20",densmore1929pawnee,,,,,47,20,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA47,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Bear dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee20.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee20.krn,data/pawnee20.krn,kern,13f73b822b03490c7da6feb4cbb87d06
-pawnee21,densmore-pawnee,How Near is the Mornging?,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Mark Evarts,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 48, No. 21",densmore1929pawnee,,,,,48,21,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA48,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Deer Society song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee21.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee21.krn,data/pawnee21.krn,kern,4a027eff18c75f3fd4c9b95351e43d65
-pawnee22,densmore-pawnee,Spring is Opening,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Mark Evarts,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 49, No. 22",densmore1929pawnee,,,,,49,22,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA49,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Deer Society song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee22.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee22.krn,data/pawnee22.krn,kern,26cf7d0594b522f609256ef030c9db39
-pawnee23,densmore-pawnee,Old Age is Painful,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 50, No. 23",densmore1929pawnee,,,,,50,23,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA50,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,White Lance society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee23.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee23.krn,data/pawnee23.krn,kern,063c8c72f2eebaad1a61887a50faf132
-pawnee24,densmore-pawnee,Beloved Emblem,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 52, No. 24",densmore1929pawnee,,,,,52,24,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA52,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Raven Lance Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee24.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee24.krn,data/pawnee24.krn,kern,f8410b00cc9d3615970ec4c080bb9f50
-pawnee25,densmore-pawnee,Crow Lance Society Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 53, No. 25",densmore1929pawnee,,,,,53,25,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA53,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Raven Lance Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee25.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee25.krn,data/pawnee25.krn,kern,653d9bf922ecf494d0ac8e71ecf5b1c3
-pawnee26,densmore-pawnee,The Lance Dancers,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 54, No. 26",densmore1929pawnee,,,,,54,26,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA54,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Kitsita Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee26.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee26.krn,data/pawnee26.krn,kern,6e7adfe11da473de7f4f5c9795b9c9d3
-pawnee27,densmore-pawnee,Lance Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 55, No. 27",densmore1929pawnee,,,,,55,27,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA55,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Kitsita Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee27.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee27.krn,data/pawnee27.krn,kern,3ddeb4cf7bc4d8db219d7e7d68d8f765
-pawnee28,densmore-pawnee,Lance Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 56, No. 28",densmore1929pawnee,,,,,56,28,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA56,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Kitsita Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee28.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee28.krn,data/pawnee28.krn,kern,7a47e3613a4f72530f855a2bea474281
-pawnee29,densmore-pawnee,The White Fox,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 57, No. 29",densmore1929pawnee,,,,,57,29,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA57,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Wolf Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee29.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee29.krn,data/pawnee29.krn,kern,35fd1bc4ae7d2c23459df1f58b39acbe
-pawnee30,densmore-pawnee,"It Is Mine, This Country Wide",,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 58, No. 30",densmore1929pawnee,,,,,58,30,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA58,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Wolf Society,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee30.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee30.krn,data/pawnee30.krn,kern,c5b7e3a0089c7682bee70a8207bf0adc
-pawnee31,densmore-pawnee,Song Concerning Iron Shirt,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 60, No. 31",densmore1929pawnee,,,,,60,31,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA60,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee31.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee31.krn,data/pawnee31.krn,kern,1dde097c824d3e02174cbecacbb11be9
-pawnee32,densmore-pawnee,Eagle Chief's War Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 61, No. 32",densmore1929pawnee,,,,,61,32,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA61,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee32.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee32.krn,data/pawnee32.krn,kern,56d81378865b00e4039bc5fc19daf676
-pawnee33,densmore-pawnee,The Thunder Spoke Quietly,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 61, No. 33",densmore1929pawnee,,,,,61,33,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA61,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee33.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee33.krn,data/pawnee33.krn,kern,001fc88d2f5e333440fb9215139cd994
-pawnee34,densmore-pawnee,He Comes,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 63, No. 34",densmore1929pawnee,,,,,63,34,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA63,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee34.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee34.krn,data/pawnee34.krn,kern,1d1b753dcb487b96ee4578f196e3822c
-pawnee35,densmore-pawnee,A Woman Welcomes the Warriors,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 64, No. 35",densmore1929pawnee,,,,,64,35,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA64,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee35.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee35.krn,data/pawnee35.krn,kern,4617d81df7ede0ffc3286262d25938d2
-pawnee36,densmore-pawnee,Song for Returned Pawnee Soldiers,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 66, No. 36",densmore1929pawnee,,,,,66,36,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA66,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee36.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee36.krn,data/pawnee36.krn,kern,c4e1fb72cb7cba48cc19a9ee075869e4
-pawnee37,densmore-pawnee,Brown Bear's Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 68, No. 37",densmore1929pawnee,,,,,68,37,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA68,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee37.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee37.krn,data/pawnee37.krn,kern,0f88911466918088d6bb28a1ad23242d
-pawnee38,densmore-pawnee,Women's War Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 68, No. 38",densmore1929pawnee,,,,,68,38,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA68,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,War song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee38.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee38.krn,data/pawnee38.krn,kern,f081443f4933af6c4b6e340ab142067a
-pawnee39,densmore-pawnee,Blue Hawk's Hand Game Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 71, No. 39",densmore1929pawnee,,,,,71,39,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA71,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee39.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee39.krn,data/pawnee39.krn,kern,856ef1a8f7e1e6ca03d68cfea6cc4356
-pawnee40,densmore-pawnee,Hand Game Guessing Song (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 71, No. 40",densmore1929pawnee,,,,,71,40,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA71,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee40.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee40.krn,data/pawnee40.krn,kern,c83e742e77e6e31055bad27ae95d1281
-pawnee41,densmore-pawnee,Hand Game Guessing Song (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 72, No. 41",densmore1929pawnee,,,,,72,41,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA72,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee41.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee41.krn,data/pawnee41.krn,kern,157ce08148b665133f6dab2e32391618
-pawnee42,densmore-pawnee,Hand Game Guessing Song (c),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 73, No. 42",densmore1929pawnee,,,,,73,42,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA73,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee42.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee42.krn,data/pawnee42.krn,kern,306b6de43c248f4b1abf3f3738f3328a
-pawnee43,densmore-pawnee,Hand Game Guessing Song (d),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 73, No. 43",densmore1929pawnee,,,,,73,43,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA73,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee43.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee43.krn,data/pawnee43.krn,kern,3236e912abedd4dbad6eba9b1c99ed2c
-pawnee44,densmore-pawnee,Hand Game Guessing Song (e),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 74, No. 44",densmore1929pawnee,,,,,74,44,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA74,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee44.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee44.krn,data/pawnee44.krn,kern,f40727356f3541feeb36c0b91543f9a9
-pawnee45,densmore-pawnee,Hand Game Guessing Song (f),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 75, No. 45",densmore1929pawnee,,,,,75,45,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA75,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee45.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee45.krn,data/pawnee45.krn,kern,31d414f22d702903893ac181df332289
-pawnee46,densmore-pawnee,Hand Game Guessing Song (g),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 75, No. 46",densmore1929pawnee,,,,,75,46,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA75,David Huron,"September 3, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee46.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee46.krn,data/pawnee46.krn,kern,0f2c2f1f09e917913c7e890449b2b616
-pawnee47,densmore-pawnee,I Hear the Sound of a Child Crying,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 76, No. 47",densmore1929pawnee,,,,,76,47,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA76,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee47.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee47.krn,data/pawnee47.krn,kern,6268d7e0de43746332d74ddc73b69d01
-pawnee48,densmore-pawnee,Hand Game Song Concerning a Little Boy,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 77, No. 48",densmore1929pawnee,,,,,77,48,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA77,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee48.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee48.krn,data/pawnee48.krn,kern,4405ab3ab509542a5f12e96818146ac8
-pawnee49,densmore-pawnee,You Came Near Finding Them,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 78, No. 49",densmore1929pawnee,,,,,78,49,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA78,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Hand game song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee49.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee49.krn,data/pawnee49.krn,kern,97118d1eea87ffadad7d613d08914293
-pawnee50,densmore-pawnee,The Crow,,,,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 79, No. 50",densmore1929pawnee,,,,,79,50,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA79,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee50.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee50.krn,data/pawnee50.krn,kern,65eaf014d5fca0af2f5e46e8cc747e41
-pawnee51,densmore-pawnee,Song Concerning Mother Moon,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 80, No. 51",densmore1929pawnee,,,,,80,51,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA80,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee51.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee51.krn,data/pawnee51.krn,kern,343e41792672823f020ab939a4a30cbd
-pawnee52,densmore-pawnee,Song Concerning an Open Grave,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 81, No. 52",densmore1929pawnee,,,,,81,52,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA81,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee52.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee52.krn,data/pawnee52.krn,kern,15f12958fe6d8da2b24b2b8e5f849861
-pawnee53,densmore-pawnee,Ghost Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 81, No. 53",densmore1929pawnee,,,,,81,53,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA81,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee53.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee53.krn,data/pawnee53.krn,kern,74784dbc1c1e2a69d79a1be697a1b1cf
-pawnee54,densmore-pawnee,Ghost Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 82, No. 54",densmore1929pawnee,,,,,82,54,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA82,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee54.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee54.krn,data/pawnee54.krn,kern,b48dc68f8c3120809179d1db4d26b30f
-pawnee55,densmore-pawnee,Ghost Dance Song (c),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 82, No. 55",densmore1929pawnee,,,,,82,55,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA82,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee55.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee55.krn,data/pawnee55.krn,kern,ca7a7469b193337b443f2eb51b9a09c8
-pawnee56,densmore-pawnee,Ghost Dance Song (d),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Horse Chief [Spotted Horse Chief],"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 83, No. 56",densmore1929pawnee,,,,,83,56,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA83,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee56.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee56.krn,data/pawnee56.krn,kern,4cf88710d0e3554de55bb8d33ca90f02
-pawnee57,densmore-pawnee,The Yellow Start,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 84, No. 57",densmore1929pawnee,,,,,84,57,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA84,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee57.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee57.krn,data/pawnee57.krn,kern,f2a5f63f53f7d6f183a99de2aa728180
-pawnee58,densmore-pawnee,Running Scout's Ghost Dance Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 85, No. 58",densmore1929pawnee,,,,,85,58,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA85,David Huron,"September 4, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee58.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee58.krn,data/pawnee58.krn,kern,cf166e77d7ffa76302b58422a910e845
-pawnee59,densmore-pawnee,Song Concerning the Ghost Dance,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 86, No. 59",densmore1929pawnee,,,,,86,59,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA86,David Huron,"September 5, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Ghost dance,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee59.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee59.krn,data/pawnee59.krn,kern,4a9e727744933f8c526cf4074b49a283
-pawnee60,densmore-pawnee,I am Exalted Among the People,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 87, No. 60",densmore1929pawnee,,,,,87,60,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA87,David Huron,"September 5, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Man chief's songs,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee60.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee60.krn,data/pawnee60.krn,kern,91f177ce004c4e2a5395dcdb9760ce2e
-pawnee61,densmore-pawnee,The Heavens Are Speaking,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 88, No. 61",densmore1929pawnee,,,,,88,61,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA88,David Huron,"September 5, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Man chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee61.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee61.krn,data/pawnee61.krn,kern,0f8a47e0810dd94c2e99ca76c8cc886c
-pawnee62,densmore-pawnee,O Expanse of the Heavens,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 89, No. 62",densmore1929pawnee,,,,,89,62,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA89,David Huron,"September 5, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Man chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee62.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee62.krn,data/pawnee62.krn,kern,a3d7d939e8169bbf4e13ecdbc8891497
-pawnee63,densmore-pawnee,Power is in the Heaven,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 90, No. 63",densmore1929pawnee,,,,,90,63,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA90,David Huron,"September 5, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,Man chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee63.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee63.krn,data/pawnee63.krn,kern,ba71f49a5321cb2a3247ca654c158ebc
-pawnee64,densmore-pawnee,Our Hearts Are Set in the Heavens,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 90, No. 64",densmore1929pawnee,,,,,90,64,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA90,David Huron,"September 6, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,Man chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee64.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee64.krn,data/pawnee64.krn,kern,88512bd1a1b391b0b50b8a21693c078d
-pawnee65,densmore-pawnee,Man Chief's Song,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 91, No. 65",densmore1929pawnee,,,,,91,65,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA91,David Huron,"September 6, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Man chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee65.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee65.krn,data/pawnee65.krn,kern,607f826eb4243a0feff978c10243f00b
-pawnee66,densmore-pawnee,It Is Good Where We Are Now,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 92, No. 66",densmore1929pawnee,,,,,92,66,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA92,David Huron,"September 6, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Roaming chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee66.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee66.krn,data/pawnee66.krn,kern,9b7d5267c7ca9ede6f3828948748e4ac
-pawnee67,densmore-pawnee,My Trust is in Mother Corn,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 93, No. 67",densmore1929pawnee,,,,,93,67,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA93,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,Roaming chief's song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee67.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee67.krn,data/pawnee67.krn,kern,246c04691bb3e4c42a6700269ab3be09
-pawnee68,densmore-pawnee,Song of Affection (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 94, No. 68",densmore1929pawnee,,,,,94,68,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA94,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Song of affection,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee68.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee68.krn,data/pawnee68.krn,kern,29faa4d7a3861561a5ad4947c5b22a1b
-pawnee69,densmore-pawnee,Song of Affection (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 95, No. 69",densmore1929pawnee,,,,,95,69,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA95,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,Song of affection,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee69.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee69.krn,data/pawnee69.krn,kern,131fb76661ec0194ac915f556fdebe23
-pawnee70,densmore-pawnee,Song of a Warrior's Wife,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 96, No. 70",densmore1929pawnee,,,,,96,70,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA96,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Song of affection,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee70.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee70.krn,data/pawnee70.krn,kern,53fbb87afd84601d7ed4ba10cf7a330a
-pawnee71,densmore-pawnee,Other Girls Are as Pretty as She,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"['Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]', 'Dog Chief [Simond Adams]']","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 97, No. 71",densmore1929pawnee,,,,,97,71,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA97,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,Song of affection,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee71.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee71.krn,data/pawnee71.krn,kern,3753c67a8769fc975f50955a3bf0b483
-pawnee72,densmore-pawnee,Folk Tale Song (a),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Fannie Chapman,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 100, No. 72",densmore1929pawnee,,,,,100,72,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA100,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,folk tale,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee72.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee72.krn,data/pawnee72.krn,kern,931694d99b2581060d1fae9dd1c1de32
-pawnee73,densmore-pawnee,Falk Tale Song (b),,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Fannie Chapman,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 102, No. 73",densmore1929pawnee,,,,,102,73,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA102,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,folk tale song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee73.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee73.krn,data/pawnee73.krn,kern,f3015ec62950294a0ece0c75897c741d
-pawnee74,densmore-pawnee,Song of Coyote,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Mary Murie,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 103, No. 74",densmore1929pawnee,,,,,103,74,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA103,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,story of coyote and the turkeys,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee74.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee74.krn,data/pawnee74.krn,kern,1eb9e7c497260d94ef65181bbcc1fc0a
-pawnee75,densmore-pawnee,Song of the Strange Little Boy,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Tsastawinahiigat Mary Murie,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 104, No. 75",densmore1929pawnee,,,,,104,75,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA104,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,storgy of Nuri and his brother,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee75.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee75.krn,data/pawnee75.krn,kern,43a80e7290531353d1d18df12bac3cac
-pawnee76,densmore-pawnee,Song as the Boys Flew Away,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Mary Murie,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 106, No. 76",densmore1929pawnee,,,,,106,76,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA106,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,story of Nuri and his brother,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee76.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee76.krn,data/pawnee76.krn,kern,b969e8d1a94da678817a363f2cc9e3e3
-pawnee77,densmore-pawnee,The Little Rattlesnake,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 108, No. 77",densmore1929pawnee,,,,,108,77,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA108,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,story of the little rattlesnake,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee77.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee77.krn,data/pawnee77.krn,kern,de4cd54a635fe35a79e687c796a9f0be
-pawnee78,densmore-pawnee,You Need Not Fear the Horse,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 109, No. 78",densmore1929pawnee,,,,,109,78,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA109,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,unclassified song,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee78.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee78.krn,data/pawnee78.krn,kern,3f7d432be0be7ef804a986611e711afa
-pawnee79,densmore-pawnee,A Poor Man's Prayer,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 110, No. 79",densmore1929pawnee,,,,,110,79,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA110,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee79.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee79.krn,data/pawnee79.krn,kern,52d328081b46f05cf6d3d4bb711e6dff
-pawnee80,densmore-pawnee,Everything Will Be Right,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,Mrs. Good Eagle,"Frances Densmore, ""Pawnee Music"", Bulletin 93, page 111, No. 80",densmore1929pawnee,,,,,111,80,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA111,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee80.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee80.krn,data/pawnee80.krn,kern,87a842037a280ea1a4e066f1fb644441
-pawnee81,densmore-pawnee,The Message of a Star,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 112, No. 81",densmore1929pawnee,,,,,112,81,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA112,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee81.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee81.krn,data/pawnee81.krn,kern,53b9028856ee26fa3ed46f79af7c5bcc
-pawnee82,densmore-pawnee,Song to Comfort a Child's Grief,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tutukrawitsu [He overtook the enemy, Wicita Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 113, No. 82",densmore1929pawnee,,,,,113,82,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA113,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee82.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee82.krn,data/pawnee82.krn,kern,86d1dbd61d8b15e269b0be57cce49aa9
-pawnee83,densmore-pawnee,Mother's Song for a Dead Baby,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 113, No. 83",densmore1929pawnee,,,,,113,83,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA113,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee83.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee83.krn,data/pawnee83.krn,kern,3ad810793a78d361380fa92e6e7126d8
-pawnee84,densmore-pawnee,Song Received from a Dead Relative,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Laduda desadu [He does everything as a chief, John Luwak]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 114, No. 84",densmore1929pawnee,,,,,114,84,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA114,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple duple,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee84.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee84.krn,data/pawnee84.krn,kern,79af0091bbf0e0c8e47dd5b35fce3cd6
-pawnee85,densmore-pawnee,Father Gave Me a Pipe,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 115, No. 85",densmore1929pawnee,,,,,115,85,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA115,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,simple triple,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee85.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee85.krn,data/pawnee85.krn,kern,c3917531806c11ddb2a9a652df4712f3
-pawnee86,densmore-pawnee,Mad Chief Mourns for His Grandson,,"Pawnee, Oklahoma, United States of America",,,Pawnee,<1920//,Frances Densmore,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]","Frances Densmore, ""Pawnee Music"", Bulletin 93, page 119, No. 86",densmore1929pawnee,,,,,119,86,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA119,David Huron,"September 10, 2000",Electronic Copyright 2000 David Huron,,1.0,,irregular,,,,False,True,unclassified,,,https://kern.humdrum.org/cgi-bin/ksdata?location=osu/densmore/pawnee&file=data/pawnee86.krn&format=kern,https://verovio.humdrum.org/?file=osu/densmore/pawnee/data/pawnee86.krn,data/pawnee86.krn,kern,7104900a73d41ba7c9dde49befa52cbe
+id,dataset_id,corpus_version,title,title_translation,location,latitude,longitude,auto_geocoded,language,glottolog_id,culture,culture_dplace_id,culture_hraf_id,genres,performers,performer_genders,instrumentation,instrument_use,percussion_use,voice_use,tonality,scale,ambitus,tempo,beat_duration,meters,metric_classification,collectors,collection_date,collection_date_earliest,collection_date_latest,publication_key,publication_type,publication_title,publication_authors,publication_date,publication_page_num,publication_song_num,tune_family_id,catalogue_num,publication_preview_url,encoders,encoding_date,contributors,copyright,license_id,file_path,file_format,version,file_checksum,file_url,file_preview_url,file_has_lyrics,file_has_music,file_has_licence,other_fields,comments,warnings,description,lyrics,lyrics_translation
+pawnee01,densmore-pawnee,0.0.1,Song of Morning Star,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Morning star ceremony,Coming Sun,,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,20,1,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA20,David Huron,"August 31, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.,"Transcribed pitches, durations, and meters are only approximate.","Morning Star Ceremony
+A sacred bundle of the Skidi Pawnee was associated with Morning Star
+and its ceremony was held in the early spring, having for its object the
+securing of good crops in the coming season.  It was the writer's
+privilege to see the Morning Star bundle in the house of the woman who
+was its keeper, and also to see its contents exposed in the ceremony.
+The bundle, in accordance with custom, was hung on the west wall of its
+owner's house, and with it were hung four large gourds, symbolizing the
+four deities who were the special guardians of Evening Star and also
+representing the breasts of the two women in the west, Evening Star and
+Moon.
+The legend from which the Morning Star ceremony arose was related by
+Coming Sun, whose grandfather was a high priest in the Morning Star village
+and who received his name by inheritance from this ancestor.  With Coming
+Sun's narrative is combined a limited number of details mention by Linton
+in ""Sacrifice to the Morning Star by the Skidi Pawnee.""
+As already stated, Morning Star ruled in the east and Evening Star in
+the west.  All the stars west of the Milky Way were feminine and those to
+the east were masculine, but the most powerful were Morning Star and
+Evening Star.  Sun was with the former and Moon was a companion of the
+latter.  One after another the eastern star came to court the stars in the
+west, in order that man might be placed on the earth.  Moon welcomed them
+and walked with them toward the west, but as soon as they came in sight of
+the village she caused the ground to open so the man fell through and was
+killed.  At last Morning Star resolved to go and woo the great Evening Star,
+taking his little brother along to carry his pack.  Thus, according to
+Coming Sun, a small star always appears near and slightly below the
+morning star in the spring, representing the little brother.  Linton,
+however, states that Morning Star was accompanied by Sun, who carried a
+sacred bundle with a war club.
+Ten obstacles were encountered by Morning Star and his companion, the
+first five being difficulties of travel, such as sharp flints and sword
+grass beneath their feet, and the last five being animals which attached
+them, including the mountain lion, wildcat, buffalo, and bear.  All these
+were placed in their way by Moon, who thought she could conquer them as
+she had conquered the others.  But Morning Star carried a ball encased in
+such a manner that when he threw it the casing broke and it became a ball
+of fire.  When throwing the ball he sang the following song, which was
+said to be one of the principal songs in the ceremony.  Linton states that
+Morning Star struck the ground with his war club, closing the cracks made
+by Moon for his destruction, and that he sang a song with substantially the
+same words recorded by Coming Sun.
+The tenth obstacle was not encountered by Morning Star until after he
+entered the lodge of Evening Star.  The obstacle was a snake, but he
+overcame it, as he had overcome the others, by means of the ball of fire
+and the song.
+Even Star saw that his power was greater than heres, but she determined
+to hold him aloof as long as possible.  Finally, she insisted that he make
+provision for the child that should be born; she even required him to
+provide perfumed water for bathing the child and a cradle board in which
+it should be placed.  On the hoop, or arch, of this cradle board was
+painted a morning star and the lightnings, this custom being followed by
+the Pawnee at the present time.  Evening Star also required him to plant a
+tree in front of the lodge so that the mocking birds might nest there and
+sing to the child.  From this union a daughter was born.  She cam down to
+earth and wandered about in fear.  As she was running hither and thither she
+met a boy, the child of Sun and Moon, and these two became the ancestors of
+the human race.
+Morning Star made a bundle and placed in it various articles connected
+with the obstacles he had overcome on his westward journey.  He left this
+bundle with Evening Star and for that reason a woman has always been the
+keeper of the sacred bundle.  Other articles have been added from time to
+time and will be noted in this paper.
+It is said that Evening Star required a human sacrifice as her reward.
+This sacrifice must be a pure and beautiful maiden and she demanded that
+the sacrifice be repeated annually.  Long ago, Morning Star sometimes
+appeared to a man in a dream and told him to secure a maiden for this
+sacrifice.  According to Linton, a man who had this vision went to the
+keeper of the Morning Star bundle and received the warrior's costume and
+the sacred objects kept for such an expedition.  Other warriors joined him
+and, preliminary to the expedition, they enacted the journey of the
+Morning Star, and sang the song with which he overcame the obstacles placed
+in his way. (Cf. Song No. 1)  When the ceremony ended it was almost time
+for the Morning Star to rise and the leader went outside the lodge and
+addressed an invocation to him.  After dancing furiously around their fire
+and offering a last prayer to Morning Star the warriors started forth and
+captured a maiden from the enemy.  Returning, they gave her into the care
+of the chief of the Morning Star village until the time for her sacrifice.
+She was treated in a ceremonial manner but kept in ignorance of her fate.
+At the appointed time her body was painted, half red and half black, and
+she was tied to a scaffold and shot through the heart with an arrow.  It
+was said that the braided thong used to bind the girl to the scaffold is
+now in the Morning Star bundle.
+Tradition states that on one occasion the intended victim was rescued.
+On the night preceding her execution she was seated beside some tall
+sunflowers.  A young chief came through the tall weed and stole her away,
+putting her on his horse and taking her to Fort Leavenworth, whence she
+was returned to her own people.  She died within three months, having
+been anointed for death with the sacred ointment of red paint and buffalo
+fat.  This occurred about the year 1818.  The man who rescued the intended
+victim was a warrior of distinction and through his influence the custom
+was discontinued.  The ritual of the sacrifice is still rendered but no
+actual sacrifice has taken place since that date.
+Coming Sun, who sings the ceremonial songs, said that sometimes, during
+the Morning Star ceremony he stops and says ""Listen,"" and the people hear
+a woman's voice singing the songs above his head.
+The Morning Star ceremony was held by the Skidi Band near Pawnee,
+Okla., on April 17, 1920.  This ceremony formerly lasted four days and
+nights, ending when the morning star appeared in the east, but at the
+present time it is concluded in one day.  On this occasion the writer
+had the honor of entering the lodge, through the courtesy of Coming Sun.
+It is said that one other white person, Dr. G. A. Dorsey, has entered the
+lodge during the ceremony and seen the contents of the sacred bundle.
+The ceremony was held in a tipi erected for the occasion in a quiet
+spot near the house of the keeper of the bundle, north of Pawnee.  This
+tipi has been used in the Ghost dance and was decorated with Ghost dance
+symbols.  The adjacent landscape is shown in Plate 3,c.  The ceremony
+began at about 9 a.m. and continued until 4 p.m., the writer sitting
+outside the tipi except for the brief time she was permitted to enter.
+Thus the entire songs of the ceremony were heard, as well as the prayers
+and rituals, though only the principal song was obtained.  At the proper
+time Coming Sun, who was in charge of the ceremony, sent a message to
+summon the writer and she entered the lodge, passing to the right and
+standing near the bundle before which she laid gifts of calico, tobacco,
+and money.  Coming Sun was seated back of the bundle, directly opposite
+the entrance, and held one of the sacred gourd rattles.  Two men at either
+side of him held similar rattles.  In front of the men at Coming Sun's
+left and next [to] the sacred bundle was a belt decorated 
+XXX[page23]",,
+pawnee02,densmore-pawnee,0.0.1,The Herd Passes Through the Village,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,25,2,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA25,David Huron,"August 31, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM120|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The ceremony of Painting the Buffalo Skull is held every spring by the
+Chaui Band of Pawnee and is in charge of Mr. Stacy Matlock, a prominent
+member of that band.  The closing events of the ceremony are the Buffalo
+and Lance dances, which were witnessed by the writer through the courtesy
+of Mr. Matlock, no other white person being present.  The ceremony and
+dances were held in a large earth lodge, several miles south of the town
+of Pawnee.  The opening of the lodge was toward the east.  At some
+distance was a framework, probably that of a sweat lodge.  Only members
+of the Buffalo Society were admitted to the painting of the skull, but
+during the Buffalo dance the skull painted a few days previously, lay on
+a folded blanket in front of the ""altar"" which was opposite the entrance.
+This occasion and the Lance dance held a few days later afforded exceptional
+opportunities to listen to Pawnee songs, but the semidarkness of the lodge
+and the solemnity of the occasion precluded the taking of notes upon either
+the music or the details of the ceremonial dances.
+The chief singer at both of these dances was Wicita Blain, a blind man
+who received the songs by inheritance.  He led the songs which were sung
+at a certain position back of the altar.  At a later time he recorded the
+ceremonial songs here presented, also certain songs of the Bear dance,
+which is held in equally high esteem by the Pawnee.  John Luwak, chief of
+the Chaui Band, was prominent at the Lance dance and later recorded 
+numerous songs, including those of the Crow Lance Society.
+The following song was led by Mr. Blain at the Buffalo dance attended
+by the writer and is a very old song concerning Mrs. Blain's uncle, whose
+name was Naru'dapadi.  A great herd of buffalo came to the place where
+the Indians were encamped and threatened the destruction of the village.
+Her uncle rode toward them, shouting and firing his gun in an attempt to
+divert them from their course, but he was caught in the herd.  There were
+buffalo on all sides of him as the herd swept through the camp and across
+a stream, carrying him with them.",,"['Listen, he said,', 'Now it (the man) sits among them (the buffalo),', 'These are his sayings,', 'Now it sits among them as they come,', 'Now they have passed through the village,', 'Now they have crossed the stream,', 'It flies above them here and there, shouting and calling.']"
+pawnee03,densmore-pawnee,0.0.1,The Buffalo and the Crow,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,27,3,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA27,David Huron,"August 31, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM84|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.",,,"['Listen, he said, yonder it stands,', 'These are his sayings, yonder it stands,', 'Father (buffalo) was startled,', 'The crow was flying and shouting but he was not frightened,', 'He was standing,', 'Father was startled but not frightened.']"
+pawnee04,densmore-pawnee,0.0.1,My Dear Father the Buffalo,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo song,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,28,4,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA28,David Huron,"August 31, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM132; changing in fourth measure to MM76|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.",,,"['Listen, he said,', 'My dear father (the buffalo),', 'This is what I was told about it,', 'He is heavy, he goes on (if he falls he can not rise),', 'My father (the buffalo).']"
+pawnee05,densmore-pawnee,0.0.1,Yonder the Smoke Was Standing,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,30,5,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA30,David Huron,"September 1, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM132; changing to 116|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.",,,"['He said, the man was coming along the line,', 'This is what I was told about it,', 'He was coming along the line,', 'Yonder the smoke was standing here and there,', 'He was coming along the line.']"
+pawnee06,densmore-pawnee,0.0.1,The Woman Imitates the Buffalo,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,31,6,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA31,David Huron,"September 1, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM144; changing to MM80|Drum-rhythm: (8 8 8 8 8 8)|First ending:|Second ending:,"Transcribed pitches, durations, and meters are only approximate.",,,"['Listen, he said, yonder she is coming,', 'This is what I was told about it, yonder she is coming,', 'The woman imitates the buffalo, yonder she is coming,', 'She walks, then stops and walks again,', 'Yonder she is coming.']"
+pawnee07,densmore-pawnee,0.0.1,The Buffalo Are Coming,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,32,7,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA32,David Huron,"September 1, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM138 changing to 96|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","Long ago an old man named Nara'dudesa'ru had a dream
+and in his dream he saw a cloud of dust rolling along
+the ground.  He sat and looked at the dust a long
+time until late in the afternoon.  Then it looked
+like a crowd of people, but after the dust storm
+had passed he saw a great herd of buffalo.",,"['Listen, he said, yonder the buffalo are coming,', 'These are his sayings, yonder the buffalo are coming,', 'They walk, they stand, they are coming,', 'Yonder the buffalo are coming.']"
+pawnee08,densmore-pawnee,0.0.1,The Waves of Dust,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,33,8,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA33,David Huron,"September 1, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM120|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The next song is also concerning a dream of buffalo.
+The herd was scattered and a man was watching them.
+One of the buffalo lay down.  The man wondered
+why the buffalo had lain down.  That night he
+dreamed about the buffalo, who said that he had
+""taken pitch"" on the man.  The buffalo promised
+the man that he would live to old age and be
+able to foretell events a long time before
+they came to pass.",,"['Listen, he said,', 'There the buffalo are coming in a great herd,', 'These are his sayings,', 'there the buffalo are coming in a great herd,', 'The waves of dust roll downward,', 'There the buffalo are coming in a great herd,', 'They mark the place of the buffalo wallo.']"
+pawnee09,densmore-pawnee,0.0.1,Unreal the Buffalo is Standing,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Buffalo dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,35,9,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA35,David Huron,"September 2, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM138 changing to MM76|Drum-rhythm:  (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","At a certain point in the Lance dance witnessed
+by the writer the decorated lances were carried
+around the lodge and the following song was sung.
+This constituted one of the most impressive portions
+of the ceremony.  The song is very old and belonged
+to a woman who had two sons, the song being sung
+whenever they danced.  The woman lived to be so
+old that she could not stand erect but she
+""was always singing this song while she was cooking
+or working.""  The words mean ""Father, the band of the
+dead is coming.""  The woman who recorded the song
+was blind.",,
+pawnee10,densmore-pawnee,0.0.1,The Band of the Dead Is Coming,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Lance dance,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,36,10,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA36,David Huron,"September 1, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded.,"Transcribed pitches, durations, and meters are only approximate.","The next song was sung when all the participants
+in the Bear dance were seated.  ""Mother"" was said
+to refer to the moon, and there was said to be a
+similar song containing the word ""Father.""  A young
+man received this song in a dream, while mourning
+for his parents who had died.  He saw a woman coming
+toward him, and said, ""Mother is coming.""  The woman
+said, ""You have seen me, now you must learn this song.""
+The young man learned the song, lived a long time
+afterwards, and took part in the Bear dance.  When
+the song is used ceremonially there are six ""stops""
+or verses, the general meaning of which is as follows:
+1. ""Mother is coming.""
+2. The young man, devotional by nature, imagines that he
+is still mourning for his parents.
+3. ""Mother stands yonder.""
+4. The young man says, ""Mother, standing in the sky, I
+want you to take pitch on me.""
+5. ""Mother now ends"" (stands still).
+6. ""I will now say, I mean the mother who alone stands
+forever in the sky"" (the moon).",,
+pawnee11,densmore-pawnee,0.0.1,Mother is Coming,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,37,11,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA37,David Huron,"September 2, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM138 changing to MM126|Drum-rhythm: (8 8 8 8 8 8)|Fine,"Transcribed pitches, durations, and meters are only approximate.","In the next song we have an expression of the belief
+that a bear derives his ""medicine power"" from the sun
+and that the center of that power is in his palms.
+He stands facing the dawn in order that the first
+rays of the sun may strike his paws, upheld for the
+purpose.  In this manner he renews his power from
+the sun.
+An old man named Lata'piu, long ago, fell asleep, and
+when he awoke he saw a strange sight.  The sun was rising
+and a bear was pointing at the sunrise.  The old man
+made this song about his vision and whenever he saw the
+sunrise he sang the song.  Ever since that time the
+song has been used in the Bear dance.",,"['Listen, he said; he (the bear) stands,', 'I am telling this, yonder the bear stands,', 'It faces the east just before the sun appears,', 'Yonder the bear stands,', 'Now the sun is coming.']"
+pawnee12,densmore-pawnee,0.0.1,The Bear is Pointing at the Sun,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,38,12,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA38,David Huron,"September 2, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM132 changing to 76|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","For a long time the Pawnee have called the cedar
+tree ""mother,"" a custom which had its origin in the
+dream of a man who saw a cedar tree and thought it
+was ""like a woman.""  He said, ""This tree is made to
+look the same in winter and summer, and to stand up
+so nicely.  The leaves of other trees fall but this
+tree is always green.""  This strange woman-tree made
+a noise like a bear and the song is used in the Bear
+dance.",,"['He said, a woman is here standing among the trees,', 'Now I am telling it,', 'A woman is here standing among the trees,', 'Loudly does she stand among the trees,', 'From where her spirit dwells she grunts (like a bear).']"
+pawnee13,densmore-pawnee,0.0.1,A Woman Stands Among the Trees,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,40,13,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA40,David Huron,"September 2, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM116 changing to 76|Drum-rhythm: (8 8 8 8 8 8)|Fine,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee14,densmore-pawnee,0.0.1,The Hores is Shouting,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,41,14,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA41,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM138 changing to 120|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","Many years ago the Pawnee fought the Sioux, killing many.
+Among the Pawnee warriors was a man named Nada'kutade
+(Eagle Chief), father-in-law of the man who recorded the
+following song.  Eagle Chief owned this song and sang it
+in the Bear dance.  The fight with the Sioux was said to
+have taken place in a part of the country which was
+thickly wooded, the battle resulting in a victory for
+the Pawnee.",,"['He said, the horse is shouting,', 'I am telling it, the horse is shouting,', 'Now I am telling it,', 'The horse is shouting at something he did.']"
+pawnee15,densmore-pawnee,0.0.1,I Was Lost in the Timber,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,42,15,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA42,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM144 changing to 138|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The singer said that when he was a young man living in
+Nebraska he saw a very old man who used a cane.  Even
+with this aid he could scarcely walk.  This old man had
+a dream in which he ascended a high hill and sat down.
+The clouds were below him and he saw rain falling from
+the clouds; he also saw about 40 white horses and
+drove them; the white horses were probably the shapes
+assumed by the clouds in his dream.  The following song
+belonged to this old man but was not related to the
+foregoing dream.  It was sung in the Bear dance.",,"['Listen, he said, I come,', 'He told this to me,', 'I came to a place where I was lost in the timbre,', 'I came to the place,', 'Now I come.']"
+pawnee16,densmore-pawnee,0.0.1,I Am Like a Bear,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,Dog Chief [Simond Adams],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,43,16,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA43,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The five remaining songs of the Bear dance were recorded
+by Dog chief, whose father was one of the leading singers
+at the Bear dance in old times and who therefore has
+inherited the right to sing these songs.",,"['I am like a bear,', 'I hold up my hands waiting for the sun to rise.']"
+pawnee17,densmore-pawnee,0.0.1,Bear Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,Dog Chief [Simond Adams],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,44,17,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA44,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded.|descending major seventh is correct|descending major seventh is correct|descending major seventh is correct|descending major seventh is correct,"Transcribed pitches, durations, and meters are only approximate.","In describing this next song Dog Chief said that his
+father took part in the war against the Sioux and chased
+a member of that tribe who held a shield over his back
+as protection.  Dog Chief's father killed the Sioux and
+captured his horse, this song commemorating his deed of
+valor.",,
+pawnee18,densmore-pawnee,0.0.1,Bear Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,Dog Chief [Simond Adams],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,45,18,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA45,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The words of the following song (not translated) state
+that Dog Chief took horns like those of a buffalo and put
+them on the horse he had captured.",,
+pawnee19,densmore-pawnee,0.0.1,Bear Dance Song (c),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,Dog Chief [Simond Adams],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,46,19,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA46,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded.,"Transcribed pitches, durations, and meters are only approximate.","When the man returned with the horse he had captured,
+the people saw him running like a bear while the horse
+was galloping.
+This was commemorated in the following song.",,
+pawnee20,densmore-pawnee,0.0.1,Bear Dance Song (d),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Bear dance,Dog Chief [Simond Adams],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,47,20,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA47,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The words of the next song were said to mean ""I am a
+brave man.  I am acting like a bear.""  (The lack of a
+competent interpreter when Dog Chief's songs were
+recorded made it impossible to secure a more
+extended description and translation.)",,
+pawnee21,densmore-pawnee,0.0.1,How Near is the Mornging?,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Deer Society song,Mark Evarts,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,48,21,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA48,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","Two songs of the [deer] society were recorded by
+Mark Evarts who said that his father was one of its
+dancers.  He said that the ceremony of the Deer
+Society lasted four days and nights and that this
+song was sung just before daylight.",,"['The chief speaks to his attendant, saying,', '""Go out and see how the stars stand.', 'Tell us how near is the morning.""', 'The attendant returns and says,', '""It is almost morning.""', 'The chief says to the dancers,', '""Wake up men.', 'It is almost morning.""', 'The chief speaks to his attendant, saying,', '""Go out and see how the stars stand.', 'Tell us how near is the morning.""', 'The attendant returns and says,', '""The morning star is coming up.""', 'The chief says to the singers,', '""Change the song.', 'The morning star is rising.""']"
+pawnee22,densmore-pawnee,0.0.1,Spring is Opening,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Deer Society song,Mark Evarts,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,49,22,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA49,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded|added change of meter,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee23,densmore-pawnee,0.0.1,Old Age is Painful,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,White Lance society,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,50,23,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA50,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The general idea of the next song is that it is better
+to die bravely when young that to live to an enfeebled
+old age.  In this, as in other Pawnee war songs, we see
+a light estimate upon the value of life as compared to
+success in war.  The song belonged originally to a
+brave man who lived to an advanced age.  When this
+was sung in a dance he rose and told the young men
+that it was a painful thing to live to be so old.
+The song was also sung by men in a battle, this being
+the last song they sang ""when they were all tired out
+and so nearly beaten that even their hair was disheveled.""
+It was further stated that ""sometimes when men were
+having this dance an enemy attacked the village.
+This was the song they sang as they drove the enemy away.""
+The song was also used in the scalp dances that followed
+the return of a successful war party.",,"['He comes.', 'It hurts to use a cane.', 'It becomes painful to pick it up.']"
+pawnee24,densmore-pawnee,0.0.1,Beloved Emblem,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Raven Lance Society,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,52,24,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA52,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The dance of the Raven Lance Society was said to be
+""almost like that in which the dancers painted half
+their bodies red and half black,""
+referring to the
+<A href=""white.lance.society.html"">White Lance Society.</A.
+The original owner of this dance lived to extreme old
+age and, as he had no children, he gave the dance to a
+young man who was one of his nearest relatives.
+One day the people said, ""Some Indians are coming to
+attack us.""
+The young man who had received the dance took his raven
+lance, mounted his pony, and went to get the old man.
+They rode together on the pony to a place near the
+fight and then went forward on foot, but the old man
+could not go as fast as the warriors.  The old man
+called, ""I am still coming,"" and the young man came
+back and helped him forward.
+The aged man was proud to see that the young man to
+whom he had given his dance was among the leaders in
+the fight.  The enemy shot and killed the young man,
+and the lance was brought back with his body.  Then
+the old man sang this song.  In the manner of recording
+the song there was a wailing which was said to be
+""the old man crying because the young man had been
+killed and he had no more relatives,"" yet he loved the
+lance and all that it symbolized.  He died soon afterwards
+and, as he was too old to give the dance to anyone else,
+the Pawnee do not have the dance at the present time.",,"['(An exclamation of endearment)', 'Beloved emblem, they are carrying it forward,', 'Beloved emblem, they are bringing it back.']"
+pawnee25,densmore-pawnee,0.0.1,Crow Lance Society Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Raven Lance Society,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,53,25,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA53,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The next song belonged to the singer's father and
+was his war song.",,
+pawnee26,densmore-pawnee,0.0.1,The Lance Dancers,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Kitsita Society,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,54,26,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA54,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM144|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee27,densmore-pawnee,0.0.1,Lance Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Kitsita Society,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,55,27,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA55,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee28,densmore-pawnee,0.0.1,Lance Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Kitsita Society,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,56,28,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA56,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded|Fine,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee29,densmore-pawnee,0.0.1,The White Fox,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Wolf Society,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,57,29,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA57,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded|N.B. The text from the final six measures is missing in the original.,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee30,densmore-pawnee,0.0.1,"It Is Mine, This Country Wide",,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Wolf Society,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,58,30,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA58,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded|Fine,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee31,densmore-pawnee,0.0.1,Song Concerning Iron Shirt,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,60,31,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA60,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM126|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee32,densmore-pawnee,0.0.1,Eagle Chief's War Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,61,32,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA61,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM66|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","Three generations of Pawnee chiefs bore the name of Eagle Shield
+and the song next following was said to have belonged to
+the chief of the first generation.  The day after he returned
+from a war expedition he mounted his best horse and rode around
+the camp singing this song.  The words mean ""I wonder how long
+I am to live in this world.""  In explanation it was said the
+old warrior was wondering what his fate might be when he again
+took the warpath.",,
+pawnee33,densmore-pawnee,0.0.1,The Thunder Spoke Quietly,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,61,33,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA61,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","A certain young man was afraid of the storm and wept when he
+heard the thunder, but in a dream the thunder spoke to him slowly
+and said, ""Do not be afraid, your father is coming.""  He heard
+the thunder sing the following song, learned it, and sang it
+when he went to war.  His name was Eagle and he lived to be one
+of the old warriors of the tribe.",,
+pawnee34,densmore-pawnee,0.0.1,He Comes,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,63,34,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA63,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM100|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.","In explanation of the following song it was said that long ago
+there was a society called Iruska Virau (or Pirau), translated
+""children of the Iruska.""  Members of this society did everything
+contrariwise.  Thus in a fight they would not fire at the enemy
+unless commanded NOT to do so.  The song next following was said
+to be a song of that society and was recorded by the chief of the
+Chaui Band.  The same melody with different words was used by the
+Skidi Band, the words of their version stating that a young man
+was told in a dream that he would be killed the next day, but
+felt no fear.  John Luwak, who recorded the song, said it was
+his own war-dance song, explaining the words as follows: ""A dead
+person wanted a certain warrior to do right, so he said to him,
+`If anyone is kind-hearted and good to the poor he is made a chief
+and has a great name.  When he dies we in the spirit land are glad
+and want to go and meet him because he was kind and good.""",,"['Beloved, come beloved, all of them spoke,', 'All of them spoke,', 'It is openly known that he did these things.']"
+pawnee35,densmore-pawnee,0.0.1,A Woman Welcomes the Warriors,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,64,35,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA64,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","A woman's pleasure at the return of victorious warriors is
+expressed in the following song which was sung at the Scalp
+dances.  Among the Pawnee, as in other tribes, the scalps of
+slain warriors were carried in the victory dance.",,"Ah, now I have seen you."
+pawnee36,densmore-pawnee,0.0.1,Song for Returned Pawnee Soldiers,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,66,36,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA66,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM76|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.",[no free translation],,"['You are coming.', 'You are the ones for whom I am looking.']"
+pawnee37,densmore-pawnee,0.0.1,Brown Bear's Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,68,37,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA68,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee38,densmore-pawnee,0.0.1,Women's War Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,War song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,68,38,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA68,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded|Fine,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee39,densmore-pawnee,0.0.1,Blue Hawk's Hand Game Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,71,39,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA71,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee40,densmore-pawnee,0.0.1,Hand Game Guessing Song (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,71,40,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA71,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee41,densmore-pawnee,0.0.1,Hand Game Guessing Song (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,72,41,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA72,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee42,densmore-pawnee,0.0.1,Hand Game Guessing Song (c),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,73,42,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA73,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee43,densmore-pawnee,0.0.1,Hand Game Guessing Song (d),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,73,43,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA73,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee44,densmore-pawnee,0.0.1,Hand Game Guessing Song (e),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,74,44,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA74,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee45,densmore-pawnee,0.0.1,Hand Game Guessing Song (f),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,75,45,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA75,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee46,densmore-pawnee,0.0.1,Hand Game Guessing Song (g),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,75,46,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA75,David Huron,"September 3, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,
+pawnee47,densmore-pawnee,0.0.1,I Hear the Sound of a Child Crying,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,76,47,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA76,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM92|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The following song was also sung while the game was in progress.
+In explanation it was said, ""This song belonged to a man who died
+long ago.  He had one daughter and she died.  The old man cried
+every day but at last, one night, he heard a cry in the woods.  It
+was his daughter, who said, `Father, I am in heaven.'  Afterwards
+he did not cry any more.""",,"['I hear the sound of a child crying ""Is my mother coming?', 'Here I walk around.""']"
+pawnee48,densmore-pawnee,0.0.1,Hand Game Song Concerning a Little Boy,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,77,48,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA77,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM112|Drum-rhythm: (12 12 12r 12 12 12r),"Transcribed pitches, durations, and meters are only approximate.","Long ago, when the Pawnee ""used to go traveling,"" they stopped
+at night to rest and frequently played the hand game.  Among them
+was a little boy, too young to play, who loved to watch the game.
+He was so little that he wore no clothing.  As soon as night came
+this little boy ran to get wood and made a big fire so that everyone
+would come and play the hand game.  He did not even want to eat
+was so anxious for them to play.  The men made this song about the
+little body and sang it as they played the game.",,"['They (the men) are coming,', 'One boy is running.']"
+pawnee49,densmore-pawnee,0.0.1,You Came Near Finding Them,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Hand game song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,78,49,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA78,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The next song was said to have come down from a time when only
+men played the hand game.",,
+pawnee50,densmore-pawnee,0.0.1,The Crow,,,,,,,,Pawnee,,,Ghost dance,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,79,50,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA79,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The hypnotic phase which the hand game has in common with the
+Ghost dance is indicated in the following song which was sung at
+the Ghost dance and also at the hand game.  In old times the game
+and its accompanying dances were held on the prairie instead of
+inside a lodge.  A portion of the people were called ""crows,"" and
+the woman who recorded this song said that she ""belonged on the
+crow side of the circle.""  At intervals these people gave the caw
+of the crow and imitated that bird in their dancing.  (This was
+done in the dance connected with the hand game attended by the
+writer.)  It is said that under the hypnotic influence of the
+occasion, the dancers sometimes saw a crow inside the dance circle,
+no one except themselves being able to see it.  The singer said
+that she ""dreamed"" this song when she was a young girl.",,"The crow, we see his likeness moving inside the circle of dancers."
+pawnee51,densmore-pawnee,0.0.1,Song Concerning Mother Moon,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,80,51,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA80,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The crow which sometimes appeared in the Ghost dance might speak
+of taking the dancer to Mother Moon or to the Ghost dance messiah.
+The following song was ""dreamed"" by the woman recording it, who
+said she might sing it either at a hand game or a Ghost dance.",,"The crow spoke and said, ""Now I am coming to where my mother is."""
+pawnee52,densmore-pawnee,0.0.1,Song Concerning an Open Grave,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,81,52,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA81,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM112|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The next was said to be a ""true song"" of a boy who is now dead.
+He once dreamed that he was in a grave and seemed unable to free
+himself from this impression.  Whenever this song was sung it
+""threw the boy into a Ghost dance fit.""  The words are translated,
+""Here is the hole, right here.""  The song was sung at a hand game
+or a Ghost dance.",,"Here is the hole, right here."
+pawnee53,densmore-pawnee,0.0.1,Ghost Dance Song (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,81,53,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA81,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The four songs next [this, and the following three] were also said
+to be Ghost dance songs, used in the dances incident to a hand game.",,
+pawnee54,densmore-pawnee,0.0.1,Ghost Dance Song (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,82,54,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA82,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The four songs next [this, the preceding, and the following two] were also
+said to be Ghost dance songs, used in the dances incident to a hand game.",,
+pawnee55,densmore-pawnee,0.0.1,Ghost Dance Song (c),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,82,55,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA82,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The four songs next [this, the preceding two, and the following one] were
+also said to be Ghost dance songs, used in the dances incident to a hand game.",,
+pawnee56,densmore-pawnee,0.0.1,Ghost Dance Song (d),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,Horse Chief [Spotted Horse Chief],,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,83,56,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA83,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The four songs next [this, and the preceding three] were also said to
+be Ghost dance songs, used in the dances incident to a hand game.",,
+pawnee57,densmore-pawnee,0.0.1,The Yellow Start,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,84,57,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA84,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM84|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.","This and the succeeding song were not used in the hand game.  The
+singer said that he composed this song when waking from a trance in
+the Ghost dance.  He dreamed of a yellow star which came to him and
+said, ""I am the star which you see in the sky at night.""  The star
+was in the form of a woman holding in her hand an eagle feather
+painted yellow.  She gave him the feather, saying, ""All the stars in
+the sky are people.""  A dream of the yellow star was induced by
+watching the star when in a ghost dance trance.  The favor of ""yellow
+star"" was greatly desired as she does not appear to many dancers, but
+she gives to her favored friends the right to wear a yellow eagle
+feather upright in their hair and to use it in hypnotizing other
+dancers.  If such a feather is used under a false pretense no results
+can be obtained.",,"['The yellow star has noticed me,', 'Furthermore it gave me a standing yellow feather,', 'That yellow star.']"
+pawnee58,densmore-pawnee,0.0.1,Running Scout's Ghost Dance Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,85,58,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA85,David Huron,"September 4, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The man to whom the next song belonged was Running Scout, a man who
+was very religious and remained in a Ghost dance trance for several
+days.  His friends thought him unbalanced but when he awoke he told
+them that he had been to the Messiah who told him to ""go to the
+village.""  Following this instruction, he saw many men dancing.  Some
+had fox skins around their heads while others used fox skins in
+hypnotizing their fellow dancers.  For this reason Running Scout always
+wore a fox skin in the Ghost dance.  The skin was not made into a cap
+but the head and tail were fastened together and hung at the back of
+his neck in such a manner that the tail rested on his shoulder.
+He also gave the call of the fox while he was dancing.",,
+pawnee59,densmore-pawnee,0.0.1,Song Concerning the Ghost Dance,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Ghost dance,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,86,59,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA86,David Huron,"September 5, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The final song of this group is concerning the Ghost dance and,
+according to Mr. Murie, was sung in the Young Dog Society.  The
+words ""the father's child"" refer to the messiah whose coming was
+expected in the Ghost dance.",,"['There it is lying yonder, this stick lying here,', ""The father's own child gave it to me,"", 'It is coming yonder.']"
+pawnee60,densmore-pawnee,0.0.1,I am Exalted Among the People,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's songs,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,87,60,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA87,David Huron,"September 5, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The singer spoke with deep affection of Man Chief, to whom many
+songs were attributed.  According to the singer, Man Chief was
+chief of the four bands of Pawnee and died in 1858 at the age of
+74 years.  concerning the next song it was said, ""When we first
+elected Man Chief as chief he thanked God, and then he sang this
+song.""  The words with the repetition of the melody were: ""My
+father himself, through him I am exalted (made prominent) among
+the people.""",,"['My father himself,', 'Through him I am exalted (made prominent)', 'Among the people.']"
+pawnee61,densmore-pawnee,0.0.1,The Heavens Are Speaking,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,88,61,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA88,David Huron,"September 5, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM60|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","Man Chief received numerous songs in dreams.  The first song is
+a war dance of the Iruska, it being said that the ""spirits told
+him about this dance, which is different from an ordinary war dance.""
+This society corresponds to the Hethushka of the Omaha, a society
+of distinguished warriors.  Before recording this song Luwak recorded
+the following sentences: ""The song which I am about to sing belonged
+to Man Chief.  When he became a chief he used to go out into the
+storm and stand first in one place and then in another.  He heard
+Tirawa speak through the clouds.  He knew the heavens were the
+ruling power and prayed for his people.""  While speaking, he beat
+the drum in the same tempo as in the song which followed.",,"['I stood here, I stood there,', 'The clouds are speaking,', 'I say, ""You are the ruling power,', 'I do not understand, I only know what I am told,', 'You are the ruling power, you are now speaking,', 'This power is yours, O heavens.""']"
+pawnee62,densmore-pawnee,0.0.1,O Expanse of the Heavens,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's song,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,89,62,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA89,David Huron,"September 5, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The next song contains the same idea of the ""ruling power in the
+heavens.""",,"I believe that in you, O heavens, dwell the ruling powers."
+pawnee63,densmore-pawnee,0.0.1,Power is in the Heaven,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,90,63,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA90,David Huron,"September 5, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM126|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.","The song next following was used as an old war dance.
+It was the custom of the young men, in former times, to make
+known that they had arrived at an age of realization and had ""put
+their trust in the heavens.""  James R. Murie said that he, as a
+young man, went around the village singing this song with other
+young men, so that all the people might hear and know they had
+assumed the attitude of men toward life.  It is an Iruska but not
+a dancing song and belonged to Man Chief.",,My spirit rests in the belief that power is in the heavens.
+pawnee64,densmore-pawnee,0.0.1,Our Hearts Are Set in the Heavens,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,90,64,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA90,David Huron,"September 6, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.",,,"['It is there that our hearts are set,', 'In the expanse of the heavens.']"
+pawnee65,densmore-pawnee,0.0.1,Man Chief's Song,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Man chief's song,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,91,65,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA91,David Huron,"September 6, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM63|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","The final song belonging to Man Chief is similar to those already
+presented, though the words are not translated.",,
+pawnee66,densmore-pawnee,0.0.1,It Is Good Where We Are Now,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Roaming chief's song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,92,66,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA92,David Huron,"September 6, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The two songs next following belong to a comparatively recent
+chief of the Chaui Band.  The grief of his wife at the death of a
+daughter is mentioned in connection with her song (No. 83).  Roaming
+Chief was hereditary chief of this band and was a nephew of the
+famous Pitalesaru, who was appointed chief of the confederated
+bands of the Pawnee by the Government of the United States.
+It was said that ""Tirawa had pitch on Roaming Chief"" and that,
+during a Ghost dance, he fell in a trance.  Visions appeared to him
+in this trance, the present song referring to such an experience.
+A Ghost dance was sometimes held especially for Roaming Chief and
+he ""cried as he sang this song.""  It was also customary to sing
+this song at a hand game.",,"['There they come yonder,', 'They are saying ""It is good over here', 'where was are now.""', 'There they come.']"
+pawnee67,densmore-pawnee,0.0.1,My Trust is in Mother Corn,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Roaming chief's song,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,93,67,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA93,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","Roaming Chief sang the following song at the Pipe dance and it
+was sung at the Victory dance attended by the writer.  It was
+said that ""Mother Corn was carried on the warpath to give victory
+and was also used in the Pipe dance.""  The words are freely translated,
+""My whole trust is in Mother Corn.""",,My whole trust is in Mother Corn.
+pawnee68,densmore-pawnee,0.0.1,Song of Affection (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Song of affection,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,94,68,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA94,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The following is the song of a man who is going to war.  He addresses
+his wife, saying, ""When I die do not cry unless you really loved me,
+but if you love me you will cry and you will not remarry soon after
+I die.""",,
+pawnee69,densmore-pawnee,0.0.1,Song of Affection (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Song of affection,"Laduda desadu [He does everything as a chief, John Luwak]",,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,95,69,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA95,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","In explanation of the next song it was said, ""There was once a
+married couple.  One day the wife said to her husband, `I love you
+very much and if you should die I would cry every day.'  This was
+the first time that either had admitted an affection for the other.""",,
+pawnee70,densmore-pawnee,0.0.1,Song of a Warrior's Wife,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Song of affection,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,96,70,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA96,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","There is a deep pathos in the next song and its history.  A woman
+composed this song while her husband was on the warpath.  She died
+during his absence, but her friends had learned the song.  When her
+husband returned they sang the song and told him its story.  He learned
+the song.",,"['I wonder where he is sitting,', 'That person who comes and sits in my tipi.']"
+pawnee71,densmore-pawnee,0.0.1,Other Girls Are as Pretty as She,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,Song of affection,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]|Dog Chief [Simond Adams]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,97,71,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA97,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM120|Drum-rhythm: (8 8 8 8 8 8),"Transcribed pitches, durations, and meters are only approximate.","Mr. James R. Murie and other old members of the tribe said that love
+songs, in the white man's use of the term, were unknown among the
+better class of Pawnee in the early days.  According to Mr. Murie,
+there were four classes of Pawnee, the lowest being considered outcasts
+by the remainder of the tribe.  These people camped near towns and
+worked for white people, from whom they obtained whisky.  This class
+of Pawnee sang what were termed ""crazy people's songs,"" which were
+associated with ""love charms"" and evil influences.  No effort was
+made to secure examples of these songs.  A change from the former
+attitude toward women, however, is shown in the following song which
+was said to be very old.  It is not of so low a character as the
+""crazy people's songs,"" neither does it represent the high standard
+of life indicated in the former songs of this group.  A girl married
+a man for whom she did not care and it would appear that, instead of
+adapting himself to the situation, he sought consolation elsewhere.",,
+pawnee72,densmore-pawnee,0.0.1,Folk Tale Song (a),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,folk tale,Fannie Chapman,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,100,72,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA100,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","In a certain village were two young boys.  They were good-looking
+lads and wore their hair long on the right side of the head.  One day
+the younger boy thought he would go to another village in the woods.
+When he came near this village he saw the smoke of a tipi that stood
+by itself among the willows.  He went there and stood outside the entrance.
+In this tipi lived an old woman and her three granddaughters.  The old
+woman told the youngest girl to go outside and see if anyone was there.
+the girl saw the strange lad and returned, saying ""O grandmother, there
+is a good-looking young man outside.""  The old woman wanted to speak with
+him and said, 'You had better go to some village where the people have money.
+We are very poor.""  But the lad replied, ""No. I cam here and this is where
+I belong.""  The old woman said, ""Well, come in,"" and the boy entered the
+tipi.  Later the old woman said, ""You had better go away for the chief of
+our band is very unkind to strangers.  You must watch, for Longnose (Coyote)
+will come before daylight to see if anyone is here.  He will see you and
+tell the chief, who will ask you to breakfast.  If he offers you dry
+pumpkin do not eat it, nor corn, nor mush.  Bring it home with you.""
+Before daylight, as the old woman had predicted, Coyote came to see if
+anyone was in the tipi.  The old woman said, ""See my grandson, how
+good-looking he is.  He ought to go where the big men are.""  Coyote ran
+at once to the chief and said, ""O chief, there is a good looking young
+man down at the old woman's tipi.  When you kill him he will be the leader
+of your heads.""  (Referring to a row of the heads of men killed by the
+chief that had been put in his tipi.)  The chief said, ""Run down to the old
+woman's tipi and bring the young man.  I want to feast him.""  Coyote ran
+as fast as he could.  The old woman saw him coming and again told the
+young man not to eat anything but to bring the food home.  Coyote said to
+the young man, ""You certainly are good-looking.""  When the chief saw the
+young man he said, ""I sent for you to eat with me,"" and offered him dry
+pumpkin, corn, much, and other food.  The lad replied, ""O grandfather, I
+am full; I have had my breakfast; I will take this home to my grandmother.""
+Coyote went with him and waited while the old woman emptied and washed
+the bowls.  Then Coyote took the bowls back to the chief.  After the boy
+refused to eat the food, the chief wanted him to play the ""stick game.""
+He refused at first but finally he said that he would play in two days,
+saying he must wait because he was so tired.  The chief said, ""Choose a
+day and we will play.""  The boy went home and told the old woman that he
+was to play the stick game with the chief.  She said, ""O my boy, you did
+wrong to consent.  You saw those heads in the chief's tent.  He will kill
+you and all our people.""
+Before daylight on the day of the game Coyote opened the old woman's door
+and said, ""The chief is at the place for the game, he is waiting for you.""
+The boy replied, ""I will go when I am ready.""  Later they began to play
+the stick game.  The boy had people on his side and also a bird-man
+(bird turned into a man), who watched everything.  Coyote watched
+everything on the chief's side.  the boy had nothing to wager so he bet
+the people who were on his side, and at last he was obliged to bet himself.
+The old chief won, so the people on the chief's side killed all the people
+on the boy's side.  They even killed the boy.  Then they cut off all the
+heads and put them up with the other heads in the chief's lodge.
+While this was happening the elder of the two boys, mentioned at the
+beginning of this story, grew uneasy about his brother.  He determined
+to find him and traced him to the village, then he went home, got his
+bow and arrows, and went to the old woman's tipi.  The old woman did
+as before, sending the same girl to see if anyone were outside.  The
+girl returned and said, ""It looks as though that good-looking boy had
+come to life.""  The old woman invited him into the tend but said as
+before, ""O my grandson, why do you come here.  You ought to go where
+the rich people are.""  He replied as his brother had done, ""No, I want
+to be here.""  They were so poor that they gave him only one bean from
+those they had gathered.  At night the old woman said as before, ""O my
+grandson, I wish you would go away.  Go somewhere else or go home, for
+someone will come early in the morning to look all around the place.""
+Everything happened exactly as before.  Coyote came, found the young
+man, and took him to the chief, who offered him food.  The young man
+replied, as his brother had done, that he was not hungry, and he took the
+food home.  The chief asked him to play the stick game and he said that
+he was too tired to play that day.  It was decided that they would play in
+a few days.  The boy went home and said to his grandmother, ""I am going to
+play the stick game with the chief.  To-morrow I want you to clean up the
+house and put everything one side, then I want you all to go into the woods.
+Do not try to look into the house until I call you.""  Then he asked, ""Is
+there any place around here where the people used to kill buffalo?""
+She replied, ""Yes, over there by the hill.""
+After they had gone the young man took the pipe out of the sacred bundle
+that the old woman kept.  Before daylight he filled the pipe and went toward
+the place where they used to kill the buffalo.  When he reached the place
+he found many buffalo bones.  He held the stem of the pipe down toward the
+buffalo bones and sang the following song.",,"['Father, I have brought this pipe for you to smoke.', 'I am lonely for my brother.']"
+pawnee73,densmore-pawnee,0.0.1,Falk Tale Song (b),,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,folk tale song,Fannie Chapman,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,102,73,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA102,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","As the young man sang [the previous] song [No. 72] the bones came to life
+and made a noise like a great many buffalo.  He said, ""Now, fathers,
+grandfathers and grandmothers, I want you to pity me.  That is why I sang.""
+They replied, ""All right.""  Then a middle-aged buffalo with shining horns
+came toward him and said, ""I will be the first to help you.  We know about
+the wicked chief and what he has been doing.""  The buffalo threw himself down
+down and when he got up he shook himself.  Where he had been lying the boy
+saw a game stick.  The buffalo said, ""Take this stick.""  A young buffalo
+did the same and gave the boy another stick.  Then a young buffalo cow did
+the same and when she arose the boy saw a game ring which she told him
+to use.  The boy brought the two sticks and the ring home with him and
+hung them beside the sacred bundle.  On the day of the game he told his
+grandmother that he would send someone for the sticks and the ring but
+did not want anyone to be at home when the messenger came.
+In the morning Coyote came as before and said that all was ready for the
+game.  Everything was the same as when the younger man played, the chief
+having Coyote and the man having the bird-man on his side.  They began
+to play and the chief won as before.  The boy had no goods so he bet the
+people, as his brother had done.  The chief said, ""Now you have bet all
+the people, you ought to bet yourself.""  The young man said ""All right.""
+Then his stick struck the chief's stick and broke it in two.  The young
+man said, ""Thanks.  Now I will not be killed.""  The chief said, ""Perhaps
+you have some gaming sticks somewhere.""  The man said, ""Yes,"" and sent
+Coyote to get them, adding, ""They are common sticks, lying on the floor.""
+Coyote went to the old woman's lodge, opened the door and heard a noise
+as of many buffalo.  He was frightened and ran back.  The chief sent
+another messenger, who brought the same report.  Then the boy sent the
+bird-man, who brought the sticks and the ring.  They did not make any
+noise when he entered the lodge for they knew he was the right person.
+The boy played with the sticks and had good luck.  He won back all the
+people, and the chief's leg was broken.  Then the boy sang this song.
+They played again and the chief said, ""Throw the sticks toward the east.""
+They threw the sticks toward the east and the boy's stick went through
+the hoop and went on and on, and finally it turned into a buffalo.  As
+soon as the chief's people saw the stick turn into a buffalo they began
+to cry, but the boy's people began to rejoice.
+The young man asked, ""Where is my brother's head?""  They told him.
+He asked, ""Where are his bones?""  They told him this also.  Then he
+laid his brother's bones in order on the ground, with the head at one end.
+Then he stood below his brother's foot and kicked the foot, saying,
+""Why are you sleeping so long?""  His brother arose and said, ""Yes, I have
+been asleep a long time,"" and smoothed his hair.
+They killed the chief where the game had been played and they killed all
+the chief's people.  Then the two brother returned to their own village.",,"['You are a good gambler.', 'They say you are a good gambler.', 'Get up and play.']"
+pawnee74,densmore-pawnee,0.0.1,Song of Coyote,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,story of coyote and the turkeys,Mary Murie,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,103,74,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA103,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","There was a village and a man who used to run around by himself.  He was
+Coyote.  He went and sat on a hill looking down and he saw a big flock
+of turkeys.  He was hungry, as coyotes always are, and he thought, ""I am
+going to get one of them.""  So he went down.  The turkeys nudged each
+other and said, ""There comes a thief.""  He looks hungry.  We must look
+out for him.  He is tricky.""  They all said that.  Coyote said to the
+turkeys, ""Grandchildren, let us have a little game.""  The turkeys said,
+""What kind of game are we going to have?""  Coyote said, ""Well, don't let
+us have a game, let us have a dance.""  The turkeys said, ""All right, let
+us have a dance.""
+Coyote looked at the turkeys.  Some were big, fat ones.  He selected about
+six of the biggest and fattest and said, ""You must stand in front.""  Then
+he arranged two rows back of them.  Then said, ""I have a song.  While you
+dance you must close your eyes.  When I begin to sing you must all close
+your eyes.""  He kept his eyes open and he say one turkey with its eyes
+open.  He said, ""Close your eyes, you are looking at me.""  He sang again,
+and after a while he saw they all had their eyes shut.  He had a club in
+his hand but he kept on singing.  The turkeys all had their eyes shut and
+he killed all in the front row.  The rest flew away before he could kill
+them.  The he said that he would have a feast for his wives and his
+children.  He said, ""Turkeys have not much sense.""",,"['Put your heads down,', 'Move your hips as you dance.']"
+pawnee75,densmore-pawnee,0.0.1,Song of the Strange Little Boy,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,storgy of Nuri and his brother,Tsastawinahiigat Mary Murie,,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,104,75,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA104,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"['Transcribed pitches, durations, and meters are only approximate.', '""Irregular in tonality""']","Story of Nuri and His Brother.
+Related by Mrs. Mary Murie.
+The narrator of [this] story said that it did not originate with the
+Pawnee and she thought that it came from the Omaha in Nebraska.
+There was a man so jealous of his wife that he determined to take her
+away from the village.  He told her to pack everything and they would go.
+They took plenty of dried meat, pounded meat, corn, and all kinds of food,
+and left the village.  When night came they camped.  They were far from
+any people and her husband said they would stay in that place.  He was a
+good hunter and killed deer, turkeys, and other game.  After a while they
+made an earth lodge to live in.  Every morning the man put plenty of meat
+beside the fire, brought some water, and told his wife to stay in the lodge
+until his return.  He was gone until night.
+In time his wife bore a child and named it Nuri.  Indeed she bore twin
+boys, but her husband did not notice the second child and buried it with
+the afterbirth.  The second child crawled out of the ground and lived
+with the animals, but his mother never knew.  Her husband told her, as
+before, that she must stay in the lodge.  He said that he had seen some
+bad people prowling about.  One day, when the man was away, these bad
+people cam to the lodge.  His wife was sitting beside the fire and the
+baby was asleep when she heard a sound and looked toward the door.  Even
+men entered the lodge and said, ""Give us something to eat.  We know that
+you have plenty of food.""  She did not reply but pointed to the meat that
+was cooking on sticks around the fire.  They ate it all and went away.
+After they had gone she exclaimed, ""Those horrid men ate all my meat.""
+One heard it and said to the others, ""She called us names.""  So they all
+went into the lodge and killed her.  They did not see the baby but they
+carried the woman's body to their camp and devoured it.  When the man
+came home he looked for his wife, and seeing the tracks he knew the wicked
+people had taken her.  The man grieved greatly for his wife.
+By this time the baby was old enough to walk and walk.  Every morning
+before the man went to hunt he fixed the meat ready to cook and told the
+little boy to play inside the lodge.  One day he went away as usual, after
+fixing the meat, and the little boy thought, ""I will go outside.  I never
+have seen what it is like out there.""  He went out and saw a little boy
+coming toward him.  The boy was about his own size and was singing the
+following song.  [story continued in next song]",,
+pawnee76,densmore-pawnee,0.0.1,Song as the Boys Flew Away,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,story of Nuri and his brother,Mary Murie,,voice,,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,106,76,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA106,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","[story continued from previous song]
+The strange boy (who was his brother) said, ""Nuri, you are having a
+good time with your father but I am here with my grandmothers, the wood
+rates.  Your father is my father too.  I have plenty of wild grapes and
+cherries but I do not have any meat to eat.""  Nuri said, ""Come into the
+lodge and I will give you some.""  The strange boy sniffed the air and
+asked, ""Is your father here?""  ""No,"" said Nuri.  The strange boy went into
+the lodge and played until it was time for their father to return.  Then
+he ran away, saying, ""Forget, forget,"" so that Nuri would not tell their
+father.  This child was a ""wonder boy"" and he came every day until both
+boys were quite grown.  One day he failed to say ""Forget"" when he went
+away.  As the boy and his father were eating their supper Nuri said,
+""Father, I want to tell you something.  There is a little boy who comes
+every day to play with me while you are away.""  The man said to himself,
+""I will try to catch the boy.""  So one morning he hid instead of going
+away.  The wonder boy came as usual, singing the same little song.  He
+stopped and sniffed the air, saying to Nuri, ""Your father is here.""  ""No,""
+said Nuri, ""Perhaps you smell his blanket.""  ""It is certainly he,"" said the
+boy, and ran away.  The father determined to catch the boy by a trick and
+told Nuri how to tie a thong around his brother's scalplock.  In the
+struggle that ensued the wonder-boy's scalplock was torn from his head
+and held by the thong.  The father kept the scalplock gave the boys a good
+supper, and told them to stay in the lodge.
+Nuri obeyed his father, but as time passed, his brother continually
+tried to lead him into danger.  When Nuri objected his brother would say,
+""Give me my hair and I will go back to my grandmothers.""  Then Nuri would
+yield, but the boys always returned in safety.  One day they brought
+snake rattles and hung them on the door of the lodge.  Another day they
+went to a place where a boat was moored.  If anyone went in his boat it
+upset, threw the people into the water, and then returned to its place by
+the shore.  The wonder boy wanted to go in the boat but Nuri objected.
+The boy said as before, ""Then you must give me my hair and I will go back
+to my grandmothers.""  Nuri yielded and they went in the boat, which soon
+began tipping endwise and sidewise.  ""Do as I do,"" cried the wonder-boy,
+moving his arms and making a noise like a wild goose.  Nuri imitated him
+and the boys flew away.  Before leaving the boat they sand the following
+song.
+After they flew away the boat returned to the landing.
+Then the wonder boy wanted to go where the people lived who killed his
+mother.  These people lived in straw huts and when they saw the boys they
+said, ""These boys are fat; we will have a good feast.""  The wonder boy
+heard them talking.  They called to the boys and said, ""Come in soon, we
+will have the feast ready,"" and aside they said, ""The boys have no sense.""
+Nuri was afraid but his brother said, ""Do not cry.  We will destroy them.
+If we do not they will kill us.""  The boys went into the lodge and saw a
+kettle full of boiling water.  The wonder boy said, ""Do as I do.""  Then
+both boys jumped on the edge of the kettle and upset it.  The boiling
+water fell on the people but the boys flew out of the lodge like burned
+leaves.  The people fought and killed one another, thinking they were
+killing the boys, and the lodge burned up.  These people had long sharp
+bones at the points of their elbows and heels and on the back of their
+heads.  When they were dead the boys took off three or four of these
+points.  The wonder boy said, ""Let us take these home for farther to use
+in sewing moccasins.""
+This frightened the father and that night he made up his mind to run
+away and leave the boys.  The wonder boy knew that his father would do
+this but Nuri cried the next morning, when his father had gone.  The
+brother said, ""Father has left us but we will search until we find him.""
+So the boys started to find their father.  At first they saw no trace,
+and whenever they met a snake, a bear, or even a little but the wonder
+boy would ask, ""Have you seen my father?""  They replied ""No.""  After the
+boys had traveled a long time the brother said to Nuri, ""Are you tired?""
+Nuri said that he was tired, and his brother summoned a tiger (mountain
+lion?) and both boys rode on his back.  When they had traveled a long way
+farther they came to a village and asked, ""Have you seen our father?""  The
+people replied, ""Yes, we saw him going north.""  The boys traveled all
+that night but could not find him.  The brother said, ""Let us kill all the
+people in every village.""  Nuri cried, but yielded.  The wonder boy said,
+""Nur, do this.""  The boys turned their heads from side to side and they
+rattled.  They said to the people, ""If you see us you will die, and if
+you do not see us you will die.""  The people fell over and died, one after
+another.  Then the boys looked all through the village but could not find
+their father.  At the third village they found that their father had been
+killed by the people.  Huri cried but his brother said, ""I would not cry.
+He left us to starve.""  They found their father's body and took it away
+to a high hill.  They cut two willow poles, two cottonwood, two elm, and
+two walnut poles, and four cedar posts about as long as the height of a
+man.  They worked all day doing this, and took them on the hill.  Then
+they laid them crosswise in a pile with sweet grass underneath and put
+their father's body on top of the pile.  The wonder boy said, ""Father,
+we used to love you but now we are going to burn you up and the smoke
+will ascend to Tirawa; but, father, you are not dead forever, and some
+day we will see you again.""",,"['Nuri, do this and we will turn into geese.', 'We will not drown.']"
+pawnee77,densmore-pawnee,0.0.1,The Little Rattlesnake,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,story of the little rattlesnake,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,108,77,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA108,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","Story of the Little Rattlesnake
+This story differs from the preceding in that the entire narrative was
+sung, a typical portion of the melody begin transcribed.  The story was
+as follows:  In the place where the rattlesnakes lived there was a little
+rattlesnake who cried because he wanted his rattle to make a noise.  He
+said to his father, ""I do not see why I don't rattle.  I am just like my
+brothers and sisters but their rattles rattle while mine does not.""  His
+father said, ""You are not old enough.  When you are as big as your
+brothers and sisters your rattle will rattle like theirs.""
+The little snake cried so hard that at last they ""made medicine"" for
+him so that his rattle would rattle.  Then he wanted to rattle it all
+the time.
+The little snake said to his father, ""Tell me how a chief's daughter
+looks.  I want to bite her foot.""  His father said, ""A chief's daughter 
+is very neat in her dress.  Those who are not the daughters of chiefs are
+very careless  You can tell the difference in that way.""
+The snakes' house was located on a road along which the Pawnee used
+to travel.  The oldest snake said, ""Father, my little brother rattles all
+the time.  The Pawnee will hear him and kill us all.  Make him stop.""
+But the little snake kept on.  He even went beside the road and rattled
+his rattle very loud.
+One day a girl came along the road and the little snake thought she
+was the chief's daughter.  He bit her foot and she turned quickly and
+crushed his head.  The other snakes found him and the brother said,
+""Father, didn't I tell you that one of us would be killed?  There is my
+little brother with his head smashed.""  That is the end of the story.",,
+pawnee78,densmore-pawnee,0.0.1,You Need Not Fear the Horse,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified song,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,109,78,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA109,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","When the Pawnee first saw a horse they were frightened.  Some ran away
+and others said, ""I wonder what he is dragging behind him"" (referring to
+his tail).  A great crowd of people was looking at the horse.  At last
+someone said, ""Why are you afraid of this animal.  He is very useful.  He
+can carry you and your packs.  You can get on him and he will take you
+from place to place so that you can kill game.""  Ever since that time the
+Pawnee have owned horses, and found that horses could work for them.",,"['What are those that come?', 'Those yonder, what are those that come?', 'The horse, you fear it,', 'What are those that come?']"
+pawnee79,densmore-pawnee,0.0.1,A Poor Man's Prayer,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,110,79,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA110,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM58|Drum-rhythm: (8 8 8 8 8 8)|Fine,"Transcribed pitches, durations, and meters are only approximate.","A man once volunteered to follow a war party and had gone only about
+halfway to the place of fighting when he met the warriors returning.
+He was one of the poorest men in all the four bands of the Pawnee.
+Passing through a deserted camp of his people he saw, by the circles
+of buffalo skulls, that offerings had been made to Tirawa.  He
+therefore prayed that Tirawa would help him get a horse so that he
+could kill some buffalo.  His prayer was answered and he became a very
+rich man.  This is the song in which he offered his prayer.",,
+pawnee80,densmore-pawnee,0.0.1,Everything Will Be Right,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,Mrs. Good Eagle,,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,111,80,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA111,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","[This is the only song] recorded by Mrs. Good Eagle who was hostess at
+a hand game attended by the writer.  In explanation of the song she said,
+""I was sick and lay with my face toward the east.  As I lay there I saw a
+man with his face whitened with clay, wearing a robe and leggings of
+buffalo hide.  He was walking toward the west and singing this song.  When
+I heard it I knew that I would get well.""",,"I was thinking, and I knew that everything would be right."
+pawnee81,densmore-pawnee,0.0.1,The Message of a Star,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,112,81,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA112,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM76|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.","In explanation of the following song the singer said, ""What I am going to
+tell you is not a dream, for I saw it in broad daylight.  A star spoke to
+me and said, ""Look at me; I am the one who takes pity on you and gives you
+good health.  Tonight, when you go home, look toward the west.  You will
+see two bright stars.  I am the one to the north.  I am the one who helps
+you.  When you sing this song you must think of me.""  Then the star said,
+""You are not praying enough but I am helping you.  I gave you everything
+you needed, why do you neglect your prayers?""  The singer said that ever
+since that time he had prayed morning and night.",,
+pawnee82,densmore-pawnee,0.0.1,Song to Comfort a Child's Grief,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Tutukrawitsu [He overtook the enemy, Wicita Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,113,82,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA113,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The singer who recorded the next song spent his childhood in Nebraska,
+before the Pawnee moved to Oklahoma.  His mother died when he was 3 years
+old and he grieved a long time for her.  His father sing this song to
+comfort him and said, ""We can do nothing when a person dies; we can only
+pray.  Perhaps some day you will be a man and have children around you.""
+When he grew up his father, who was still living, taught him the song and
+told him of its early use.  He made it into a war dance and it is known
+as his song.",,"['My dear child, stop crying,', 'Yonder there, in the expanse of the heavens, is where power dwells.']"
+pawnee83,densmore-pawnee,0.0.1,Mother's Song for a Dead Baby,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,113,83,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA113,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The next song belonged to the first wife of Roaming Chief, who was a close
+friend of the singer.  She had a little girl who died when about 8 months
+old.  Although she had several other children she grieved for this baby
+and sang the following song about it.  The woman's name was Curuk'siwa.",,
+pawnee84,densmore-pawnee,0.0.1,Song Received from a Dead Relative,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Laduda desadu [He does everything as a chief, John Luwak]",,"tom, voice",,,,,,,,,simple duple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,114,84,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA114,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum Tempo:  MM116|Drum-rhythm: (4 4 4 4 4 4),"Transcribed pitches, durations, and meters are only approximate.","A certain man had a dream and in that dream one of his dead relatives
+appeared and said, ""I have come back into this world.  You see me.""  At
+the same time heard and learned the following song.  When the man awoke
+he remembered the song and understood what it meant.  He dreamed a second
+time, and the same dead relative appeared, saying, ""Remember when we pass
+from the old earth we pass to a new earth where we are now.""  The two songs
+were recorded and the melodies found to be the same.  The words of the first
+were translated, ""I am coming,"" and the words of the second were, ""Yonder,
+whence I came, our relatives are walking.""",,I am coming.
+pawnee85,densmore-pawnee,0.0.1,Father Gave Me a Pipe,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,simple triple,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,115,85,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA115,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","The next song belongs to a very old woman named Ciiha'rurees whose father
+was a chief.  The singers at the drum sometimes start this song so that
+she can dance.  It was formerly used in a ""dance of the chiefs"" in which
+the daughters of chiefs took part.",,"['Father is good,', 'He gave me a pipe,', 'He is good.']"
+pawnee86,densmore-pawnee,0.0.1,Mad Chief Mourns for His Grandson,,"Pawnee, Oklahoma, United States of America",,,,,,Pawnee,,,unclassified,"Tsastawinahiigat [She led a phony into the ceremony, Effie Blain]",,voice,,,,,,,,,irregular,,Frances Densmore,<1920//,,,densmore1929pawnee,book,Pawnee Music,Frances Densmore,1929,119,86,,,https://books.google.com/books?id=-9e65i0Fu2kC&pg=PA119,David Huron,"September 10, 2000",,Electronic Copyright 2000 David Huron,,,,1.0,,,,False,True,,"{""file.COM"": ""Anon."", ""file.AGN"": ""monody"", ""file.TXO"": ""Pawnee"", ""file.OCY"": ""United States"", ""file.YER"": ""September 2000"", ""file.YEN"": ""United States of America""}",Song was recorded either 1919 or 1920.|Drum not recorded,"Transcribed pitches, durations, and meters are only approximate.","Mr. Murie said that the story concerning the following song was recently
+told him by John Luwak: A man and his wife had one child, a daughter, who
+had many admirers.  Sirirut Kawi (Pushed Forward) entered the lodge
+early one morning, after the manner of young men courting a maiden.
+The man said to his wife, ""Did you notice that young man?""
+He came again, and then the woman said to her husband.  ""The young man
+is handsome, he comes of a good family, he has plenty of horses and
+his arms are strong so that he would be good to support us.""  When he
+came the third time they told him to wait for his answer until the girl's
+relatives could discuss the matter.  So they called their relatives
+together, the mother's relatives being seated on the south and the
+father's on the north side of the lodge.  The father's relatives left
+the decision to the mother's relatives, who decided that the girl should
+be allowed to marry the young man.  Many presents were distributed.
+The young man's relatives gave presents, and the young man gave a fine
+horse to the father and mother of the girl.  The next day the old man
+gave the horse to his wife.  There were buffalo robes and many valuable
+articles among the presents.
+All went well for a time, and then the young man began to beat his wife
+and abuse her.  The girl's mother begged her father to interfere, but
+he refused to do so.  She said, ""You claim to be a brave man; why do
+you not make our son-in-law stop beating his wife?""
+He said, ""Do you remember one beautiful morning when you said the
+young man was handsome, that he came of good family, had many horses,
+and his arms were strong?""
+""Yes.""
+""Do you remember that my relatives sat on the north and yours on the
+south side of the lodge, and that my relatives left the decision to
+yours?""
+""Yes.""
+""So your people sold our daughter to that man.  We have no right to
+interfere with his property.  He gave the ponies.  He gave a fine pony
+to us.  Didn't I give you that pony?""
+""Yes.""
+""Get a kettle.  Put it on the fire and put water in it.""  She did so.
+""Now take your parfleche bag and put the finest of your dried meat in
+the pot.  When the soup is done you must bring me some in a wooden bowl.""
+When she brought the soup he told her to sit beside him and eat.  As
+they ate he said, ""What nice fat!  What fine meat this is!  Who got it
+for you?""
+""Our son-in-law.""
+""You like the meat that our son-in-law brings us?  He punishes our
+daughter for her own good.  He does not want her to run around the camp
+foolishly.  He wants her to be a good cook and to look after things in
+the lodge.""
+Then the woman stopped finding fault with her son-in-law.
+The young man was well liked by the chiefs.  They asked him to join their
+societies and later he became a chief.  He and his wife had one child,
+a body.  This little boy liked to stay with his grandfather, who told
+him stories.  His grandfather was Saritsaris (Mad Chief), a brave man of
+the Chaui Band.  The little boy cooled his grandfather's mush or soup by
+swinging the dish back and forth, then he set it before the old man.
+When the little boy was about half-grown he heard that a war party was
+to start.  He told his mother that he wanted to go, and he wanted her
+and his grandmother to make him some moccasins.  He also wanted arrows,
+a bow and a quiver, and all the equipment of a warrior.  When the old
+man heard this he called the boy and said, ""Do you realize what you are
+doing?""
+""Yes, I am grown to be a man.""
+""Do you have dreams at night?""
+""Yes.""
+""Can you relate some of them?""
+""Yes.""
+""Tell one to me.""
+""In my dream I was with a war party.  I found myself coming toward home
+through deep snow.""
+""That is enough,"" said the old man.  ""You can go.""
+The women had sent the boy to his grandfather, thinking he would keep
+him at home, and they were greatly surprised to learn that the grandfather
+had told the boy to go with the warriors.  It was fall when the war party
+started.  As winter was coming near it was noised through the camp that
+all the war party had been killed and the people began to mourn.  The
+women of this family mourned exceedingly and cut their flesh with knives,
+but the old man sat and laughed at them, or smoked his pipe.  This went
+on for about 10 days.  Then his wife said, ""You did not care for our
+grandchild,"" and his daughter said, ""Why do you not mourn?""  The old man
+said to his wife, ""You remember that you turned the boy over to me when
+he wanted to go to war.  You made moccasins for him and filled his
+quiver with arrows.  I questioned him and found that he had a dream in
+which he was returning alone through deep snow.  That dream will come
+true.  He is coming home, so I want you all to stop mourning.""
+They would not believe him, but one day, after a snow, some people
+going out from the village met the young man returning.  He said, ""All
+the warriors were killed except myself.""
+The man rode back and cried through the village, ""Saritsaris' grandchild
+is coming through the deep snow.""
+Everyone in the lodge was excited, except the old man.  He did not rush
+out to meet his grandson.  The women urged him to go, but he said, ""He
+is coming; never mind.""
+When the young man entered the lodge his grandfather said, ""Sit on my
+knees.""  The old man passed his hands downward over the young man's
+head and body in the tribal manner of ""blessing,"" and said, ""I believed
+in your dream and now you are here.""
+Then he told him to sit yonder and said, ""I ask you -- when attacked,
+did you hide in a ravine?  When you were a little boy and cooled my
+mush I told you that I never wanted to hear that your body was found
+in a ravine.  I said that if you must be killed, let it be on a hilltop,
+fighting in the open.  I told you not to run away.  Did you fight the
+enemy?  Is it possible that you had gone on an errand and on your
+return found the fight going on and ran home instead of joining your
+comrades?  I told you always to tell the truth.  Don't lie to me now.
+Tell me the truth.""
+The young man said, ""This will tell the story,"" and he exposed his arm,
+which was raw and sore from wrist to elbow, where the bowstring had
+stung him.  The boy said, ""I did not even throw away my buffalo robe.
+I fought until night and then they let me alone.""
+The old man said, ""Now your name shall be Sirirut Kawi, the same as
+your father's.  If you had been killed I would not have shed a tear,
+for I urged you to go on the warpath.""
+So the young man lived with his grandfather until the next summer,
+when the village was attacked by the enemy.  The young man went out
+and was killed.  The news was brought into the village and the old man
+heard it.  He took his robe of bear skin, threw it over his shoulder,
+and went about the camp telling how kind the young man was to the old
+and sick.  Returning home, he said, ""You waved the bowl of mush to cool
+it.  I shall miss you.""
+People said his heart was like stone until he sang this song.  Then he
+wept.  In the first portion of the words he sings about himself and
+his pride in his grandson, and in the latter portion he sings about the
+young man.",,"['Mad Chief sings as he walks, his spirit is glad as he walks.', 'Pushed Forward is no longer among us, yet we seem to see him;', 'Yonder he comes.']"
