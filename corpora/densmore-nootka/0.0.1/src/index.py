@@ -14,7 +14,7 @@ CORPUS_ID = CORPUS_METADATA["dataset_id"]
 class DensmoreNootkaEntry(IndexEntry):
 
     source_names = ["meta", "file"]
-    default_source = "meta"
+    # default_source = "meta"
 
     constants = dict(
         dataset_id=CORPUS_ID,
@@ -49,7 +49,24 @@ class DensmoreNootkaEntry(IndexEntry):
         tempo="meta.bpm",
         publication_song_num="meta.song_num",
         publication_page_num="meta.page_num",
+        tonality="meta.tonality",
+        beat_duration="meta.beat_duration",
+        meters="meta.meters",
+        lyrics_translation="meta.lyrics_translation",
+        lyrics="meta.lyrics",
+        instrumentation="meta.instrumentation",
+        instrument_use="meta.instrument_use",
+        percussion_use="meta.percussion_use",
+        voice_use="meta.voice_use",
+        catalogue_num="meta.catalogue_num"
     )
+
+    export_unused_fields = True
+    used_fields = [
+        "file.PDT",
+        "file.OTL",
+        "meta.comments",
+    ]
 
     def get_file_url(self):
         filename = self.get("filename")
@@ -89,12 +106,8 @@ class DensmoreNootkaEntry(IndexEntry):
         else:
             return sorted(set(superfunction))
 
-    def get_other_fields(self):
-        return dict(
-            language_type=self.get_from_source("file", "LANG"),
-            language_family=self.get_from_source("file", "LING_GROUP"),
-            social_function=self.get_from_source("file", "SOCIAL_FUNCTION"),
-        )
+    def get_comments(self):
+        return self.concatenate('meta.comments', 'file._comments')
 
 
 def generate_index():

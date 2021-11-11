@@ -7,7 +7,7 @@ nootka001:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -40,8 +40,9 @@ nootka001:
     it so.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends of whaling"}'
+  other_fields: '{"meta.bpm_voice": "88|132", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends of whaling", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: James Guy
@@ -71,7 +72,7 @@ nootka002:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -103,8 +104,9 @@ nootka002:
   lyrics_translation: We got this whale because the little bird was not at home
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends of whaling"}'
+  other_fields: '{"meta.bpm_voice": "132", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends of whaling", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: James Guy
@@ -134,7 +136,7 @@ nootka003:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -167,8 +169,9 @@ nootka003:
     of the canoe)
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends of whaling"}'
+  other_fields: '{"meta.bpm_voice": "54", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends of whaling", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: James Guy
@@ -198,7 +201,7 @@ nootka004:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -232,8 +235,9 @@ nootka004:
     Paddle toward our home.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends of whaling"}'
+  other_fields: '{"meta.bpm_voice": "58", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends of whaling", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -263,7 +267,7 @@ nootka005:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -297,8 +301,9 @@ nootka005:
     I am rolling (not walking) but I am a man'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with feast for whale fin"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "ceremonial", "file.SOCIAL_FUNCTION": "songs with feast for whale fin", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -328,7 +333,7 @@ nootka006:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -362,8 +367,9 @@ nootka006:
     To visit as many places as I can.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with feast for whale fin"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "ceremonial", "file.SOCIAL_FUNCTION": "songs with feast for whale fin", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -393,7 +399,7 @@ nootka007:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -425,8 +431,9 @@ nootka007:
   lyrics_translation: I am coming back to be caught again
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with feast for whale fin"}'
+  other_fields: '{"meta.bpm_voice": "54", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "ceremonial", "file.SOCIAL_FUNCTION": "songs with feast for whale fin", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -456,7 +463,7 @@ nootka008:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -490,8 +497,9 @@ nootka008:
     Is it prepared for large crowds?'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "oil potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest"], "file.SOCIAL_FUNCTION": "oil potlatch songs", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Wilson Parker
@@ -553,8 +561,9 @@ nootka009:
   lyrics_translation: Here I have come to the place where people live
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "oil potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest"], "file.SOCIAL_FUNCTION": "oil potlatch songs", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Wilson Parker
@@ -616,8 +625,9 @@ nootka010:
   lyrics_translation: null
   meters: 4/4|2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "oil potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest"], "file.SOCIAL_FUNCTION": "oil potlatch songs", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Wilson Parker
@@ -679,8 +689,9 @@ nootka011:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -742,8 +753,9 @@ nootka012:
   lyrics_translation: null
   meters: 2/4|5/8|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "54", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -806,8 +818,9 @@ nootka013:
   lyrics_translation: null
   meters: 3/4|2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "120|84", "meta.bpm_drum": 84.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -870,8 +883,9 @@ nootka014:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": 84.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -934,8 +948,9 @@ nootka015:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": 66.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -997,8 +1012,9 @@ nootka016:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "63", "meta.bpm_drum": 63.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1062,8 +1078,9 @@ nootka017:
   lyrics_translation: I am wealthy, that is why I am singing
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1128,8 +1145,9 @@ nootka018:
   lyrics_translation: It is I who am dancing
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": 80.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1193,8 +1211,9 @@ nootka019:
     We are at our best when dancing.'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "56", "meta.bpm_drum": 56.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -1224,7 +1243,7 @@ nootka020:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1256,8 +1275,9 @@ nootka020:
   lyrics_translation: We have come to see what you have to give away at your potlatch
   meters: 3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1287,7 +1307,7 @@ nootka021:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1319,8 +1339,9 @@ nootka021:
   lyrics_translation: I am rich because the rattle is my tumanos
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1350,7 +1371,7 @@ nootka022:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1383,8 +1404,9 @@ nootka022:
     so pleased about
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "potlatch songs"}'
+  other_fields: '{"meta.bpm_voice": "63", "meta.bpm_drum": 63.0, "file.SUPERFUNCTION":
+    ["ceremonial", "harvest", "harvest"], "file.SOCIAL_FUNCTION": "potlatch songs",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1446,8 +1468,9 @@ nootka023:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with contest of medicine after potlatch"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "healing", "file.SOCIAL_FUNCTION": "songs with contest of medicine after potlatch",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1477,7 +1500,7 @@ nootka024:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1510,8 +1533,9 @@ nootka024:
     (naming the man)
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with contests of medicine after potlatch"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "healing", "file.SOCIAL_FUNCTION": "songs with contests of medicine after potlatch",
+    "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1574,8 +1598,9 @@ nootka025:
   lyrics_translation: null
   meters: 3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with contest of physical strength"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "game", "file.SOCIAL_FUNCTION": "songs with contest of physical strength", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1605,7 +1630,7 @@ nootka026:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1637,8 +1662,9 @@ nootka026:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with contest of physical strength"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "game", "file.SOCIAL_FUNCTION": "songs with contest of physical strength", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1668,7 +1694,7 @@ nootka027:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1700,8 +1726,9 @@ nootka027:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with contest of physical strength"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "game", "file.SOCIAL_FUNCTION": "songs with contest of physical strength", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1731,7 +1758,7 @@ nootka028:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1763,8 +1790,9 @@ nootka028:
   lyrics_translation: null
   meters: 3/4|2/4|3/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of women''s dance"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of women''s dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1826,8 +1854,9 @@ nootka029:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "song with women''s dance"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["dance", "women"], "file.SOCIAL_FUNCTION": "song with women''s dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -1857,7 +1886,7 @@ nootka030:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1889,8 +1918,9 @@ nootka030:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with kwekwasa dance"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs with kwekwasa dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1920,7 +1950,7 @@ nootka031:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -1952,8 +1982,9 @@ nootka031:
   lyrics_translation: null
   meters: 6/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "song with kwekwasa dance"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "song with kwekwasa dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -1983,7 +2014,7 @@ nootka032:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2015,8 +2046,9 @@ nootka032:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with kwekwasa dance"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs with kwekwasa dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -2046,7 +2078,7 @@ nootka033:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2078,8 +2110,9 @@ nootka033:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "song with memorial potlatch"}'
+  other_fields: '{"meta.bpm_voice": "36", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "ceremonial", "file.SOCIAL_FUNCTION": "song with memorial potlatch", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -2109,7 +2142,7 @@ nootka034:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2143,8 +2176,9 @@ nootka034:
     I hear everything they say and they are all praising me.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klukluwatk dance"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["tribename", "dance"], "file.SOCIAL_FUNCTION": "klukluwatk dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: null
   performers: Philip Ladder
@@ -2206,8 +2240,9 @@ nootka035:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klukluwatk dance"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["tribename", "dance"], "file.SOCIAL_FUNCTION": "klukluwatk dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: null
   performers: Philip Ladder
@@ -2269,8 +2304,9 @@ nootka036:
   lyrics_translation: Dance slowly
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klukluwatk dance"}'
+  other_fields: '{"meta.bpm_voice": "138", "meta.bpm_drum": 138.0, "file.SUPERFUNCTION":
+    ["tribename", "dance"], "file.SOCIAL_FUNCTION": "klukluwatk dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: null
   performers: Philip Ladder
@@ -2300,7 +2336,7 @@ nootka037:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2332,8 +2368,9 @@ nootka037:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klukluwatk dance"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["tribename", "dance"], "file.SOCIAL_FUNCTION": "klukluwatk dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: null
   performers: Philip Ladder
@@ -2363,7 +2400,7 @@ nootka038:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2395,8 +2432,9 @@ nootka038:
   lyrics_translation: I am dancing in the air and dancing round and round
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klukluwatk dance"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["tribename", "dance"], "file.SOCIAL_FUNCTION": "klukluwatk dance", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: null
   performers: Philip Ladder
@@ -2426,7 +2464,7 @@ nootka039:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2458,8 +2496,9 @@ nootka039:
   lyrics_translation: My dancer is the day
   meters: 2/4|3/8|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -2521,8 +2560,9 @@ nootka040:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -2552,7 +2592,7 @@ nootka041:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2586,8 +2626,9 @@ nootka041:
     The klechin who lives in the woods is a man.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -2617,7 +2658,7 @@ nootka042:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2649,8 +2690,9 @@ nootka042:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -2680,7 +2722,7 @@ nootka043:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2712,8 +2754,9 @@ nootka043:
   lyrics_translation: Here we come from above to make you join the Klokali
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "104", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -2743,7 +2786,7 @@ nootka044:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2777,8 +2820,9 @@ nootka044:
     This is the news which the thunderbird brings to you.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -2808,7 +2852,7 @@ nootka045:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2843,8 +2887,9 @@ nootka045:
     use.'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -2874,7 +2919,7 @@ nootka046:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2906,8 +2951,9 @@ nootka046:
   lyrics_translation: What could be greater than that which I imitate.
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "42|48", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -2937,7 +2983,7 @@ nootka047:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -2971,8 +3017,9 @@ nootka047:
     Let this be a pleasant day.'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "60|66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -3034,8 +3081,9 @@ nootka048:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "120", "meta.bpm_drum": 120.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3097,8 +3145,9 @@ nootka049:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": 92.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3160,8 +3209,9 @@ nootka050:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "108", "meta.bpm_drum": 112.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -3191,7 +3241,7 @@ nootka051:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3223,8 +3273,9 @@ nootka051:
   lyrics_translation: My hands are my feathers
   meters: 2/4|7/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -3254,7 +3305,7 @@ nootka052:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3288,8 +3339,9 @@ nootka052:
     Representing a blackfish'
   meters: 2/4|6/8|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": 80.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -3351,8 +3403,9 @@ nootka053:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": 72.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -3382,7 +3435,7 @@ nootka054:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3414,8 +3467,9 @@ nootka054:
   lyrics_translation: null
   meters: 5/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -3477,8 +3531,9 @@ nootka055:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "klokali songs"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": 66.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "klokali songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -3508,7 +3563,7 @@ nootka056:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3540,8 +3595,10 @@ nootka056:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "104", "meta.bpm_drum": 104.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3604,8 +3661,10 @@ nootka057:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "88", "meta.bpm_drum": 44.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3667,8 +3726,10 @@ nootka058:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "50", "meta.bpm_drum": 50.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3732,8 +3793,10 @@ nootka059:
     Flashing light is my craft.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "54", "meta.bpm_drum": 54.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3795,8 +3858,10 @@ nootka060:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "76|63", "meta.bpm_drum": 76.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3826,7 +3891,7 @@ nootka061:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3858,8 +3923,10 @@ nootka061:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": 92.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3921,8 +3988,10 @@ nootka062:
   lyrics_translation: null
   meters: 2/4|3/8|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": 76.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -3952,7 +4021,7 @@ nootka063:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -3984,8 +4053,10 @@ nootka063:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -4015,7 +4086,7 @@ nootka064:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4047,8 +4118,10 @@ nootka064:
   lyrics_translation: null
   meters: 3/8|2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "176", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Charles Swan
@@ -4078,7 +4151,7 @@ nootka065:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4110,8 +4183,10 @@ nootka065:
   lyrics_translation: null
   meters: 3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "116", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Edwin Hayte
@@ -4173,8 +4248,10 @@ nootka066:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": 60.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Edwin Hayte
@@ -4236,8 +4313,10 @@ nootka067:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of dances presented at makah day celebrations"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": 84.0, "file.SUPERFUNCTION":
+    ["dance", "ceremonial"], "file.SOCIAL_FUNCTION": "songs of dances presented at
+    makah day celebrations", "file.LANG": "Non-Tone", "file.LING_GROUP": "Wakashan",
+    "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -4267,7 +4346,7 @@ nootka068:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4299,8 +4378,9 @@ nootka068:
   lyrics_translation: null
   meters: 3/4|5/8|2/4|3/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "88", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -4330,7 +4410,7 @@ nootka069:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4362,8 +4442,9 @@ nootka069:
   lyrics_translation: You will not find my path, even if you do go.
   meters: 3/4|2/4|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -4393,7 +4474,7 @@ nootka070:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4425,8 +4506,9 @@ nootka070:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "104", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -4488,8 +4570,9 @@ nootka071:
   lyrics_translation: null
   meters: 2/4|5/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "112", "meta.bpm_drum": 132.0, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: James Guy
@@ -4551,8 +4634,9 @@ nootka072:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": 66.0, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: James Guy
@@ -4582,7 +4666,7 @@ nootka073:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4614,8 +4698,9 @@ nootka073:
   lyrics_translation: null
   meters: 3/4|2/4|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -4679,8 +4764,9 @@ nootka074:
     Is your tumanos as good as mine?'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "63", "meta.bpm_drum": 63.0, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -4710,7 +4796,7 @@ nootka075:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4742,8 +4828,9 @@ nootka075:
   lyrics_translation: null
   meters: 2/4|3/4|5/8|3/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "100", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -4773,7 +4860,7 @@ nootka076:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4805,8 +4892,9 @@ nootka076:
   lyrics_translation: null
   meters: 2/4|3/4|3/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -4872,8 +4960,9 @@ nootka077:
     Do not try to imitate me'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": 72.0, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -4935,8 +5024,9 @@ nootka078:
   lyrics_translation: There is no tribe that can beat the chief in dancing.
   meters: 2/4|5/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "104", "meta.bpm_drum": 138.0, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Charles Swan
@@ -4966,7 +5056,7 @@ nootka079:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -4998,8 +5088,9 @@ nootka079:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5062,8 +5153,9 @@ nootka080:
   lyrics_translation: '[...] A chief is in a canoe with many men" [...]'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -5093,7 +5185,7 @@ nootka081:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5125,8 +5217,9 @@ nootka081:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5156,7 +5249,7 @@ nootka082:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5188,8 +5281,9 @@ nootka082:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs of social dance"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "dance", "file.SOCIAL_FUNCTION": "songs of social dance", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5219,7 +5313,7 @@ nootka083:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5254,8 +5348,9 @@ nootka083:
     He is the reason for it.'
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -5318,8 +5413,9 @@ nootka084:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "88", "meta.bpm_drum": 72.0, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Chester Wandahart
@@ -5349,7 +5445,7 @@ nootka085:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5382,8 +5478,9 @@ nootka085:
     \ thin, unhealthy woman) came before she was called"
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "52", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -5413,7 +5510,7 @@ nootka086:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5445,8 +5542,9 @@ nootka086:
   lyrics_translation: They come to the surface, whatever lives under the water
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -5476,7 +5574,7 @@ nootka087:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5508,8 +5606,9 @@ nootka087:
   lyrics_translation: I do believe that person on the horse has taken the ring.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -5539,7 +5638,7 @@ nootka088:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5575,8 +5674,9 @@ nootka088:
     Perhaps he has a reason for scolding you.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "80", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -5643,8 +5743,9 @@ nootka089:
     I will not have him anyway because he is too old.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "65", "meta.bpm_drum": 56.0, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -5674,7 +5775,7 @@ nootka090:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5708,8 +5809,9 @@ nootka090:
     as you can, I look so handsome.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "100", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5739,7 +5841,7 @@ nootka091:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5773,8 +5875,9 @@ nootka091:
     This is the first time I have looked in the glass.'
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5804,7 +5907,7 @@ nootka092:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5836,8 +5939,9 @@ nootka092:
   lyrics_translation: What a pity I am getting old
   meters: 3/4|7/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5867,7 +5971,7 @@ nootka093:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -5901,8 +6005,9 @@ nootka093:
     My very close friend Wislatas is going away.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "93", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -5964,8 +6069,9 @@ nootka094:
   lyrics_translation: Good-by, my sweetheart
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": 96.0, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Chester Wandahart
@@ -5995,7 +6101,7 @@ nootka095:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6027,8 +6133,9 @@ nootka095:
   lyrics_translation: I can see the snow on top of the mountains
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -6090,8 +6197,9 @@ nootka096:
   lyrics_translation: I hear the bird singing in the high mountains
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "86", "meta.bpm_drum": 86.0, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -6121,7 +6229,7 @@ nootka097:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6153,8 +6261,9 @@ nootka097:
   lyrics_translation: Stop singing, they are beginning to make fun of you.
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "social gatherings"}'
+  other_fields: '{"meta.bpm_voice": "63", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "social", "file.SOCIAL_FUNCTION": "social gatherings", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -6218,8 +6327,9 @@ nootka098:
     I have forty whales on my beach.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": 126.0, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -6249,7 +6359,7 @@ nootka099:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6282,8 +6392,9 @@ nootka099:
     face would have a crying expression when I carried the head.
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "50", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -6313,7 +6424,7 @@ nootka100:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6345,8 +6456,9 @@ nootka100:
   lyrics_translation: null
   meters: 3/4|2/4|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -6376,7 +6488,7 @@ nootka101:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6409,8 +6521,9 @@ nootka101:
     slaves from all other tribes, even from the coast tribes to the north.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -6440,7 +6553,7 @@ nootka102:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6473,8 +6586,9 @@ nootka102:
     for us to have 40 whales on the beach in a day.
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": 84.0, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: male
   performers: Young Doctor
@@ -6504,7 +6618,7 @@ nootka103:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6538,8 +6652,9 @@ nootka103:
     My home is a great home.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -6569,7 +6684,7 @@ nootka104:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6601,8 +6716,9 @@ nootka104:
   lyrics_translation: There is my head (that I took).
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -6632,7 +6748,7 @@ nootka105:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6664,8 +6780,9 @@ nootka105:
   lyrics_translation: null
   meters: 2/4|7/8|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "92", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -6695,7 +6812,7 @@ nootka106:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6727,8 +6844,9 @@ nootka106:
   lyrics_translation: null
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "88", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -6758,7 +6876,7 @@ nootka107:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6790,8 +6908,9 @@ nootka107:
   lyrics_translation: Jump in, Akse'tsus, and take ten.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "144", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -6853,8 +6972,9 @@ nootka108:
   lyrics_translation: Mine is bleeding.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "war songs"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "war", "file.SOCIAL_FUNCTION": "war songs", "file.LANG": "Non-Tone", "file.LING_GROUP":
+    "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Sarah Guy
@@ -6884,7 +7004,7 @@ nootka109:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6916,8 +7036,9 @@ nootka109:
   lyrics_translation: Where are you, on whose back the waves break?
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs connected with legends"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs connected with legends", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -6947,7 +7068,7 @@ nootka110:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -6979,8 +7100,9 @@ nootka110:
   lyrics_translation: Rain, please come down and fill the depressions in the rock
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs connected with legends"}'
+  other_fields: '{"meta.bpm_voice": "72", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs connected with legends", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -7010,7 +7132,7 @@ nootka111:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7042,8 +7164,9 @@ nootka111:
   lyrics_translation: You will always find me by the beating of my drum
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs connected with legends"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs connected with legends", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -7073,7 +7196,7 @@ nootka112:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7105,8 +7228,9 @@ nootka112:
   lyrics_translation: O brothers, here he has put me in the treetop
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -7136,7 +7260,7 @@ nootka113:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7168,8 +7292,9 @@ nootka113:
   lyrics_translation: My tumanos is the squirrel
   meters: 2/4|5/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -7199,7 +7324,7 @@ nootka114:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7232,8 +7357,9 @@ nootka114:
     my master.
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: James Guy
@@ -7263,7 +7389,7 @@ nootka115:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7295,8 +7421,9 @@ nootka115:
   lyrics_translation: null
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "52", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -7326,7 +7453,7 @@ nootka116:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7360,8 +7487,9 @@ nootka116:
     (a little bird with brown feathers and high repeated note).
   meters: 2/4|5/8|7/8|3/8|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": 96.0, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -7391,7 +7519,7 @@ nootka117:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7424,8 +7552,9 @@ nootka117:
     other babies are bothering me
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "42", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -7455,7 +7584,7 @@ nootka118:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7490,8 +7619,9 @@ nootka118:
     I wish I was gathering crabsm the early morning tide is out.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -7521,7 +7651,7 @@ nootka119:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7554,8 +7684,9 @@ nootka119:
     when they pinch the hands.
   meters: 3/4|2/4|7/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "66", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -7585,7 +7716,7 @@ nootka120:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7617,8 +7748,9 @@ nootka120:
   lyrics_translation: Go to sleep, baby daughter, mother has work that must be done.
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "63", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -7648,7 +7780,7 @@ nootka121:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7680,8 +7812,9 @@ nootka121:
   lyrics_translation: My little girl is such a great care
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "76", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -7711,7 +7844,7 @@ nootka122:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7744,8 +7877,9 @@ nootka122:
     on his little round cheeck will be a xixitiyuk (belt of the thunderbird)
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": 69.0, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Helen Irving
@@ -7775,7 +7909,7 @@ nootka123:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7808,8 +7942,9 @@ nootka123:
     me medicine to make me so.
   meters: 3/4|2/4|7/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "52", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -7839,7 +7974,7 @@ nootka124:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7874,8 +8009,9 @@ nootka124:
     make of it when you are a man.'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "69", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: male
   performers: Young Doctor
@@ -7905,7 +8041,7 @@ nootka125:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -7939,8 +8075,9 @@ nootka125:
     You got them at Tcatca''tiks.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "56", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Annie Long Tom
@@ -7970,7 +8107,7 @@ nootka126:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -8003,8 +8140,9 @@ nootka126:
     old pot, I am going to be a good fisherman.
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -8034,7 +8172,7 @@ nootka127:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -8068,8 +8206,9 @@ nootka127:
     My canoe is full of kelp fish but I threw out the bullheads.'
   meters: 2/4|3/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "96", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -8099,7 +8238,7 @@ nootka128:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -8131,8 +8270,9 @@ nootka128:
   lyrics_translation: null
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs for little children"}'
+  other_fields: '{"meta.bpm_voice": "60", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "children", "file.SOCIAL_FUNCTION": "songs for little children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -8162,7 +8302,7 @@ nootka129:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -8197,8 +8337,9 @@ nootka129:
     It belongs to Klikababit.'
   meters: 3/4|2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends told to children"}'
+  other_fields: '{"meta.bpm_voice": "76|108", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends told to children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -8228,7 +8369,7 @@ nootka131:
   collection_date_earliest: '1923'
   collection_date_latest: '1926'
   collectors: Frances Densmore
-  comments: null
+  comments: ''
   contributors: null
   copyright: Copyright 2014 Daniel and Eva Shanahan
   corpus_version: 0.0.1
@@ -8261,8 +8402,9 @@ nootka131:
     so long.
   meters: 3/4|3/8
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "songs with legends told to children"}'
+  other_fields: '{"meta.bpm_voice": "54", "meta.bpm_drum": NaN, "file.SUPERFUNCTION":
+    "legends", "file.SOCIAL_FUNCTION": "songs with legends told to children", "file.LANG":
+    "Non-Tone", "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: false
   performer_genders: female
   performers: Mrs. Wilson Parker
@@ -8325,8 +8467,9 @@ nootka204:
   lyrics_translation: I am hungry for salmonberries
   meters: 2/4
   metric_classification: null
-  other_fields: '{"language_type": "Non-Tone", "language_family": "Wakashan", "social_function":
-    "quileute songs"}'
+  other_fields: '{"meta.bpm_voice": "84", "meta.bpm_drum": 132.0, "file.SUPERFUNCTION":
+    "tribename", "file.SOCIAL_FUNCTION": "quileute songs", "file.LANG": "Non-Tone",
+    "file.LING_GROUP": "Wakashan", "file.REG": "Pacific Northwest"}'
   percussion_use: true
   performer_genders: female
   performers: Mrs. Gilbert Holden
