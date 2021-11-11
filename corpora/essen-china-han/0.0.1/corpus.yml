@@ -4,7 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: essen-china-han
-version: 0.0.0
+version: 0.0.1
 
 # List of groups dataset belongs (see groups.yml) Optional.
 group_ids: [essen]
@@ -95,20 +95,20 @@ transformations:
 
   # File 
   # —————————————————————————————————————————————————————————————————
-  - rename: [file.cf_path, file_path]
-  - rename: [file.cf_format, file_format]
-  - rename: [file.cf_checksum, file_checksum]
-  - constant: [file_has_music, true]
-  - constant: [file_has_lyrics, false]
-  - constant: [file_has_license, false]
-  - format:
-    - id
-    - file_url
-    - pattern: "https://verovio.humdrum.org/?file=essen/asia/china/han/{}.krn"
-  - format:
-    - id 
-    - file_preview_url
-    - pattern: "https://verovio.humdrum.org/?file=essen/asia/china/han/{}.krn"
+  # - rename: [file.cf_path, file_path]
+  # - rename: [file.cf_format, file_format]
+  # - rename: [file.cf_checksum, file_checksum]
+  # - constant: [file_has_music, true]
+  # - constant: [file_has_lyrics, false]
+  # - constant: [file_has_license, false]
+  # - format:
+  #   - id
+  #   - file_url
+  #   - pattern: "https://verovio.humdrum.org/?file=essen/asia/china/han/{}.krn"
+  # - format:
+  #   - id 
+  #   - file_preview_url
+  #   - pattern: "https://verovio.humdrum.org/?file=essen/asia/china/han/{}.krn"
 
 
   # Collection 
@@ -122,25 +122,25 @@ transformations:
   # Culture
   # —————————————————————————————————————————————————————————————————
   # Files contain 'Ethnic Group: Han'
-  - extract_groups:
-    - comments_with_ethnicity
-    - [culture]
-    - pattern: ".*Ethnic Group: ([^\\|]+)"
-      groups: [1]
-  - replace:
-    - comments_with_ethnicity
-    - comments
-    - old: "Ethnic Group: ([^\\|]+)\\|?"
-      new: ""
-      regex: true
+  # - extract_groups:
+  #   - comments_with_ethnicity
+  #   - [culture]
+  #   - pattern: ".*Ethnic Group: ([^\\|]+)"
+  #     groups: [1]
+  # - replace:
+  #   - comments_with_ethnicity
+  #   - comments
+  #   - old: "Ethnic Group: ([^\\|]+)\\|?"
+  #     new: ""
+  #     regex: true
   # culture_dplace_id
   # culture_hraf_id
 
 
   # Encoding
   # —————————————————————————————————————————————————————————————————
-  - rename: [file.EED, encoders]
-  - rename: [file.EEV, version]
+  # - rename: [file.EED, encoders]
+  # - rename: [file.EEV, version]
   # encoding_date
   # copyright
   # contributors

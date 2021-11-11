@@ -1,0 +1,624 @@
+han0023:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: 00000] TT[00|NN|I, 79, 2)|leicht arrangiert von einem Vorsaenger. Diese
+    Art Lieder gerieten|auch in ein volkstuemliches Theater mit Gesang und Tanz.-
+    Die|Bauern dieser Region gingen oft in die mongolische Steppe oder|siedelten wegen
+    ihres armen Bodens dorthin um.|Die letzten beiden Phrasen, 3 und 4) der 2. Strophe:|+1_+1_0_+2_  +5_+5_0_+3_  +2_0+3+1060  5_063020|+1+1+1+1+1_6_  5_3_+1_3_  2___
+    //|Vereinzelt Verzierungen.
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: Han
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: 5e1baa19a86f4b1433069282ccec69fe
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0023.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0023.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0023.krn
+  genres: '|||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: Asia, China, Shanxi, Fugu
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Zou Xikou, 2)
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0037:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: 00000] TT[00|NN|I, 182, 1)
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: Han
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: edb3699f05dbb5fcd10653957c199787
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0037.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0037.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0037.krn
+  genres: '||||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFNingxia, Yanchi"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Dizhu Zhangde Shi Hulang Xin
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0745:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: III, 251
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: 9361e95d97f2d71a01203bf72c4c2ddf
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0745.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0745.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0745.krn
+  genres: '|||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFLiaoning Shenyang"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Ganji Shang Zishan
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0751:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: III, 322
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: b9a584385b8e4d0e2fbd292eaf1b99a6
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0751.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0751.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0751.krn
+  genres: '|'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFShandong Zhucheng"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Kaihuangge
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0779:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: III, 435
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: c66c0715357f1a733176f865d625d45e
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0779.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0779.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0779.krn
+  genres: '|||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFJiangsu Pixian"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Canjia Le Gaojishe
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0786:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: IV, 201
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: afc5fede27c6e2038ea0e3f2511ff078
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0786.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0786.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0786.krn
+  genres: '||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFJiangxi Duchang"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Shanli Laobiao Changxinge
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0792:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: IV, 217
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: 88aca3dad495e15db62eb3f57a9ef87c
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0792.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0792.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0792.krn
+  genres: '|'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFJiangxi Ruijin"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Geming Daolu Yaorenqing
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0962:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: I, 279|Han
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: ac2ea84c41bd7a5197fe9ce10cd0f9b1
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0962.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0962.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0962.krn
+  genres: '||'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: Asia, China, Shanxi Zuoquan
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Gechang Hezuohua
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0976:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: III, 621, 2)
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: df90deb7fc61d37997ef7c512b04d04f
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0976.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0976.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0976.krn
+  genres: '|'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFZhejiang Yuyao"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Da Yiezhu
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
+han0989:
+  ambitus: null
+  auto_geocoded: null
+  beat_duration: null
+  catalogue_num: null
+  collection_date: null
+  collection_date_earliest: null
+  collection_date_latest: null
+  collectors: null
+  comments: IV, 34
+  contributors: null
+  copyright: Copyright 1995, estate of Helmut Schaffrath.
+  corpus_version: 0.0.1
+  culture: null
+  culture_dplace_id: null
+  culture_hraf_id: null
+  dataset_id: essen-china-han
+  description: null
+  encoders: Helmut Schaffrath
+  encoding_date: null
+  file_checksum: 34b29d335dfe9afdec69c7c6127acf5d
+  file_format: kern
+  file_has_licence: null
+  file_has_lyrics: false
+  file_has_music: true
+  file_path: data/han0989.krn
+  file_preview_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0989.krn
+  file_url: https://verovio.humdrum.org/?file=essen/asia/china/han/han0989.krn
+  genres: '|'
+  glottolog_id: null
+  instrument_use: null
+  instrumentation: voice
+  language: null
+  latitude: null
+  license_id: null
+  location: "Asia, China,\xFFHebei Changli"
+  longitude: null
+  lyrics: null
+  lyrics_translation: null
+  meters: null
+  metric_classification: simple duple
+  other_fields: '{}'
+  percussion_use: null
+  performer_genders: null
+  performers: null
+  publication_authors: null
+  publication_date: null
+  publication_key: null
+  publication_page_num: null
+  publication_preview_url: null
+  publication_song_num: null
+  publication_title: null
+  publication_type: null
+  scale: null
+  tempo: null
+  title: Moyanggong
+  title_translation: null
+  tonality: null
+  tune_family_id: null
+  version: '1.0'
+  voice_use: null
+  warnings: null
