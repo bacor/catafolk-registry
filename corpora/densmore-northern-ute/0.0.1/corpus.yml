@@ -4,7 +4,7 @@
 
 # Unique id of the dataset
 dataset_id: densmore-northern-ute
-version: 0.0.0
+version: 0.0.1
 
 # List of groups dataset belongs (see groups.yml) Optional.
 group_ids: [densmore]
@@ -89,79 +89,79 @@ issues:
 # Catafolk options
 # —————————————————————————————————————————————————————————————————
 
-sources:
-  - name: file
-    type: file
-    file_pattern: data/*.krn
-    exclude: [Duplication_of_No_39]
-    id_transformations: 
-    - operation: map_values
-      inputs: [OTL]
-      outputs: [song_num]
-      params:
-        mapping:
-          Rudimentary Song (a): No_111
-          Rudimentary Song B: No_112
-          Rudimentary Song C: No_113
-          Rudimentary Song D: No_114
-          Untitled Game Song: No_115
-        regex: false
-        return_missing: True
-    - operation: extract_groups
-      inputs: [song_num]
-      outputs: [source_song_num]
-      params:
-        pattern: No_+(\d+).*
-        groups: [1]
-    - [format, source_song_num, new_id, {pattern: "ute{:0>3}"}]
-  - name: meta
-    type: csv
-    path: additional-metadata.csv
-    id_field: id
+# sources:
+#   - name: file
+#     type: file
+#     file_pattern: data/*.krn
+#     exclude: [Duplication_of_No_39]
+#     id_transformations: 
+#     - operation: map_values
+#       inputs: [OTL]
+#       outputs: [song_num]
+#       params:
+#         mapping:
+#           Rudimentary Song (a): No_111
+#           Rudimentary Song B: No_112
+#           Rudimentary Song C: No_113
+#           Rudimentary Song D: No_114
+#           Untitled Game Song: No_115
+#         regex: false
+#         return_missing: True
+#     - operation: extract_groups
+#       inputs: [song_num]
+#       outputs: [source_song_num]
+#       params:
+#         pattern: No_+(\d+).*
+#         groups: [1]
+#     - [format, source_song_num, new_id, {pattern: "ute{:0>3}"}]
+#   - name: meta
+#     type: csv
+#     path: additional-metadata.csv
+#     id_field: id
     
 transformations:
   
   # General 
   # —————————————————————————————————————————————————————————————————
-  - constant: [dataset_id, densmore-northern-ute]
-  - to_string_list: [file.SUPERFUNCTION, genres]
-  - to_json_object:
-    - [file.LANG, file.LING_GROUP, file.SOCIAL_FUNCTION, meta.genre]
-    - other_fields
-    - keys: [lang, ling_group, social_function, genre]
-  - rename: [meta.comments, comments]
-  - rename: [meta.analysis, description]
+  # - constant: [dataset_id, densmore-northern-ute]
+  # - to_string_list: [file.SUPERFUNCTION, genres]
+  # - to_json_object:
+  #   - [file.LANG, file.LING_GROUP, file.SOCIAL_FUNCTION, meta.genre]
+  #   - other_fields
+  #   - keys: [lang, ling_group, social_function, genre]
+  # - rename: [meta.comments, comments]
+  # - rename: [meta.analysis, description]
   # warnings
   
 
   # File 
   # —————————————————————————————————————————————————————————————————
-  - rename: [file.cf_path, file_path]
-  - rename: [file.cf_format, file_format]
-  - rename: [file.cf_checksum, file_checksum]
-  - constant: [file_has_music, true]
-  - constant: [file_has_lyrics, false]
-  - constant: [file_has_license, false]
-  - format: 
-    - file.cf_name
-    - file_url
-    - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/northern_ute/{}.krn
+  # - rename: [file.cf_path, file_path]
+  # - rename: [file.cf_format, file_format]
+  # - rename: [file.cf_checksum, file_checksum]
+  # - constant: [file_has_music, true]
+  # - constant: [file_has_lyrics, false]
+  # - constant: [file_has_license, false]
+  # - format: 
+  #   - file.cf_name
+  #   - file_url
+  #   - pattern: https://github.com/shanahdt/densmore/blob/master/Densmore/northern_ute/{}.krn
   # file_preview_url
 
 
   # Collection 
   # —————————————————————————————————————————————————————————————————
-  - constant: [collectors, Frances Densmore]
-  - constant: [collection_date_earliest, 1914]
-  - constant: [collection_date_latests, 1916]
+  # - constant: [collectors, Frances Densmore]
+  # - constant: [collection_date_earliest, 1914]
+  # - constant: [collection_date_latests, 1916]
   # collection_date 
 
 
   # Culture
   # —————————————————————————————————————————————————————————————————
-  - constant: [culture, Ute]
-  - rename: [meta.culture_dplace_id, culture_dplace_id] 
-  - constant: [culture_hraf_id, NT19]
+  # - constant: [culture, Ute]
+  # - rename: [meta.culture_dplace_id, culture_dplace_id] 
+  # - constant: [culture_hraf_id, NT19]
 
 
   # Encoding
@@ -176,22 +176,22 @@ transformations:
 
   # Location
   # —————————————————————————————————————————————————————————————————
-  - constant: [location, Whiterocks, Utah]
-  - constant: [latitude, 40.4675]
-  - constant: [longitude, -109.929722]
-  - constant: [auto_geocoded, false]
+  # - constant: [location, Whiterocks, Utah]
+  # - constant: [latitude, 40.4675]
+  # - constant: [longitude, -109.929722]
+  # - constant: [auto_geocoded, false]
 
   # Lyrics
   # —————————————————————————————————————————————————————————————————
-  - operation: extract_groups
-    inputs: [file.OTL]
-    outputs: [title_underscore]
-    params:
-      pattern: (No_+\d+_)?([^\.]+)(.krn)?
-      groups: [2]
-  - replace: [title_underscore, title, {old: _, new: " "}]
-  - constant: [language, Ute]
-  - constant: [glottolog_id, utee1244]
+  # - operation: extract_groups
+  #   inputs: [file.OTL]
+  #   outputs: [title_underscore]
+  #   params:
+  #     pattern: (No_+\d+_)?([^\.]+)(.krn)?
+  #     groups: [2]
+  # - replace: [title_underscore, title, {old: _, new: " "}]
+  # - constant: [language, Ute]
+  # - constant: [glottolog_id, utee1244]
   # title_translation
   # lyrics
   # lyrics_translation
@@ -199,10 +199,10 @@ transformations:
 
   # Music
   # —————————————————————————————————————————————————————————————————
-  - rename: [meta.tonality, tonality]
-  - rename: [meta.bpm, tempo] 
-  - rename: [meta.beat_duration, beat_duration]
-  - rename: [meta.meters, meters]
+  # - rename: [meta.tonality, tonality]
+  # - rename: [meta.bpm, tempo] 
+  # - rename: [meta.beat_duration, beat_duration]
+  # - rename: [meta.meters, meters]
   # scale
   # ambitus
   # metric_classification
@@ -211,30 +211,30 @@ transformations:
 
   # Performance
   # —————————————————————————————————————————————————————————————————
-  - rename: [meta.performers, performers]
-  - rename: [meta.performer_genders, performer_genders]
-  - rename: [meta.instrumentation, instrumentation]
-  - rename: [meta.instrument_use, instrument_use]
-  - rename: [meta.percussion_use, percussion_use]
-  - rename: [meta.voice_use, voice_use]
+  # - rename: [meta.performers, performers]
+  # - rename: [meta.performer_genders, performer_genders]
+  # - rename: [meta.instrumentation, instrumentation]
+  # - rename: [meta.instrument_use, instrument_use]
+  # - rename: [meta.percussion_use, percussion_use]
+  # - rename: [meta.voice_use, voice_use]
   
   
   # Publication
   # —————————————————————————————————————————————————————————————————
-  - constant: [publication_key, densmore1922ute]
-  - [[to_int, to_string], meta.song_num, publication_song_num]
-  - rename: [meta.page_num, publication_page_num]
-  - [[to_int, to_string], meta.catalogue_num, catalogue_num]
-  - constant: [publication_type, book]
-  - constant: [publiation_title, Northern Ute Music]
-  - constant: [publication_authors, Frances Densmore]
-  - constant: [publication_date, 1922]
-  - operations: [to_int, format]
-    inputs: [publication_page_num]
-    outputs: [publication_preview_url]
-    params:
-    - {}
-    - pattern: https://books.google.nl/books?id=fEhAAAAAYAAJ&hl=nl&pg=PA{}
+  # - constant: [publication_key, densmore1922ute]
+  # - [[to_int, to_string], meta.song_num, publication_song_num]
+  # - rename: [meta.page_num, publication_page_num]
+  # - [[to_int, to_string], meta.catalogue_num, catalogue_num]
+  # - constant: [publication_type, book]
+  # - constant: [publiation_title, Northern Ute Music]
+  # - constant: [publication_authors, Frances Densmore]
+  # - constant: [publication_date, 1922]
+  # - operations: [to_int, format]
+  #   inputs: [publication_page_num]
+  #   outputs: [publication_preview_url]
+  #   params:
+  #   - {}
+  #   - pattern: https://books.google.nl/books?id=fEhAAAAAYAAJ&hl=nl&pg=PA{}
   
   # Mixed
   # —————————————————————————————————————————————————————————————————
