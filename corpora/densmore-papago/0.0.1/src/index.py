@@ -48,11 +48,7 @@ class DensmorePapagoEntry(IndexEntry):
         location="meta.location",
         latitude="meta.latitude",
         longitude="meta.longitude",
-        # description="meta.analysis",
-        # culture_dplace_id="meta.culture_dplace_id",
-        # catalogue_num="meta.catalogue_num",
         tonality="meta.tonality",
-        # tempo="meta.bpm",
         beat_duration="meta.beat_duration",
         meters="meta.meters",
         performers="meta.performers",
@@ -71,9 +67,6 @@ class DensmorePapagoEntry(IndexEntry):
     used_fields = [
         "file.OTL",
         "file.PDT",
-        # "file._comments",
-        # "file.SUPERFUNCTION",
-        # "meta.title",
         "meta.comments",
         "meta.catalogue_num"
         "meta.location",
