@@ -34,6 +34,7 @@ class DensmoreNootkaEntry(IndexEntry):
         auto_geocoded=False,
         voice_use=True,
         publication_key="densmore1939nootka",
+        publication_title="Nootka and Quileute Music",
         publication_type="book",
         publication_authors="Frances Densmore",
         publication_date=1939,
