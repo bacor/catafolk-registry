@@ -84,6 +84,7 @@ if __name__ == "__main__":
         # 'densmore-papago',
         # 'densmore-pawnee'
         # 'densmore-pueblo'
-        'densmore-teton-sioux'
+        # 'densmore-teton-sioux'
+        'erk-deutscher-liederhort'
     ]
     generate_indices(include_corpora=corpora)
