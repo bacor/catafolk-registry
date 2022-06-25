@@ -39,8 +39,7 @@ sioux001:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "1/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -56,7 +55,7 @@ sioux001:
   tempo: null
   title: Song of the White Buffalo Maiden
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -102,8 +101,7 @@ sioux002:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "2/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -119,7 +117,7 @@ sioux002:
   tempo: null
   title: Song of Pretended Search
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -165,8 +163,7 @@ sioux003:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "3/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -182,7 +179,7 @@ sioux003:
   tempo: null
   title: Ceremonial Song
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -228,8 +225,7 @@ sioux004:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "4/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -245,7 +241,7 @@ sioux004:
   tempo: null
   title: Song for Securing Fair Weather
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -291,8 +287,7 @@ sioux005:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "5/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -308,7 +303,7 @@ sioux005:
   tempo: null
   title: We Are Coming
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -354,8 +349,7 @@ sioux006:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "6/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -371,7 +365,7 @@ sioux006:
   tempo: null
   title: Song of the Braves' dance
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -417,8 +411,7 @@ sioux007:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "7/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -434,7 +427,7 @@ sioux007:
   tempo: null
   title: With Dauntless Courage
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -480,8 +473,7 @@ sioux008:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "8/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -497,7 +489,7 @@ sioux008:
   tempo: null
   title: The Many Lands You Fear
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -543,8 +535,7 @@ sioux009:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "9/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -560,7 +551,7 @@ sioux009:
   tempo: null
   title: Song of the Departure of the Young Men
   title_translation: null
-  tonality: null
+  tonality: Ab major
   tune_family_id: null
   version: null
   voice_use: null
@@ -606,8 +597,7 @@ sioux010:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "10/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -623,7 +613,7 @@ sioux010:
   tempo: null
   title: Song of the Return of the Young Men
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -669,8 +659,7 @@ sioux011:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "11/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -686,7 +675,7 @@ sioux011:
   tempo: null
   title: Song of Cutting the Sacred Pole
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -732,8 +721,7 @@ sioux012:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "12/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -749,7 +737,7 @@ sioux012:
   tempo: null
   title: Song of Victory over the Sacred Pole
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -795,8 +783,7 @@ sioux013:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "13/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -812,7 +799,7 @@ sioux013:
   tempo: null
   title: Song of Painting the Sacred Pole
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -858,8 +845,7 @@ sioux014:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "14/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -875,7 +861,7 @@ sioux014:
   tempo: null
   title: Song Sung after Raising the Sacred Pole (a)
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -921,8 +907,7 @@ sioux015:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "15/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -938,7 +923,7 @@ sioux015:
   tempo: null
   title: Song Sung after Raising the Sacred Pole (b)
   title_translation: null
-  tonality: null
+  tonality: D flat major
   tune_family_id: null
   version: null
   voice_use: null
@@ -984,8 +969,7 @@ sioux016:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "16/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -1001,7 +985,7 @@ sioux016:
   tempo: null
   title: Song Sung after Raising the Sacred Pole (c)
   title_translation: null
-  tonality: null
+  tonality: C# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1047,8 +1031,7 @@ sioux017:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "17/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1064,7 +1047,7 @@ sioux017:
   tempo: null
   title: Song of Preparing the Sacred Place
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1110,8 +1093,7 @@ sioux018:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "18/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -1127,7 +1109,7 @@ sioux018:
   tempo: null
   title: Song of Final Visit to the Vapor Lodge
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1173,8 +1155,7 @@ sioux019:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "19/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -1190,7 +1171,7 @@ sioux019:
   tempo: null
   title: Opening Song of the Sun Dance (a)
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1236,8 +1217,7 @@ sioux020:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "20/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1253,7 +1233,7 @@ sioux020:
   tempo: null
   title: Opening Song of the Sun Dance (b)
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1299,8 +1279,7 @@ sioux021:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "21/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1316,7 +1295,7 @@ sioux021:
   tempo: null
   title: Opening Prayer of the Sun Dance
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1362,8 +1341,7 @@ sioux022:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "22/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tashi'naska'wing (White Robe)
@@ -1379,7 +1357,7 @@ sioux022:
   tempo: null
   title: Wakangtangka, Pity Me
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1425,8 +1403,7 @@ sioux023:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "23/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1442,7 +1419,7 @@ sioux023:
   tempo: null
   title: Song of Lamentation
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1488,8 +1465,7 @@ sioux024:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "24/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1505,7 +1481,7 @@ sioux024:
   tempo: null
   title: Noon Song
   title_translation: null
-  tonality: null
+  tonality: Ab major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1551,8 +1527,7 @@ sioux025:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "25/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1568,7 +1543,7 @@ sioux025:
   tempo: null
   title: Song Concerning the Sun and Moon
   title_translation: null
-  tonality: null
+  tonality: Gb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1614,8 +1589,7 @@ sioux026:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "26/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1631,7 +1605,7 @@ sioux026:
   tempo: null
   title: Wakangtangka Hears Me
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1677,8 +1651,7 @@ sioux027:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "27/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1694,7 +1667,7 @@ sioux027:
   tempo: null
   title: Black Face-paint He Grants Me
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1740,8 +1713,7 @@ sioux028:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "28/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1757,7 +1729,7 @@ sioux028:
   tempo: null
   title: I Have Conquered Them
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1803,8 +1775,7 @@ sioux029:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "29/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1820,7 +1791,7 @@ sioux029:
   tempo: null
   title: Dancing Song (a)
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1866,8 +1837,7 @@ sioux030:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "30/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1883,7 +1853,7 @@ sioux030:
   tempo: null
   title: Dancing Song (b)
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -1929,8 +1899,7 @@ sioux031:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "31/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1946,7 +1915,7 @@ sioux031:
   tempo: null
   title: Dancing Song (c)
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -1992,8 +1961,7 @@ sioux032:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "32/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2009,7 +1977,7 @@ sioux032:
   tempo: null
   title: Dancing Song (d)
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2055,8 +2023,7 @@ sioux033:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "33/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2072,7 +2039,7 @@ sioux033:
   tempo: null
   title: Dancing Song (e)
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2118,8 +2085,7 @@ sioux034:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "34/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2135,7 +2101,7 @@ sioux034:
   tempo: null
   title: Dancing Song (f)
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2181,8 +2147,7 @@ sioux035:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "35/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2198,7 +2163,7 @@ sioux035:
   tempo: null
   title: Dancing Song (g)
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2244,8 +2209,7 @@ sioux036:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "36/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -2261,7 +2225,7 @@ sioux036:
   tempo: null
   title: Song at Sunrise
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2307,8 +2271,7 @@ sioux037:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "37/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2324,7 +2287,7 @@ sioux037:
   tempo: null
   title: The Horsemen in the Cloud
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2370,8 +2333,7 @@ sioux038:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "38/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2387,7 +2349,7 @@ sioux038:
   tempo: null
   title: Before the Gathering of the Clouds
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2433,8 +2395,7 @@ sioux039:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "39/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2450,7 +2411,7 @@ sioux039:
   tempo: null
   title: Song in Time of Danger
   title_translation: null
-  tonality: null
+  tonality: Db major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2496,8 +2457,7 @@ sioux040:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "40/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2513,7 +2473,7 @@ sioux040:
   tempo: null
   title: Song Concerning a Dream of the Thunderbirds
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2559,8 +2519,7 @@ sioux041:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "41/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2576,7 +2535,7 @@ sioux041:
   tempo: null
   title: A Wind
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2622,8 +2581,7 @@ sioux042:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "42/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2639,7 +2597,7 @@ sioux042:
   tempo: null
   title: In a Sacred Manner I Return
   title_translation: null
-  tonality: null
+  tonality: Db major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2685,8 +2643,7 @@ sioux043:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "43/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -2702,7 +2659,7 @@ sioux043:
   tempo: null
   title: The Thunderbird Nation
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2748,8 +2705,7 @@ sioux044:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "44/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2765,7 +2721,7 @@ sioux044:
   tempo: null
   title: A Buffalo Said to Me
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2811,8 +2767,7 @@ sioux045:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "45/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2828,7 +2783,7 @@ sioux045:
   tempo: null
   title: Weapon Song
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2874,8 +2829,7 @@ sioux046:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "46/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2891,7 +2845,7 @@ sioux046:
   tempo: null
   title: Song of the Elks
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -2937,8 +2891,7 @@ sioux047:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "47/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2954,7 +2907,7 @@ sioux047:
   tempo: null
   title: Owls Hooting
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3000,8 +2953,7 @@ sioux048:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "48/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3017,7 +2969,7 @@ sioux048:
   tempo: null
   title: Song of the Young Wolves
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3063,8 +3015,7 @@ sioux049:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "49/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3080,7 +3031,7 @@ sioux049:
   tempo: null
   title: Song of the Old Wolf
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3126,8 +3077,7 @@ sioux050:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "50/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3143,7 +3093,7 @@ sioux050:
   tempo: null
   title: Song of the Crow and Owl
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3189,8 +3139,7 @@ sioux051:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "51/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3206,7 +3155,7 @@ sioux051:
   tempo: null
   title: Where the Wind Is Blowing
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3252,8 +3201,7 @@ sioux052:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "52/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -3269,7 +3217,7 @@ sioux052:
   tempo: null
   title: I Made It Walk
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3315,8 +3263,7 @@ sioux053:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "53/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -3332,7 +3279,7 @@ sioux053:
   tempo: null
   title: Song of a Wolf
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3378,8 +3325,7 @@ sioux054:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "54/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -3395,7 +3341,7 @@ sioux054:
   tempo: null
   title: Toward Them I Walk
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3441,8 +3387,7 @@ sioux055:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "55/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3458,7 +3403,7 @@ sioux055:
   tempo: null
   title: An Eagle Nation Is Coming
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3504,8 +3449,7 @@ sioux056:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "56/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3521,7 +3465,7 @@ sioux056:
   tempo: null
   title: A Blacktail Deer
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3567,8 +3511,7 @@ sioux057:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "57/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -3584,7 +3527,7 @@ sioux057:
   tempo: null
   title: A Bear Said This
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3630,8 +3573,7 @@ sioux058:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "58/245"}'
+  other_fields: '{"contour_class": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3647,7 +3589,7 @@ sioux058:
   tempo: null
   title: He Comes to Attack
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3693,8 +3635,7 @@ sioux059:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "59/245"}'
+  other_fields: '{"contour_class": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -3710,7 +3651,7 @@ sioux059:
   tempo: null
   title: May You Behold a Sacred Stone Nation
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3756,8 +3697,7 @@ sioux060:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "60/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-kuwa (Chased-by-Bears)
@@ -3773,7 +3713,7 @@ sioux060:
   tempo: null
   title: The Sacred Stones Come to See You
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3819,8 +3759,7 @@ sioux061:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "61/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -3836,7 +3775,7 @@ sioux061:
   tempo: null
   title: I Sing for the Animals
   title_translation: null
-  tonality: null
+  tonality: Gb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3882,8 +3821,7 @@ sioux062:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "62/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -3899,7 +3837,7 @@ sioux062:
   tempo: null
   title: My Horse
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -3945,8 +3883,7 @@ sioux063:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "63/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3962,7 +3899,7 @@ sioux063:
   tempo: null
   title: Worthy of Reverence
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4008,8 +3945,7 @@ sioux064:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "64/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4025,7 +3961,7 @@ sioux064:
   tempo: null
   title: A Sacred Stone Nation Is Speaking
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4071,8 +4007,7 @@ sioux065:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "65/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4088,7 +4023,7 @@ sioux065:
   tempo: null
   title: They Move With a Purpose
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4134,8 +4069,7 @@ sioux066:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "66/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4151,7 +4085,7 @@ sioux066:
   tempo: null
   title: From Everywhere They Come
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4197,8 +4131,7 @@ sioux067:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "67/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -4214,7 +4147,7 @@ sioux067:
   tempo: null
   title: A Wolf Nation Called Me `Father'
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4260,8 +4193,7 @@ sioux068:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "68/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -4277,7 +4209,7 @@ sioux068:
   tempo: null
   title: I Have Caused Them to Roam
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4323,8 +4255,7 @@ sioux069:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "69/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wamni'yomni-ho'ta (Gray Whirlwind)
@@ -4340,7 +4271,7 @@ sioux069:
   tempo: null
   title: These Are My Spies
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4386,8 +4317,7 @@ sioux070:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "70/245"}'
+  other_fields: '{"contour_class": "D,A"}'
   percussion_use: null
   performer_genders: null
   performers: Wamni'yomni-ho'ta (Gray Whirlwind)
@@ -4403,7 +4333,7 @@ sioux070:
   tempo: null
   title: I Am Required to Roam
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4449,8 +4379,7 @@ sioux071:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "71/245"}'
+  other_fields: '{"contour_class": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -4466,7 +4395,7 @@ sioux071:
   tempo: null
   title: Father, Behold Me
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4512,8 +4441,7 @@ sioux072:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "72/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -4529,7 +4457,7 @@ sioux072:
   tempo: null
   title: I Was Ordered to Return
   title_translation: null
-  tonality: null
+  tonality: Db minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4575,8 +4503,7 @@ sioux073:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "73/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4592,7 +4519,7 @@ sioux073:
   tempo: null
   title: Father, Sing to Me
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4638,8 +4565,7 @@ sioux074:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "74/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4655,7 +4581,7 @@ sioux074:
   tempo: null
   title: A Spirit Has Come
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4701,8 +4627,7 @@ sioux075:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "75/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4718,7 +4643,7 @@ sioux075:
   tempo: null
   title: From Whence the Winds Blow
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4764,8 +4689,7 @@ sioux076:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "76/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4781,7 +4705,7 @@ sioux076:
   tempo: null
   title: Something I Foretold
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4827,8 +4751,7 @@ sioux077:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "77/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -4844,7 +4767,7 @@ sioux077:
   tempo: null
   title: In a Sacred Manner I Live
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4890,8 +4813,7 @@ sioux078:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "78/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -4907,7 +4829,7 @@ sioux078:
   tempo: null
   title: A Voice I Sent
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4953,8 +4875,7 @@ sioux079:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "79/245"}'
+  other_fields: '{"contour_class": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -4970,7 +4891,7 @@ sioux079:
   tempo: null
   title: The Sunrise
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5016,8 +4937,7 @@ sioux080:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "80/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -5033,7 +4953,7 @@ sioux080:
   tempo: null
   title: Behold the Dawn
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5079,8 +4999,7 @@ sioux081:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "81/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5096,7 +5015,7 @@ sioux081:
   tempo: null
   title: Behold All These Things
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5142,8 +5061,7 @@ sioux082:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "82/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5159,7 +5077,7 @@ sioux082:
   tempo: null
   title: I Am Sitting
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5205,8 +5123,7 @@ sioux083:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "83/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5222,7 +5139,7 @@ sioux083:
   tempo: null
   title: We Will Eat
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5268,8 +5185,7 @@ sioux084:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "84/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5285,7 +5201,7 @@ sioux084:
   tempo: null
   title: These Are Good
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5331,8 +5247,7 @@ sioux085:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "85/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5348,7 +5263,7 @@ sioux085:
   tempo: null
   title: You Will Walk
   title_translation: null
-  tonality: null
+  tonality: Ab major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5394,8 +5309,7 @@ sioux086:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "86/245"}'
+  other_fields: '{"contour_class": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5411,7 +5325,7 @@ sioux086:
   tempo: null
   title: Song Preceding Treatment of Fractures
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5457,8 +5371,7 @@ sioux087:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "87/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5474,7 +5387,7 @@ sioux087:
   tempo: null
   title: An Appeal to the Bear
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5520,8 +5433,7 @@ sioux088:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "88/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5537,7 +5449,7 @@ sioux088:
   tempo: null
   title: Song of the Bear
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5583,8 +5495,7 @@ sioux089:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "89/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5600,7 +5511,7 @@ sioux089:
   tempo: null
   title: Bear Told Me
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5646,8 +5557,7 @@ sioux090:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "90/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'nape'ska (Bear-with-White-Paw)
@@ -5663,7 +5573,7 @@ sioux090:
   tempo: null
   title: Song of Healing
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5709,8 +5619,7 @@ sioux091:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "91/245"}'
+  other_fields: '{"contour_class": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -5726,7 +5635,7 @@ sioux091:
   tempo: null
   title: Sitting Bull's Medicine Song (a)
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5772,8 +5681,7 @@ sioux092:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "92/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -5789,7 +5697,7 @@ sioux092:
   tempo: null
   title: Sitting Bull's Medicine Song (b)
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5835,8 +5743,7 @@ sioux093:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "93/245"}'
+  other_fields: '{"contour_class": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -5852,7 +5759,7 @@ sioux093:
   tempo: null
   title: A Wind from the North
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5898,8 +5805,7 @@ sioux094:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "94/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -5915,7 +5821,7 @@ sioux094:
   tempo: null
   title: May This Be the Day
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -5961,8 +5867,7 @@ sioux095:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "95/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wakang'-chika'na (Little Conjuror)
@@ -5978,7 +5883,7 @@ sioux095:
   tempo: null
   title: Northward They Are Walking
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6024,8 +5929,7 @@ sioux096:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "96/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Wakang'-chika'na (Little Conjuror)
@@ -6041,7 +5945,7 @@ sioux096:
   tempo: null
   title: My Goal
   title_translation: null
-  tonality: null
+  tonality: Gb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6087,8 +5991,7 @@ sioux097:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "97/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -6104,7 +6007,7 @@ sioux097:
   tempo: null
   title: In the North
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6150,8 +6053,7 @@ sioux098:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "98/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6167,7 +6069,7 @@ sioux098:
   tempo: null
   title: Their Votes Could Be Heard
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6213,8 +6115,7 @@ sioux099:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "99/245"}'
+  other_fields: '{"contour_class": "D,E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6230,7 +6131,7 @@ sioux099:
   tempo: null
   title: Against the Wind
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6276,8 +6177,7 @@ sioux100:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "100/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6293,7 +6193,7 @@ sioux100:
   tempo: null
   title: I Come
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6339,8 +6239,7 @@ sioux101:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "101/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6356,7 +6255,7 @@ sioux101:
   tempo: null
   title: Buffalo Society Song (a)
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6402,8 +6301,7 @@ sioux102:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "102/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6419,7 +6317,7 @@ sioux102:
   tempo: null
   title: Buffalo Society Song (b)
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6465,8 +6363,7 @@ sioux103:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "103/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -6482,7 +6379,7 @@ sioux103:
   tempo: null
   title: Buffalo Society Song (c)
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6528,8 +6425,7 @@ sioux104:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "104/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -6545,7 +6441,7 @@ sioux104:
   tempo: null
   title: Song of the Elk Society
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6591,8 +6487,7 @@ sioux105:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "105/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -6608,7 +6503,7 @@ sioux105:
   tempo: null
   title: Something Sacred I Wear
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6654,8 +6549,7 @@ sioux106:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "106/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -6671,7 +6565,7 @@ sioux106:
   tempo: null
   title: My Life Is Such
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6717,8 +6611,7 @@ sioux107:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "107/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -6734,7 +6627,7 @@ sioux107:
   tempo: null
   title: An Elk Am I
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -6780,8 +6673,7 @@ sioux108:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "108/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6797,7 +6689,7 @@ sioux108:
   tempo: null
   title: My Horse Flies like a Bird
   title_translation: null
-  tonality: null
+  tonality: irregular
   tune_family_id: null
   version: null
   voice_use: null
@@ -6843,8 +6735,7 @@ sioux109:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "109/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6860,7 +6751,7 @@ sioux109:
   tempo: null
   title: When a Horse Neighs
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6906,8 +6797,7 @@ sioux110:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "110/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6923,7 +6813,7 @@ sioux110:
   tempo: null
   title: Horses Are Coming
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -6969,8 +6859,7 @@ sioux111:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "111/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -6986,7 +6875,7 @@ sioux111:
   tempo: null
   title: Prancing They Come
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7032,8 +6921,7 @@ sioux112:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "112/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -7049,7 +6937,7 @@ sioux112:
   tempo: null
   title: Chasing, They Walked
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7095,8 +6983,7 @@ sioux113:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "113/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -7112,7 +6999,7 @@ sioux113:
   tempo: null
   title: A Root of Herb
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7158,8 +7045,7 @@ sioux114:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "114/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-aki'chita (Bear Soldier)
@@ -7175,7 +7061,7 @@ sioux114:
   tempo: null
   title: Song of the Fox Society (a)
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7221,8 +7107,7 @@ sioux115:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "115/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -7238,7 +7123,7 @@ sioux115:
   tempo: null
   title: Song of the Fox Society (b)
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7284,8 +7169,7 @@ sioux116:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "116/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -7301,7 +7185,7 @@ sioux116:
   tempo: null
   title: Song of the Strong Heart Society (a)
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7347,8 +7231,7 @@ sioux117:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "117/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7364,7 +7247,7 @@ sioux117:
   tempo: null
   title: Song of the Strong Heart Society (b)
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7410,8 +7293,7 @@ sioux118:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "118/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7427,7 +7309,7 @@ sioux118:
   tempo: null
   title: Song of the Strong Heart Society (c)
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7473,8 +7355,7 @@ sioux119:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "119/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7490,7 +7371,7 @@ sioux119:
   tempo: null
   title: Song of the Strong Heart Society (d)
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7536,8 +7417,7 @@ sioux120:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "120/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7553,7 +7433,7 @@ sioux120:
   tempo: null
   title: Song of the Badger Society (a)
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7599,8 +7479,7 @@ sioux121:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "121/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7616,7 +7495,7 @@ sioux121:
   tempo: null
   title: Song of the Badger Society (b)
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7662,8 +7541,7 @@ sioux122:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "122/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -7679,7 +7557,7 @@ sioux122:
   tempo: null
   title: Ceremonial Song of the Miwatani
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7725,8 +7603,7 @@ sioux123:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "123/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7742,7 +7619,7 @@ sioux123:
   tempo: null
   title: Song of the White Horse Riders (a)
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7788,8 +7665,7 @@ sioux124:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "124/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7805,7 +7681,7 @@ sioux124:
   tempo: null
   title: Song of the White Horse Riders (b)
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -7851,8 +7727,7 @@ sioux125a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "126/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7868,7 +7743,7 @@ sioux125a:
   tempo: null
   title: Those Are Not My Interest
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7914,8 +7789,7 @@ sioux125b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "126/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7931,7 +7805,7 @@ sioux125b:
   tempo: null
   title: Those Are Not My Interest
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7977,8 +7851,7 @@ sioux126:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "127/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -7994,7 +7867,7 @@ sioux126:
   tempo: null
   title: Like a Wolf I Roam
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8040,8 +7913,7 @@ sioux127:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "128/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8057,7 +7929,7 @@ sioux127:
   tempo: null
   title: Watch Your Horses
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8103,8 +7975,7 @@ sioux128:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "129/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8120,7 +7991,7 @@ sioux128:
   tempo: null
   title: Friends, Go On
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8166,8 +8037,7 @@ sioux129:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "130/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -8183,7 +8053,7 @@ sioux129:
   tempo: null
   title: A Wolf I Considered Myself
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8229,8 +8099,7 @@ sioux130:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "131/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8246,7 +8115,7 @@ sioux130:
   tempo: null
   title: Adventures I Seek
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8292,8 +8161,7 @@ sioux131:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "132/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8309,7 +8177,7 @@ sioux131:
   tempo: null
   title: His Horses He Granted Me
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8355,8 +8223,7 @@ sioux132a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "134/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8372,7 +8239,7 @@ sioux132a:
   tempo: null
   title: Those Hills I Trod Upon
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8418,8 +8285,7 @@ sioux132b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "133/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8435,7 +8301,7 @@ sioux132b:
   tempo: null
   title: Those Hills I Trod Upon
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8481,8 +8347,7 @@ sioux132c:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "135/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8498,7 +8363,7 @@ sioux132c:
   tempo: null
   title: Those Hills I Trod Upon
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8544,8 +8409,7 @@ sioux133a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "137/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8561,7 +8425,7 @@ sioux133a:
   tempo: null
   title: Wolf Song
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8607,8 +8471,7 @@ sioux133b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "136/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8624,7 +8487,7 @@ sioux133b:
   tempo: null
   title: Wolf Song
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8670,8 +8533,7 @@ sioux134:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "138/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -8687,7 +8549,7 @@ sioux134:
   tempo: null
   title: It Is Difficult
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8733,8 +8595,7 @@ sioux135:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "139/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -8750,7 +8611,7 @@ sioux135:
   tempo: null
   title: Song of the Camp
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8796,8 +8657,7 @@ sioux136:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "140/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -8813,7 +8673,7 @@ sioux136:
   tempo: null
   title: Clear the Way, I Come
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8859,8 +8719,7 @@ sioux137:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "141/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -8876,7 +8735,7 @@ sioux137:
   tempo: null
   title: At the Wind Center I Stand
   title_translation: null
-  tonality: null
+  tonality: C major
   tune_family_id: null
   version: null
   voice_use: null
@@ -8922,8 +8781,7 @@ sioux138:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "142/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -8939,7 +8797,7 @@ sioux138:
   tempo: null
   title: Song Concerning War Paint
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -8985,8 +8843,7 @@ sioux139:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "143/245"}'
+  other_fields: '{"contour_class": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -9002,7 +8859,7 @@ sioux139:
   tempo: null
   title: Tremble, O Tribe of the Enemy
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9048,8 +8905,7 @@ sioux140:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "144/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -9065,7 +8921,7 @@ sioux140:
   tempo: null
   title: Behold My Horse
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9111,8 +8967,7 @@ sioux141:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "145/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9128,7 +8983,7 @@ sioux141:
   tempo: null
   title: See My Desire
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9174,8 +9029,7 @@ sioux142:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "146/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9191,7 +9045,7 @@ sioux142:
   tempo: null
   title: The Earth Only Endures
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9237,8 +9091,7 @@ sioux143:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "147/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9254,7 +9107,7 @@ sioux143:
   tempo: null
   title: Tell Her
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9300,8 +9153,7 @@ sioux144:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "148/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -9317,7 +9169,7 @@ sioux144:
   tempo: null
   title: She Stands There Smiling
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -9363,8 +9215,7 @@ sioux145:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "149/245"}'
+  other_fields: '{"contour_class": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9380,7 +9231,7 @@ sioux145:
   tempo: null
   title: Horses I Am Bringing
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9426,8 +9277,7 @@ sioux146:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "150/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Maka'-pezhu'tawing (Earth-Medicine Woman)
@@ -9443,7 +9293,7 @@ sioux146:
   tempo: null
   title: He Is Returning
   title_translation: null
-  tonality: null
+  tonality: C# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9489,8 +9339,7 @@ sioux147:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "151/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chanku'lawing (Ms. Lawrence)
@@ -9506,7 +9355,7 @@ sioux147:
   tempo: null
   title: Song Concerning White Butterfly
   title_translation: null
-  tonality: null
+  tonality: C# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9552,8 +9401,7 @@ sioux148:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "152/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chanku'lawing (Ms. Lawrence)
@@ -9569,7 +9417,7 @@ sioux148:
   tempo: null
   title: He Lies Over There
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9615,8 +9463,7 @@ sioux149:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "153/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -9632,7 +9479,7 @@ sioux149:
   tempo: null
   title: Learn the Songs of Victory
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9678,8 +9525,7 @@ sioux150:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "154/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -9695,7 +9541,7 @@ sioux150:
   tempo: null
   title: Song in Honor of Onihang
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9741,8 +9587,7 @@ sioux151a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "156/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9758,7 +9603,7 @@ sioux151a:
   tempo: null
   title: You May Go on the Warpath
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -9804,8 +9649,7 @@ sioux151b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "155/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9821,7 +9665,7 @@ sioux151b:
   tempo: null
   title: When You Return
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -9867,8 +9711,7 @@ sioux152:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "157/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9884,7 +9727,7 @@ sioux152:
   tempo: null
   title: I Look for Him in Vain
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -9930,8 +9773,7 @@ sioux153:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "158/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -9947,7 +9789,7 @@ sioux153:
   tempo: null
   title: He Is Again Gone on the Warpath
   title_translation: null
-  tonality: null
+  tonality: F# major
   tune_family_id: null
   version: null
   voice_use: null
@@ -9993,8 +9835,7 @@ sioux154:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "159/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -10010,7 +9851,7 @@ sioux154:
   tempo: null
   title: You Should Give Up the Warpath
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10056,8 +9897,7 @@ sioux155:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "160/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toka'la-lu'ta (Red Fox)
@@ -10073,7 +9913,7 @@ sioux155:
   tempo: null
   title: Song of the Warpath
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10119,8 +9959,7 @@ sioux156:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "161/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10136,7 +9975,7 @@ sioux156:
   tempo: null
   title: May I Be There
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10182,8 +10021,7 @@ sioux157:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "162/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10199,7 +10037,7 @@ sioux157:
   tempo: null
   title: A Prairie Fire
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10245,8 +10083,7 @@ sioux158:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "163/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10262,7 +10099,7 @@ sioux158:
   tempo: null
   title: Song Concerning Sitting Crow
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10308,8 +10145,7 @@ sioux159:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "164/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10325,7 +10161,7 @@ sioux159:
   tempo: null
   title: A Spotted Horse
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10371,8 +10207,7 @@ sioux160:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "165/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10388,7 +10223,7 @@ sioux160:
   tempo: null
   title: Owls Hoot At Me
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10434,8 +10269,7 @@ sioux161:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "166/245"}'
+  other_fields: '{"contour_class": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10451,7 +10285,7 @@ sioux161:
   tempo: null
   title: I Wish to Roam
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10497,8 +10331,7 @@ sioux162:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "167/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10514,7 +10347,7 @@ sioux162:
   tempo: null
   title: A Night Is Different
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10560,8 +10393,7 @@ sioux163:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "168/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10577,7 +10409,7 @@ sioux163:
   tempo: null
   title: I Am Bringing Horses
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10623,8 +10455,7 @@ sioux164:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "169/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10640,7 +10471,7 @@ sioux164:
   tempo: null
   title: Even the Eagle Dies
   title_translation: null
-  tonality: null
+  tonality: A major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10686,8 +10517,7 @@ sioux165:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "170/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10703,7 +10533,7 @@ sioux165:
   tempo: null
   title: I Took Courage
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -10749,8 +10579,7 @@ sioux166:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "171/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10766,7 +10595,7 @@ sioux166:
   tempo: null
   title: Captives I Am Bringing
   title_translation: null
-  tonality: null
+  tonality: irregular
   tune_family_id: null
   version: null
   voice_use: null
@@ -10812,8 +10641,7 @@ sioux167:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "172/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10829,7 +10657,7 @@ sioux167:
   tempo: null
   title: They Deserted Their Leader
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10875,8 +10703,7 @@ sioux168:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "173/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10892,7 +10719,7 @@ sioux168:
   tempo: null
   title: One of Them Will Be Killed
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -10938,8 +10765,7 @@ sioux169:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "174/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10955,7 +10781,7 @@ sioux169:
   tempo: null
   title: I Intend to Take His Horses
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11001,8 +10827,7 @@ sioux170:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "175/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11018,7 +10843,7 @@ sioux170:
   tempo: null
   title: It Is I, Myself
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -11064,8 +10889,7 @@ sioux171:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "176/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11081,7 +10905,7 @@ sioux171:
   tempo: null
   title: Horses I Seek
   title_translation: null
-  tonality: null
+  tonality: Ab major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11127,8 +10951,7 @@ sioux172:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "177/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11144,7 +10967,7 @@ sioux172:
   tempo: null
   title: When I Came You Cried
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -11190,8 +11013,7 @@ sioux173:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "178/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11207,7 +11029,7 @@ sioux173:
   tempo: null
   title: I Struck the Enemy
   title_translation: null
-  tonality: null
+  tonality: Ab major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11253,8 +11075,7 @@ sioux174:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "179/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11270,7 +11091,7 @@ sioux174:
   tempo: null
   title: I Come After Your Horses
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11316,8 +11137,7 @@ sioux175:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "180/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11333,7 +11153,7 @@ sioux175:
   tempo: null
   title: Two War Parties
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11379,8 +11199,7 @@ sioux176:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "181/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11396,7 +11215,7 @@ sioux176:
   tempo: null
   title: Sister, I Bring You a Horse
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11442,8 +11261,7 @@ sioux177:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "182/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11459,7 +11277,7 @@ sioux177:
   tempo: null
   title: Song of Self-reliance
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11505,8 +11323,7 @@ sioux178:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "183/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11522,7 +11339,7 @@ sioux178:
   tempo: null
   title: I Am the Fox
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -11568,8 +11385,7 @@ sioux179:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "184/245"}'
+  other_fields: '{"contour_class": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11585,7 +11401,7 @@ sioux179:
   tempo: null
   title: I Look for Them
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -11631,8 +11447,7 @@ sioux180:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "185/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11648,7 +11463,7 @@ sioux180:
   tempo: null
   title: Song of the Buffalo Hunt (a)
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11694,8 +11509,7 @@ sioux181:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "186/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11711,7 +11525,7 @@ sioux181:
   tempo: null
   title: Song of the Buffalo Hunt (b)
   title_translation: null
-  tonality: null
+  tonality: E major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11757,8 +11571,7 @@ sioux182:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "187/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -11774,7 +11587,7 @@ sioux182:
   tempo: null
   title: Song of the Buffalo Hunt (c)
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11820,8 +11633,7 @@ sioux183:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "188/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11837,7 +11649,7 @@ sioux183:
   tempo: null
   title: Song To Secure Buffalo in Time of Famine
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -11883,8 +11695,7 @@ sioux184:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "189/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -11900,7 +11711,7 @@ sioux184:
   tempo: null
   title: I Sing of the Dead Chiefs
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -11946,8 +11757,7 @@ sioux185:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "190/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11963,7 +11773,7 @@ sioux185:
   tempo: null
   title: I Fear Not
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12009,8 +11819,7 @@ sioux186:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "191/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12026,7 +11835,7 @@ sioux186:
   tempo: null
   title: I Wish To Do My Part
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12072,8 +11881,7 @@ sioux187:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "192/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12089,7 +11897,7 @@ sioux187:
   tempo: null
   title: His Customs I Adopted
   title_translation: null
-  tonality: null
+  tonality: F major
   tune_family_id: null
   version: null
   voice_use: null
@@ -12135,8 +11943,7 @@ sioux188:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "193/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -12152,7 +11959,7 @@ sioux188:
   tempo: null
   title: Song in Honor of Two Bears
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -12198,8 +12005,7 @@ sioux189:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.MPN": "Moses Renville", "file.TXO":
-    "Santee Sioux", "file.EFL": "194/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: None (None)
@@ -12215,7 +12021,7 @@ sioux189:
   tempo: null
   title: Song in Honor of Gabriel Renville (a)
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12261,8 +12067,7 @@ sioux190:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.MPN": "Moses Renville", "file.TXO":
-    "Santee Sioux", "file.EFL": "195/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: None (None)
@@ -12278,7 +12083,7 @@ sioux190:
   tempo: null
   title: Song in Honor of Gabriel Renville (b)
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12324,8 +12129,7 @@ sioux191:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "196/245"}'
+  other_fields: '{"contour_class": "C,E"}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -12341,7 +12145,7 @@ sioux191:
   tempo: null
   title: Song in Honor of John Grass
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -12387,8 +12191,7 @@ sioux192:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "197/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hoghang'-luta (Red Fish)
@@ -12404,7 +12207,7 @@ sioux192:
   tempo: null
   title: Song in Honor of Red Fish
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12450,8 +12253,7 @@ sioux193:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "198/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12467,7 +12269,7 @@ sioux193:
   tempo: null
   title: Song of Sitting Bull (a)
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12513,8 +12315,7 @@ sioux194:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "199/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12530,7 +12331,7 @@ sioux194:
   tempo: null
   title: Song of Sitting Bull (b)
   title_translation: null
-  tonality: null
+  tonality: Bb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12576,8 +12377,7 @@ sioux195:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "200/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12593,7 +12393,7 @@ sioux195:
   tempo: null
   title: They Are Charging Them
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12639,8 +12439,7 @@ sioux196:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "201/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12656,7 +12455,7 @@ sioux196:
   tempo: null
   title: Song of the Grass Dance (a)
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12702,8 +12501,7 @@ sioux197:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "202/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12719,7 +12517,7 @@ sioux197:
   tempo: null
   title: Song of the Grass Dance (b)
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12765,8 +12563,7 @@ sioux198:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "203/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12782,7 +12579,7 @@ sioux198:
   tempo: null
   title: Song of the Grass Dance (c)
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -12828,8 +12625,7 @@ sioux199:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "204/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12845,7 +12641,7 @@ sioux199:
   tempo: null
   title: Song of the Grass Dance (d)
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -12891,8 +12687,7 @@ sioux200:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "205/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -12908,7 +12703,7 @@ sioux200:
   tempo: null
   title: Song of the Grass Dance (e)
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -12954,8 +12749,7 @@ sioux201:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "206/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night and wife)
@@ -12971,7 +12765,7 @@ sioux201:
   tempo: null
   title: Song of the Shuffling-feet Dance
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13017,8 +12811,7 @@ sioux202:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "207/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -13034,7 +12827,7 @@ sioux202:
   tempo: null
   title: Song of the Shuffling-feet Dance (b)
   title_translation: null
-  tonality: null
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13080,8 +12873,7 @@ sioux203:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "208/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night and wife)
@@ -13097,7 +12889,7 @@ sioux203:
   tempo: null
   title: Song of the Night Dance
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13143,8 +12935,7 @@ sioux204:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "209/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13160,7 +12951,7 @@ sioux204:
   tempo: null
   title: Begging Song of the Old Women
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13206,8 +12997,7 @@ sioux205:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "210/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -13223,7 +13013,7 @@ sioux205:
   tempo: null
   title: Begging Song
   title_translation: null
-  tonality: null
+  tonality: Db major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13269,8 +13059,7 @@ sioux206:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "211/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13286,7 +13075,7 @@ sioux206:
   tempo: null
   title: Song of the Moccasin Game (a)
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13332,8 +13121,7 @@ sioux207:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "212/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13349,7 +13137,7 @@ sioux207:
   tempo: null
   title: Song of the Moccasin Game (b)
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13395,8 +13183,7 @@ sioux208:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "213/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13412,7 +13199,7 @@ sioux208:
   tempo: null
   title: Song of the Moccasin Game (c)
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13458,8 +13245,7 @@ sioux209:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "214/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13475,7 +13261,7 @@ sioux209:
   tempo: null
   title: Song of the Moccasin Game (d)
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13521,8 +13307,7 @@ sioux210:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "215/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13538,7 +13323,7 @@ sioux210:
   tempo: null
   title: Song of the Moccasin Game (e)
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13584,8 +13369,7 @@ sioux211:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "216/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -13601,7 +13385,7 @@ sioux211:
   tempo: null
   title: Song of the Moccasin Game (f)
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13647,8 +13431,7 @@ sioux212:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "217/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -13664,7 +13447,7 @@ sioux212:
   tempo: null
   title: Game Song
   title_translation: null
-  tonality: null
+  tonality: B major
   tune_family_id: null
   version: null
   voice_use: null
@@ -13710,8 +13493,7 @@ sioux213:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "218/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -13727,7 +13509,7 @@ sioux213:
   tempo: null
   title: Song When a Game Is Almost Won
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13773,8 +13555,7 @@ sioux214:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "219/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -13790,7 +13571,7 @@ sioux214:
   tempo: null
   title: Song of Victory
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13836,8 +13617,7 @@ sioux215:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "220/245"}'
+  other_fields: '{"contour_class": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13853,7 +13633,7 @@ sioux215:
   tempo: null
   title: Song of Little Girl's Play (a)
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13899,8 +13679,7 @@ sioux216:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "221/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13916,7 +13695,7 @@ sioux216:
   tempo: null
   title: Song of Little Girl's Play (b)
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -13962,8 +13741,7 @@ sioux217:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "222/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13979,7 +13757,7 @@ sioux217:
   tempo: null
   title: Lullaby
   title_translation: null
-  tonality: null
+  tonality: D minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14025,8 +13803,7 @@ sioux218:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "223/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -14042,7 +13819,7 @@ sioux218:
   tempo: null
   title: Song of the Maiden's Leap
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14088,8 +13865,7 @@ sioux219:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "224/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -14105,7 +13881,7 @@ sioux219:
   tempo: null
   title: Song of a Ghost
   title_translation: null
-  tonality: null
+  tonality: C# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14151,8 +13927,7 @@ sioux220:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "225/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -14168,7 +13943,7 @@ sioux220:
   tempo: null
   title: The Poor Are Many
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -14214,8 +13989,7 @@ sioux221:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "226/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -14231,7 +14005,7 @@ sioux221:
   tempo: null
   title: I Expect to Give Something
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14277,8 +14051,7 @@ sioux222:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "227/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -14294,7 +14067,7 @@ sioux222:
   tempo: null
   title: Two White Buffalo
   title_translation: null
-  tonality: null
+  tonality: A minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14340,8 +14113,7 @@ sioux223:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "228/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -14357,7 +14129,7 @@ sioux223:
   tempo: null
   title: Take Fresh Courage
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14403,8 +14175,7 @@ sioux224:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "229/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -14420,7 +14191,7 @@ sioux224:
   tempo: null
   title: The White Horse Riders Said This
   title_translation: null
-  tonality: null
+  tonality: C minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14466,8 +14237,7 @@ sioux225:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "230/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Haka'la (Youngest Child)
@@ -14483,7 +14253,7 @@ sioux225:
   tempo: null
   title: Two White Buffalo, Take Courage
   title_translation: null
-  tonality: null
+  tonality: G major
   tune_family_id: null
   version: null
   voice_use: null
@@ -14529,8 +14299,7 @@ sioux226:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "231/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Haka'la (Youngest Child)
@@ -14546,7 +14315,7 @@ sioux226:
   tempo: null
   title: The Tribe You Help
   title_translation: null
-  tonality: null
+  tonality: Eb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -14592,8 +14361,7 @@ sioux227:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "232/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -14609,7 +14377,7 @@ sioux227:
   tempo: null
   title: Whenever the Tribe Assembles
   title_translation: null
-  tonality: null
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14655,8 +14423,7 @@ sioux228:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "233/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -14672,7 +14439,7 @@ sioux228:
   tempo: null
   title: They Depend Upon You
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14718,8 +14485,7 @@ sioux229:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "234/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -14735,7 +14501,7 @@ sioux229:
   tempo: null
   title: I Donated a Horse
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14781,8 +14547,7 @@ sioux230:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "235/245"}'
+  other_fields: '{"contour_class": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -14798,7 +14563,7 @@ sioux230:
   tempo: null
   title: Hence They Come
   title_translation: null
-  tonality: null
+  tonality: D major
   tune_family_id: null
   version: null
   voice_use: null
@@ -14844,8 +14609,7 @@ sioux231:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "236/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -14861,7 +14625,7 @@ sioux231:
   tempo: null
   title: A Short Time
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14907,8 +14671,7 @@ sioux232:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "237/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -14924,7 +14687,7 @@ sioux232:
   tempo: null
   title: Come
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -14970,8 +14733,7 @@ sioux233:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Teton Sioux", "file.EFL":
-    "238/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -14987,7 +14749,7 @@ sioux233:
   tempo: null
   title: Love Song (a)
   title_translation: null
-  tonality: null
+  tonality: C# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15033,8 +14795,7 @@ sioux234:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "239/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -15050,7 +14811,7 @@ sioux234:
   tempo: null
   title: Love Song (b)
   title_translation: null
-  tonality: null
+  tonality: G# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15096,8 +14857,7 @@ sioux235:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "240/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -15113,7 +14873,7 @@ sioux235:
   tempo: null
   title: You Have Relied Upon Me
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15159,8 +14919,7 @@ sioux236:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "241/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -15176,7 +14935,7 @@ sioux236:
   tempo: null
   title: I Have Been Helping
   title_translation: null
-  tonality: null
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15222,8 +14981,7 @@ sioux237:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "242/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chekpa' (Twin)
@@ -15239,7 +14997,7 @@ sioux237:
   tempo: null
   title: Song of the Ticketless Society
   title_translation: null
-  tonality: null
+  tonality: B minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15285,8 +15043,7 @@ sioux238:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "243/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -15302,7 +15059,7 @@ sioux238:
   tempo: null
   title: Song Concerning Fierce Face
   title_translation: null
-  tonality: null
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15348,8 +15105,7 @@ sioux239:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "244/245"}'
+  other_fields: '{"contour_class": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -15365,7 +15121,7 @@ sioux239:
   tempo: null
   title: Song Concerning a Message from Washington
   title_translation: null
-  tonality: null
+  tonality: E minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -15411,8 +15167,7 @@ sioux240:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"file.EEV": "2002/03/31/", "file.TXO": "Santee Sioux", "file.EFL":
-    "245/245"}'
+  other_fields: '{"contour_class": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -15428,7 +15183,7 @@ sioux240:
   tempo: null
   title: Song of the Famine
   title_translation: null
-  tonality: null
+  tonality: F minor
   tune_family_id: null
   version: null
   voice_use: null

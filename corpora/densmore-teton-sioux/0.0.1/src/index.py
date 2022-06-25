@@ -13,7 +13,7 @@ CORPUS_ID = CORPUS_METADATA["dataset_id"]
 
 class DensmoreTetonSiouxEntry(IndexEntry):
 
-    source_names = ["file"]
+    source_names = ["meta", "file"]
 
     constants = dict(
         dataset_id=CORPUS_ID,
@@ -52,6 +52,7 @@ class DensmoreTetonSiouxEntry(IndexEntry):
         publication_page_num="file.PPG",
         publication_song_num="file.ONM",
         comments="file.RNB",
+        tonality="meta.key",
     )
 
     export_unused_fields = True
@@ -98,15 +99,19 @@ class DensmoreTetonSiouxEntry(IndexEntry):
         num = self.get('file.catalog')
         matches = re.match('Catalogue No\\. (\\d+)', num)
         return matches[1]
+    
+    def get_other_fields(self):
+        return dict(contour_classes=self.get("meta.contour_classes"))
 
 def generate_index():
     config = Configuration()
     data_dir = Path(config.get("data_dir")) / CORPUS_ID / CORPUS_VERSION
     index = Index()
     paths = data_dir.glob("data/kern/*.krn")
+    meta_source = CSVSource(CORPUS_DIR / "src/additional-metadata.csv")
     for path in paths:
         entry_id = path.stem
-        sources = dict(file=FileSource(path, root=data_dir))
+        sources = dict(file=FileSource(path, root=data_dir), meta=meta_source)
         entry = DensmoreTetonSiouxEntry(entry_id, sources)
         index.add_entry(entry)
 
