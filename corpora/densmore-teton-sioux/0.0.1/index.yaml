@@ -39,7 +39,7 @@ sioux001:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -101,7 +101,7 @@ sioux002:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -163,7 +163,7 @@ sioux003:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -225,7 +225,7 @@ sioux004:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -287,7 +287,7 @@ sioux005:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -349,7 +349,7 @@ sioux006:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -411,7 +411,7 @@ sioux007:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -473,7 +473,7 @@ sioux008:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -535,7 +535,7 @@ sioux009:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -597,7 +597,7 @@ sioux010:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -659,7 +659,7 @@ sioux011:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -721,7 +721,7 @@ sioux012:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -783,7 +783,7 @@ sioux013:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -845,7 +845,7 @@ sioux014:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -907,7 +907,7 @@ sioux015:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -969,7 +969,7 @@ sioux016:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -1031,7 +1031,7 @@ sioux017:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1093,7 +1093,7 @@ sioux018:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'kasang-lu'ta (Red Weasel)
@@ -1155,7 +1155,7 @@ sioux019:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -1217,7 +1217,7 @@ sioux020:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1279,7 +1279,7 @@ sioux021:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1341,7 +1341,7 @@ sioux022:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tashi'naska'wing (White Robe)
@@ -1403,7 +1403,7 @@ sioux023:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1465,7 +1465,7 @@ sioux024:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1527,7 +1527,7 @@ sioux025:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1589,7 +1589,7 @@ sioux026:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1651,7 +1651,7 @@ sioux027:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1713,7 +1713,7 @@ sioux028:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1775,7 +1775,7 @@ sioux029:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1837,7 +1837,7 @@ sioux030:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -1899,7 +1899,7 @@ sioux031:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -1961,7 +1961,7 @@ sioux032:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2023,7 +2023,7 @@ sioux033:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2085,7 +2085,7 @@ sioux034:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2147,7 +2147,7 @@ sioux035:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -2209,7 +2209,7 @@ sioux036:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Zintka'la-lu'ta (Red Bird)
@@ -2271,7 +2271,7 @@ sioux037:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2333,7 +2333,7 @@ sioux038:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2395,7 +2395,7 @@ sioux039:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2457,7 +2457,7 @@ sioux040:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2519,7 +2519,7 @@ sioux041:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2581,7 +2581,7 @@ sioux042:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -2597,7 +2597,7 @@ sioux042:
   tempo: null
   title: In a Sacred Manner I Return
   title_translation: null
-  tonality: Db major
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -2643,7 +2643,7 @@ sioux043:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -2705,7 +2705,7 @@ sioux044:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2767,7 +2767,7 @@ sioux045:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2829,7 +2829,7 @@ sioux046:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2891,7 +2891,7 @@ sioux047:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -2953,7 +2953,7 @@ sioux048:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3015,7 +3015,7 @@ sioux049:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3077,7 +3077,7 @@ sioux050:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3139,7 +3139,7 @@ sioux051:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3201,7 +3201,7 @@ sioux052:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -3263,7 +3263,7 @@ sioux053:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Itung'-kasang-mato' (Weasel Bear)
@@ -3325,7 +3325,7 @@ sioux054:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -3387,7 +3387,7 @@ sioux055:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -3449,7 +3449,7 @@ sioux056:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3511,7 +3511,7 @@ sioux057:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -3573,7 +3573,7 @@ sioux058:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C,D"}'
+  other_fields: '{"contour_classes": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3635,7 +3635,7 @@ sioux059:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A''"}'
+  other_fields: '{"contour_classes": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -3697,7 +3697,7 @@ sioux060:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-kuwa (Chased-by-Bears)
@@ -3759,7 +3759,7 @@ sioux061:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -3821,7 +3821,7 @@ sioux062:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ishn'la-wicha' (Lone Man)
@@ -3883,7 +3883,7 @@ sioux063:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -3945,7 +3945,7 @@ sioux064:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4007,7 +4007,7 @@ sioux065:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4069,7 +4069,7 @@ sioux066:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -4131,7 +4131,7 @@ sioux067:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -4193,7 +4193,7 @@ sioux068:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -4255,7 +4255,7 @@ sioux069:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wamni'yomni-ho'ta (Gray Whirlwind)
@@ -4317,7 +4317,7 @@ sioux070:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D,A"}'
+  other_fields: '{"contour_classes": "D,A"}'
   percussion_use: null
   performer_genders: null
   performers: Wamni'yomni-ho'ta (Gray Whirlwind)
@@ -4379,7 +4379,7 @@ sioux071:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A''"}'
+  other_fields: '{"contour_classes": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -4441,7 +4441,7 @@ sioux072:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -4503,7 +4503,7 @@ sioux073:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4565,7 +4565,7 @@ sioux074:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4627,7 +4627,7 @@ sioux075:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4689,7 +4689,7 @@ sioux076:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -4751,7 +4751,7 @@ sioux077:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -4813,7 +4813,7 @@ sioux078:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -4875,7 +4875,7 @@ sioux079:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A''"}'
+  other_fields: '{"contour_classes": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -4937,7 +4937,7 @@ sioux080:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -4999,7 +4999,7 @@ sioux081:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5061,7 +5061,7 @@ sioux082:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5123,7 +5123,7 @@ sioux083:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5185,7 +5185,7 @@ sioux084:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5247,7 +5247,7 @@ sioux085:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5309,7 +5309,7 @@ sioux086:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A''"}'
+  other_fields: '{"contour_classes": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5371,7 +5371,7 @@ sioux087:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5433,7 +5433,7 @@ sioux088:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5495,7 +5495,7 @@ sioux089:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -5557,7 +5557,7 @@ sioux090:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'nape'ska (Bear-with-White-Paw)
@@ -5619,7 +5619,7 @@ sioux091:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A''"}'
+  other_fields: '{"contour_classes": "A''"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -5681,7 +5681,7 @@ sioux092:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -5743,7 +5743,7 @@ sioux093:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C,D"}'
+  other_fields: '{"contour_classes": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -5805,7 +5805,7 @@ sioux094:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -5867,7 +5867,7 @@ sioux095:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wakang'-chika'na (Little Conjuror)
@@ -5929,7 +5929,7 @@ sioux096:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Wakang'-chika'na (Little Conjuror)
@@ -5991,7 +5991,7 @@ sioux097:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -6053,7 +6053,7 @@ sioux098:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6115,7 +6115,7 @@ sioux099:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D,E"}'
+  other_fields: '{"contour_classes": "D,E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6177,7 +6177,7 @@ sioux100:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6239,7 +6239,7 @@ sioux101:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6301,7 +6301,7 @@ sioux102:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -6363,7 +6363,7 @@ sioux103:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -6425,7 +6425,7 @@ sioux104:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -6487,7 +6487,7 @@ sioux105:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -6549,7 +6549,7 @@ sioux106:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -6611,7 +6611,7 @@ sioux107:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -6673,7 +6673,7 @@ sioux108:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6735,7 +6735,7 @@ sioux109:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6797,7 +6797,7 @@ sioux110:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-ohi'tika (Brave Buffalo)
@@ -6859,7 +6859,7 @@ sioux111:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -6921,7 +6921,7 @@ sioux112:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -6983,7 +6983,7 @@ sioux113:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -7045,7 +7045,7 @@ sioux114:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-aki'chita (Bear Soldier)
@@ -7107,7 +7107,7 @@ sioux115:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -7169,7 +7169,7 @@ sioux116:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -7231,7 +7231,7 @@ sioux117:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7293,7 +7293,7 @@ sioux118:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7355,7 +7355,7 @@ sioux119:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7417,7 +7417,7 @@ sioux120:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7479,7 +7479,7 @@ sioux121:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -7541,7 +7541,7 @@ sioux122:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waking'yan-wata'kpe (Charging Thunder)
@@ -7603,7 +7603,7 @@ sioux123:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7665,7 +7665,7 @@ sioux124:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7727,7 +7727,7 @@ sioux125a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7789,7 +7789,7 @@ sioux125b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7851,7 +7851,7 @@ sioux126:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatang'ka-wangzhi'la (One Buffalo)
@@ -7913,7 +7913,7 @@ sioux127:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -7975,7 +7975,7 @@ sioux128:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8037,7 +8037,7 @@ sioux129:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -8099,7 +8099,7 @@ sioux130:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8161,7 +8161,7 @@ sioux131:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8223,7 +8223,7 @@ sioux132a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8285,7 +8285,7 @@ sioux132b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8347,7 +8347,7 @@ sioux132c:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -8409,7 +8409,7 @@ sioux133a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8471,7 +8471,7 @@ sioux133b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -8533,7 +8533,7 @@ sioux134:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -8595,7 +8595,7 @@ sioux135:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -8657,7 +8657,7 @@ sioux136:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -8719,7 +8719,7 @@ sioux137:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'wangbli' (Bear Eagle)
@@ -8781,7 +8781,7 @@ sioux138:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -8843,7 +8843,7 @@ sioux139:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "B"}'
+  other_fields: '{"contour_classes": "B"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -8905,7 +8905,7 @@ sioux140:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -8967,7 +8967,7 @@ sioux141:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9029,7 +9029,7 @@ sioux142:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9091,7 +9091,7 @@ sioux143:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -9153,7 +9153,7 @@ sioux144:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -9215,7 +9215,7 @@ sioux145:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C,D"}'
+  other_fields: '{"contour_classes": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9277,7 +9277,7 @@ sioux146:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Maka'-pezhu'tawing (Earth-Medicine Woman)
@@ -9339,7 +9339,7 @@ sioux147:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chanku'lawing (Ms. Lawrence)
@@ -9401,7 +9401,7 @@ sioux148:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chanku'lawing (Ms. Lawrence)
@@ -9463,7 +9463,7 @@ sioux149:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -9525,7 +9525,7 @@ sioux150:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -9587,7 +9587,7 @@ sioux151a:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9649,7 +9649,7 @@ sioux151b:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9711,7 +9711,7 @@ sioux152:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -9773,7 +9773,7 @@ sioux153:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -9835,7 +9835,7 @@ sioux154:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -9897,7 +9897,7 @@ sioux155:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toka'la-lu'ta (Red Fox)
@@ -9959,7 +9959,7 @@ sioux156:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10021,7 +10021,7 @@ sioux157:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10083,7 +10083,7 @@ sioux158:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10145,7 +10145,7 @@ sioux159:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10207,7 +10207,7 @@ sioux160:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wi'yaka-wangzhi'la (One Feather)
@@ -10269,7 +10269,7 @@ sioux161:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C,D"}'
+  other_fields: '{"contour_classes": "C,D"}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10331,7 +10331,7 @@ sioux162:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10393,7 +10393,7 @@ sioux163:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chehu'pa (Jaw)
@@ -10455,7 +10455,7 @@ sioux164:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10517,7 +10517,7 @@ sioux165:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10579,7 +10579,7 @@ sioux166:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10641,7 +10641,7 @@ sioux167:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10703,7 +10703,7 @@ sioux168:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10765,7 +10765,7 @@ sioux169:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Wangbli'-waha'chungka (Eagle Shield)
@@ -10827,7 +10827,7 @@ sioux170:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -10889,7 +10889,7 @@ sioux171:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -10951,7 +10951,7 @@ sioux172:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11013,7 +11013,7 @@ sioux173:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11075,7 +11075,7 @@ sioux174:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11137,7 +11137,7 @@ sioux175:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11199,7 +11199,7 @@ sioux176:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -11261,7 +11261,7 @@ sioux177:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11323,7 +11323,7 @@ sioux178:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11385,7 +11385,7 @@ sioux179:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "D"}'
+  other_fields: '{"contour_classes": "D"}'
   percussion_use: null
   performer_genders: null
   performers: Tatangk'-ehang'ni (Old Buffalo)
@@ -11447,7 +11447,7 @@ sioux180:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11509,7 +11509,7 @@ sioux181:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11571,7 +11571,7 @@ sioux182:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -11633,7 +11633,7 @@ sioux183:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11695,7 +11695,7 @@ sioux184:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Wopo'-tapi (Many Wounds)
@@ -11757,7 +11757,7 @@ sioux185:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -11819,7 +11819,7 @@ sioux186:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -11881,7 +11881,7 @@ sioux187:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -11943,7 +11943,7 @@ sioux188:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -12005,7 +12005,7 @@ sioux189:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: None (None)
@@ -12067,7 +12067,7 @@ sioux190:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: None (None)
@@ -12129,7 +12129,7 @@ sioux191:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C,E"}'
+  other_fields: '{"contour_classes": "C,E"}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -12191,7 +12191,7 @@ sioux192:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hoghang'-luta (Red Fish)
@@ -12253,7 +12253,7 @@ sioux193:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12315,7 +12315,7 @@ sioux194:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -12377,7 +12377,7 @@ sioux195:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12439,7 +12439,7 @@ sioux196:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12501,7 +12501,7 @@ sioux197:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12563,7 +12563,7 @@ sioux198:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12625,7 +12625,7 @@ sioux199:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12687,7 +12687,7 @@ sioux200:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -12749,7 +12749,7 @@ sioux201:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night and wife)
@@ -12811,7 +12811,7 @@ sioux202:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -12873,7 +12873,7 @@ sioux203:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night and wife)
@@ -12935,7 +12935,7 @@ sioux204:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -12997,7 +12997,7 @@ sioux205:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -13059,7 +13059,7 @@ sioux206:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13121,7 +13121,7 @@ sioux207:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13183,7 +13183,7 @@ sioux208:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13245,7 +13245,7 @@ sioux209:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13307,7 +13307,7 @@ sioux210:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -13369,7 +13369,7 @@ sioux211:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -13431,7 +13431,7 @@ sioux212:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -13493,7 +13493,7 @@ sioux213:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Hanghe'-pikte (Kills-at-Night)
@@ -13555,7 +13555,7 @@ sioux214:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -13617,7 +13617,7 @@ sioux215:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "A"}'
+  other_fields: '{"contour_classes": "A"}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13679,7 +13679,7 @@ sioux216:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13741,7 +13741,7 @@ sioux217:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Pahhi'wing (Yellow Hair)
@@ -13803,7 +13803,7 @@ sioux218:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Waha'changka-ya'pi (Used-as-a-Shield)
@@ -13865,7 +13865,7 @@ sioux219:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Waha'chungka-nong'pa (Two Shields)
@@ -13927,7 +13927,7 @@ sioux220:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -13989,7 +13989,7 @@ sioux221:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -14051,7 +14051,7 @@ sioux222:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Toke'ya-wicha'o (Shoots First)
@@ -14113,7 +14113,7 @@ sioux223:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -14175,7 +14175,7 @@ sioux224:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Shiya'ka (Teal Duck)
@@ -14237,7 +14237,7 @@ sioux225:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Haka'la (Youngest Child)
@@ -14299,7 +14299,7 @@ sioux226:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Haka'la (Youngest Child)
@@ -14361,7 +14361,7 @@ sioux227:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -14423,7 +14423,7 @@ sioux228:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Ini'laoeng'wing (Silent Woman)
@@ -14485,7 +14485,7 @@ sioux229:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -14547,7 +14547,7 @@ sioux230:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "C"}'
+  other_fields: '{"contour_classes": "C"}'
   percussion_use: null
   performer_genders: null
   performers: Oku'te (Shooter)
@@ -14609,7 +14609,7 @@ sioux231:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chetang'-hota (Gray Hawk)
@@ -14671,7 +14671,7 @@ sioux232:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-wangbli' (Dog Eagle)
@@ -14733,7 +14733,7 @@ sioux233:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Shung'ka-lu'zahang (Swift Dog)
@@ -14795,7 +14795,7 @@ sioux234:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -14857,7 +14857,7 @@ sioux235:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -14919,7 +14919,7 @@ sioux236:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -14981,7 +14981,7 @@ sioux237:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Chekpa' (Twin)
@@ -15043,7 +15043,7 @@ sioux238:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Malipi'ya-to (Blue Cloud)
@@ -15105,7 +15105,7 @@ sioux239:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": "E"}'
+  other_fields: '{"contour_classes": "E"}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
@@ -15167,7 +15167,7 @@ sioux240:
   lyrics_translation: null
   meters: null
   metric_classification: null
-  other_fields: '{"contour_class": NaN}'
+  other_fields: '{"contour_classes": NaN}'
   percussion_use: null
   performer_genders: null
   performers: Mato'-ite'-wakang (Holy-Face Bear)
