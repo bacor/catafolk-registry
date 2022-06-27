@@ -13,7 +13,7 @@ sioux011,11,C,,Eb major
 sioux012,12,C,,B minor
 sioux013,13,C,,F# minor
 sioux014,14,,,D major
-sioux015,15,C,,D flat major
+sioux015,15,C,,Db major
 sioux016,16,,,C# minor
 sioux017,17,,,A minor
 sioux018,18,,,B minor
@@ -50,7 +50,7 @@ sioux048,48,,,Bb major
 sioux049,49,D,204,F# minor
 sioux050,50,B,,B minor
 sioux051,51,B,,A major
-sioux052,52,B,,D major
+sioux052,52,B,,Db major
 sioux053,53,,,E major
 sioux054,54,,,A major
 sioux055,55,D,204,F major
@@ -62,10 +62,10 @@ sioux060,60,,,C minor
 sioux061,61,,,Gb major
 sioux062,62,,,G minor
 sioux063,63,,,F major
-sioux064,64,B,,Eb major
+sioux064,64,B,,Bb major
 sioux065,65,,,A major
 sioux066,66,D,,Bb minor
-sioux067,67,B,,F minor
+sioux067,67,B,,F# minor
 sioux068,68,B,245,C major
 sioux069,69,,,Bb minor
 sioux070,70,"D,A",245,B major
@@ -74,12 +74,12 @@ sioux072,72,C,,Db minor
 sioux073,73,,,Bb minor
 sioux074,74,B,245,F# minor
 sioux075,75,,,F minor
-sioux076,76,B,245,F minor
+sioux076,76,B,245,F# minor
 sioux077,77,,,Bb minor
 sioux078,78,,,Bb major
 sioux079,79,A',283,D minor
 sioux080,80,C,283,D minor
-sioux081,81,C,283,E minor
+sioux081,81,C,283,Eb minor
 sioux082,82,C,,G minor
 sioux083,83,C,,E minor
 sioux084,84,C,,D minor
@@ -124,7 +124,7 @@ sioux122,122,,,G# minor
 sioux123,123,C,,E major
 sioux124,124,C,,Eb major
 sioux125a,125a,C,,A minor
-sioux125b,125b,C,,A minor
+sioux125b,125b,C,,G minor
 sioux126,126,,,F# minor
 sioux127,127,D,419,F minor
 sioux128,128,,,Bb major
@@ -192,11 +192,11 @@ sioux185,185,C,,D minor
 sioux186,186,C,,A minor
 sioux187,187,C,,F major
 sioux188,188,C,,D major
-sioux189,189,,,F minor
+sioux189,189,,461,F minor
 sioux190,190,C,,F minor
 sioux191,191,"C,E",,B major
 sioux192,192,,,F minor
-sioux193,193,,,Eb minor
+sioux193,193,,361,Eb minor
 sioux194,194,,,Bb minor
 sioux195,195,A,,F minor
 sioux196,196,C,,B minor

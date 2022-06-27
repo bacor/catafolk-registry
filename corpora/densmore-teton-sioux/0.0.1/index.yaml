@@ -923,7 +923,7 @@ sioux015:
   tempo: null
   title: Song Sung after Raising the Sacred Pole (b)
   title_translation: null
-  tonality: D flat major
+  tonality: Db major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3217,7 +3217,7 @@ sioux052:
   tempo: null
   title: I Made It Walk
   title_translation: null
-  tonality: D major
+  tonality: Db major
   tune_family_id: null
   version: null
   voice_use: null
@@ -3961,7 +3961,7 @@ sioux064:
   tempo: null
   title: A Sacred Stone Nation Is Speaking
   title_translation: null
-  tonality: Eb major
+  tonality: Bb major
   tune_family_id: null
   version: null
   voice_use: null
@@ -4147,7 +4147,7 @@ sioux067:
   tempo: null
   title: A Wolf Nation Called Me `Father'
   title_translation: null
-  tonality: F minor
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -4705,7 +4705,7 @@ sioux076:
   tempo: null
   title: Something I Foretold
   title_translation: null
-  tonality: F minor
+  tonality: F# minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -5015,7 +5015,7 @@ sioux081:
   tempo: null
   title: Behold All These Things
   title_translation: null
-  tonality: E minor
+  tonality: Eb minor
   tune_family_id: null
   version: null
   voice_use: null
@@ -7805,7 +7805,7 @@ sioux125b:
   tempo: null
   title: Those Are Not My Interest
   title_translation: null
-  tonality: A minor
+  tonality: G minor
   tune_family_id: null
   version: null
   voice_use: null
